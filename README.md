@@ -9,13 +9,18 @@ Website throw Metamsk login recognize tokens in following networks list to unloc
  
 It's also possible login as anonymous guest with less features.
 
+Play now  ---> [didakoo.com](https://didakoo.com) 
+
+Consult others sections to consult project documentation : 
+
+[...]
 
 
 
 [Twitter](https://twitter.com/didakoo_games) 
 [Medium](https://medium.com/@didakoo) 
 
-Play now  ---> [didakoo.com](https://didakoo.com) 
+info@didakoo.com
 
 
 ![Imgur Image](http://i.imgur.com/fj8XkoO.jpg)
