@@ -4,8 +4,8 @@
 ## Version 1.0.6
 
 An independent multiplyer videogame that integrates a custom minimax algorithm into a single-page website built in Laravel PHP and Vue.js JavaScript. 
-
-System recognize Tokens in following networks : Eth Mainnet , Polygon L2, Base L2 including some of the most historical nfts to unlock extra contents for your avatar in game. In the website you can play as guest in your regular browser or join with Metamask on Ethereum main network. 
+Website throw Metamsk login recognize tokens in following networks list to unlock features in game : Eth Mainnet , Polygon L2, Base L2 also including some of the most iconic nfts. 
+It's also possible login as anonymous guest with less features.
 
 
 
