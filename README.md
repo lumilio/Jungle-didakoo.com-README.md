@@ -11,9 +11,7 @@ It's also possible login as anonymous guest with less features.
 
 Play now  ---> [didakoo.com](https://didakoo.com) 
 
-Consult others sections to consult project documentation : 
-
-[...]
+More documentation : [...]
 
 
 
