@@ -11,8 +11,6 @@ It's also possible login as anonymous guest with less features.
 
 Play now  ---> [didakoo.com](https://didakoo.com) 
 
-More documentation : [...]
-
 
 
 Updates and news on [X](https://twitter.com/didakoo_games) 
