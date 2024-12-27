@@ -15,8 +15,8 @@ More documentation : [...]
 
 
 
-[Twitter](https://twitter.com/didakoo_games) 
-[Medium](https://medium.com/@didakoo) 
+Updates and news on [X](https://twitter.com/didakoo_games) 
+<!-- [Medium](https://medium.com/@didakoo)  -->
 
 info@didakoo.com
 
