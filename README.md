@@ -18,3 +18,14 @@ info@didakoo.com
 ![Imgur Image](http://i.imgur.com/fj8XkoO.jpg)
 
 
+
+
+(
+    (0) Intro Readme
+Jungle is a Web3 browser game hosted in didakoo.com
+In This game no third part advertising and game don’t use your data at all. To play you need no email or password.
+You can join as “no wallet” as anonymous or create your avatar with an Ethereum mainnet gateway wallet.
+più legenda alberatura in readme 
+)
+
+
