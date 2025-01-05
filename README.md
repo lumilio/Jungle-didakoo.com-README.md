@@ -46,3 +46,15 @@ Didakoo has relased in Opensea marketplace some Nfts that make you able to unloc
 ## Db relase 
 
 ## Free to play time  
+
+## Ethereum and Layers 2
+(1) Ethereum e Metamask 
+What is an Ethereum gateway ?
+Ethereum was invented by Vitalik Buterin in 2013, is a decentralized computer powered by blockchain technology.
+More than just a cryptocurrency, it’s the house of Web3 applications, 
+revolutionizing digital ownership and authenticity introducing Non-Fungible Tokens ( NFTs ).
+(1a)
+To join Ethereum and create your avatar in Jungle you just need Metamask , 
+one of the most popular gateway wallet in crypto world.
+story 
+metamask tutorial 
