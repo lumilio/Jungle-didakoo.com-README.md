@@ -29,3 +29,13 @@ più legenda alberatura in readme
 )
 
 
+intro 
+
+immagine 
+
+legenda 
+
+
+how to play 
+
+
