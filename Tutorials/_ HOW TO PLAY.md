@@ -17,6 +17,10 @@
 
 ## Free to play time  
 
+
+
+
+
 An independent multiplyer videogame that integrates a custom minimax algorithm into a single-page website built in Laravel PHP and Vue.js JavaScript. 
 
 Play Jungle didakoo.com in any device. 
@@ -38,17 +42,7 @@ info@didakoo.com
 
 
 
-game rules
-mode 1
-mode 2 
-
-
-user login 
-nft power ups 
-happy hour 
-
-rank system 
-db save periodic 
+ 
 
 
 
