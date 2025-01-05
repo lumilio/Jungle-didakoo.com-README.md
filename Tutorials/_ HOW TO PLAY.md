@@ -1,7 +1,19 @@
 ![Imgur Image](http://i.imgur.com/3SqZpCN.jpg)
 
 
-## Version 1.0.6
+
+
+## How to login
+
+## Jungle
+
+## Rank system 
+
+## Game modes
+
+## Nfts  
+
+## Db relase 
 
 An independent multiplyer videogame that integrates a custom minimax algorithm into a single-page website built in Laravel PHP and Vue.js JavaScript. 
 
