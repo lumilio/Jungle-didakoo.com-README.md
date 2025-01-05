@@ -24,6 +24,9 @@ Jungle - didakoo.com mantains the fundamental rule of the classic board game int
 the initial disposition of animals is randomized in each new room.
 At the end of a match the winner is rewarded with 3 points.
 
+## Game modes
+You can play against computer or challenge a friend in Multiplayer mode by sharing a room link.
+
 ## How to login
 To play you need no email or password. You can join as “no wallet” as anonymous or create your avatar with Metamask wallet.
 
@@ -37,9 +40,6 @@ A significant aspect of Jungle is to benefit top-ranked players;
 grants them the opportunity to showcase their OpenSea accounts and their NFT collections. 
 If you’re playing as “no wallet” you won’t have access to the ranking feature.
 
-## Game modes
-You can play against computer or challenge a friend in Multiplayer mode by sharing a room link.
-
 ## Nfts  
 Didakoo has relased in Opensea marketplace some Nfts that make you able to unlock extra functionality and permissions in game:
 
@@ -47,7 +47,7 @@ Didakoo has relased in Opensea marketplace some Nfts that make you able to unloc
 
 ## Free to play time  
 
-## Ethereum and Layers 2
+## Ethereum & L2 Blockchains
 (1) Ethereum e Metamask 
 What is an Ethereum gateway ?
 Ethereum was invented by Vitalik Buterin in 2013, is a decentralized computer powered by blockchain technology.
