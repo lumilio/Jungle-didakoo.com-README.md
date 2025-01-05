@@ -16,6 +16,8 @@ info@didakoo.com
 
 ![Imgur Image](http://i.imgur.com/fj8XkoO.jpg)
 
+
+## Jungle
 This game is 1 vs 1.
 For all player ages , a match can last 10 sec to 1 hour.
 Jungle - didakoo.com mantains the fundamental rule of the classic board game introducing a twist: 
