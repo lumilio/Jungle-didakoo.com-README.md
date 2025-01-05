@@ -21,3 +21,42 @@ info@didakoo.com
 
 
 ![Imgur Image](http://i.imgur.com/fj8XkoO.jpg)
+
+
+
+game rules
+mode 1
+mode 2 
+
+
+user login 
+nft power ups 
+happy hour 
+
+rank system 
+db save periodic 
+
+
+
+
+
+
+
+
+
+
+(2) How to play 
+This game is 1 vs 1.
+You can play against computer or challenge a friend in Multiplayer mode by sharing a room link.
+For all player ages , a match can last 10 sec to 1 hour.
+Jungle - didakoo.com mantains the fundamental rule of the classic board game introducing a twist: 
+the initial disposition of animals is randomized in each new room.
+(2a)
+On your first Metamask login, your avatar will be created in the game ranking. 
+At the end of a match the winner is rewarded with 3 points.
+A significant aspect of Jungle is to benefit top-ranked players;
+grants them the opportunity to showcase their OpenSea accounts and their NFT collections. 
+If you’re playing as “no wallet” you won’t have access to the ranking feature.
+(2b)
+Nfts Power ups
+Didakoo has relased in Opensea marketplace some Nfts that make you able to unlock extra functionality and permissions in game:
