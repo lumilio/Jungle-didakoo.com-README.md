@@ -15,6 +15,8 @@
 
 ## Db relase 
 
+## Free to play time  
+
 An independent multiplyer videogame that integrates a custom minimax algorithm into a single-page website built in Laravel PHP and Vue.js JavaScript. 
 
 Play Jungle didakoo.com in any device. 
