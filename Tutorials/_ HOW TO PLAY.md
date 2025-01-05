@@ -15,6 +15,11 @@ the initial disposition of animals is randomized in each new room.
 At the end of a match the winner is rewarded with 3 points.
 
 ## How to login
+To play you need no email or password. You can join as “no wallet” as anonymous or create your avatar with Metamask wallet.
+
+Website throw Metamsk login recognize tokens in web3 networks list to unlock features in game : Eth Mainnet , Polygon L2, Base L2 .
+
+It's also possible login as anonymous guest with less features.
 
 ## Rank system 
 On your first Metamask login, your avatar will be created in the game ranking. 
