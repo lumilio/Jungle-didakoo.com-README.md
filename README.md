@@ -27,6 +27,21 @@ At the end of a match the winner is rewarded with 3 points.
 ## Game modes
 You can play against computer or challenge a friend in Multiplayer mode by sharing a room link.
 
+
+<details>
+<summary><h2>Ethereum & L2 Blockchains</h2></summary>
+(1) Ethereum e Metamask 
+What is an Ethereum gateway ?
+Ethereum was invented by Vitalik Buterin in 2013, is a decentralized computer powered by blockchain technology.
+More than just a cryptocurrency, it’s the house of Web3 applications, 
+revolutionizing digital ownership and authenticity introducing Non-Fungible Tokens ( NFTs ).
+(1a)
+To join Ethereum and create your avatar in Jungle you just need Metamask , 
+one of the most popular gateway wallet in crypto world.
+story 
+metamask tutorial 
+</details>
+
 ## Ethereum & L2 Blockchains
 (1) Ethereum e Metamask 
 What is an Ethereum gateway ?
