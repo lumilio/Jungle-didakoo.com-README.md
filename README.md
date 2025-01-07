@@ -59,3 +59,9 @@ Didakoo has relased in Opensea marketplace some Nfts that make you able to unloc
 
 ## Free to play time  
 
+## Business model 
+
+## App code is private 
+
+
+
