@@ -28,9 +28,6 @@ At the end of a match the winner is rewarded with 3 points.
 You can play against computer or challenge a friend in Multiplayer mode by sharing a room link.
 
 
-<details>
-<summary><h4>tap</h4></summary>
-</details>
 
 ## Ethereum & L2 Blockchains
 (1) Ethereum e Metamask 
@@ -65,11 +62,8 @@ Didakoo has relased in Opensea marketplace some Nfts that make you able to unloc
 ## Free to play time  
 
 Every day at 20:00 pm New York timezone the game siwtch in free to play mode, you can play as guest or without jungle pass 
-<details>
-<summary><h4>Show list</h4></summary>
+
 <sub>
-
-
 | Region      | Location                                   | Solar Time         | Offset 1     | Legal Time       | Offset 2            |
 |-------------|-------------------------------------------|---------------------|------------------|--------------------|-------------------------|
 | Australia   | Western Australia                        | 09:00 - 10:00       | UTC+8            |                    |                         |
@@ -115,10 +109,9 @@ Every day at 20:00 pm New York timezone the game siwtch in free to play mode, yo
 | Africa      | Kenya, Uganda, Somalia, Tanzania        | 04:00 - 05:00       | UTC+3            |                    |                         |
 | Africa      | Seychelles, Mauritius                   | 05:00 - 04:00       | UTC+4            |                    |                         |
 | Africa      | Cape Verde Islands                      | 00:00 - 01:00       | UTC-1            |                    |                         |
-
 </sub>
 
-</details>
+
 
 
 ## Business model 
