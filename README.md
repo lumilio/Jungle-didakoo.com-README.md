@@ -65,12 +65,8 @@ Didakoo has relased in Opensea marketplace some Nfts that make you able to unloc
 ## Free to play time  
 
 Every day at 20:00 pm New York timezone the game siwtch in free to play mode, you can play as guest or without jungle pass 
-
 <details>
-<summary><h4>tap</h4></summary>
-
-
-
+<summary><h4>Show list</h4></summary>
 <sub>
 
 
