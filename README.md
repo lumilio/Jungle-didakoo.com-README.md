@@ -66,14 +66,14 @@ Every day at 20:00 pm New York timezone the game siwtch in free to play mode, yo
 | Australia   | Western Australia                        | 09:00 - 10:00       | UTC+8            |                    |                         |
 | Australia   | Northern Territory                       | 10:30 - 11:30       | UTC+9:30         |                    |                         |
 | Australia   | Queensland                               | 11:00 - 12:00       | UTC+10           |                    |                         |
-| Australia   | South Australia                          | 10:30 - 11:30       | UTC+9:30         | 11:30 - 12:30      | UTC+10:30 (ACDT)        |
+| Australia   | South Australia                          | 10:30 - 11:30       | UTC+9:30         | 11:30 - 12:30      | UTC+10:30         |
 | Australia   | New South Wales                          | 11:00 - 12:00       | UTC+10           | 12:00 - 13:00      | UTC+11           |
 | Australia   | Victoria                                 | 11:00 - 12:00       | UTC+10           | 12:00 - 13:00      | UTC+11           |
 | Australia   | Tasmania                                 | 11:00 - 12:00       | UTC+10           | 12:00 - 13:00      | UTC+11           |
 | Australia   | Australian Capital Territory             | 11:00 - 12:00       | UTC+10           | 12:00 - 13:00      | UTC+11           |
 | Europe      | UK, Ireland                              | 01:00 - 02:00       | UTC+0            | 02:00 - 03:00      | UTC+1             |
 | Europe      | Portugal                                 | 01:00 - 02:00       | UTC+0            | 02:00 - 03:00      | UTC+1             |
-| Europe      | France, Germany, Belgium                | 02:00 - 03:00       | UTC+1            | 03:00 - 04:00      | UTC+2 (CEST)            |
+| Europe      | France, Germany, Belgium                | 02:00 - 03:00       | UTC+1            | 03:00 - 04:00      | UTC+2             |
 | Europe      | Spain                                    | 02:00 - 03:00       | UTC+1            | 03:00 - 04:00      | UTC+2             |
 | Europe      | Italy                                    | 02:00 - 03:00       | UTC+1            | 03:00 - 04:00      | UTC+2             |
 | Europe      | Poland                                   | 02:00 - 03:00       | UTC+1            | 03:00 - 04:00      | UTC+2             |
