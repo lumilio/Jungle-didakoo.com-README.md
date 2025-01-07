@@ -27,19 +27,9 @@ At the end of a match the winner is rewarded with 3 points.
 ## Game modes
 You can play against computer or challenge a friend in Multiplayer mode by sharing a room link.
 
-## Ethereum & L2 Blockchains
+
 <details>
 <summary><h4>tap</h4></summary>
-(1) Ethereum e Metamask 
-What is an Ethereum gateway ?
-Ethereum was invented by Vitalik Buterin in 2013, is a decentralized computer powered by blockchain technology.
-More than just a cryptocurrency, it’s the house of Web3 applications, 
-revolutionizing digital ownership and authenticity introducing Non-Fungible Tokens ( NFTs ).
-(1a)
-To join Ethereum and create your avatar in Jungle you just need Metamask , 
-one of the most popular gateway wallet in crypto world.
-story 
-metamask tutorial 
 </details>
 
 ## Ethereum & L2 Blockchains
@@ -75,6 +65,10 @@ Didakoo has relased in Opensea marketplace some Nfts that make you able to unloc
 ## Free to play time  
 
 Every day at 20:00 pm New York timezone the game siwtch in free to play mode, you can play as guest or without jungle pass 
+
+<details>
+<summary><h4>tap</h4></summary>
+
 
 
 <sub>
@@ -128,7 +122,7 @@ Every day at 20:00 pm New York timezone the game siwtch in free to play mode, yo
 
 </sub>
 
-
+</details>
 
 
 ## Business model 
