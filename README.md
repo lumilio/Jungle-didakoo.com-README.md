@@ -27,9 +27,9 @@ At the end of a match the winner is rewarded with 3 points.
 ## Game modes
 You can play against computer or challenge a friend in Multiplayer mode by sharing a room link.
 
-
+## Ethereum & L2 Blockchains
 <details>
-<summary><h2>Ethereum & L2 Blockchains</h2></summary>
+<summary><h4>tap</h4></summary>
 (1) Ethereum e Metamask 
 What is an Ethereum gateway ?
 Ethereum was invented by Vitalik Buterin in 2013, is a decentralized computer powered by blockchain technology.
