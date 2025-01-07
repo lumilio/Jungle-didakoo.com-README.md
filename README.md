@@ -67,16 +67,16 @@ Every day at 20:00 pm New York timezone the game siwtch in free to play mode, yo
 | Australia   | Northern Territory                       | 10:30 - 11:30       | UTC+9:30         |                    |                         |
 | Australia   | Queensland                               | 11:00 - 12:00       | UTC+10           |                    |                         |
 | Australia   | South Australia                          | 10:30 - 11:30       | UTC+9:30         | 11:30 - 12:30      | UTC+10:30 (ACDT)        |
-| Australia   | New South Wales                          | 11:00 - 12:00       | UTC+10           | 12:00 - 13:00      | UTC+11 (AEDT)           |
-| Australia   | Victoria                                 | 11:00 - 12:00       | UTC+10           | 12:00 - 13:00      | UTC+11 (AEDT)           |
-| Australia   | Tasmania                                 | 11:00 - 12:00       | UTC+10           | 12:00 - 13:00      | UTC+11 (AEDT)           |
-| Australia   | Australian Capital Territory             | 11:00 - 12:00       | UTC+10           | 12:00 - 13:00      | UTC+11 (AEDT)           |
-| Europe      | UK, Ireland                              | 01:00 - 02:00       | UTC+0            | 02:00 - 03:00      | UTC+1 (WEST)            |
-| Europe      | Portugal                                 | 01:00 - 02:00       | UTC+0            | 02:00 - 03:00      | UTC+1 (WEST)            |
+| Australia   | New South Wales                          | 11:00 - 12:00       | UTC+10           | 12:00 - 13:00      | UTC+11           |
+| Australia   | Victoria                                 | 11:00 - 12:00       | UTC+10           | 12:00 - 13:00      | UTC+11           |
+| Australia   | Tasmania                                 | 11:00 - 12:00       | UTC+10           | 12:00 - 13:00      | UTC+11           |
+| Australia   | Australian Capital Territory             | 11:00 - 12:00       | UTC+10           | 12:00 - 13:00      | UTC+11           |
+| Europe      | UK, Ireland                              | 01:00 - 02:00       | UTC+0            | 02:00 - 03:00      | UTC+1             |
+| Europe      | Portugal                                 | 01:00 - 02:00       | UTC+0            | 02:00 - 03:00      | UTC+1             |
 | Europe      | France, Germany, Belgium                | 02:00 - 03:00       | UTC+1            | 03:00 - 04:00      | UTC+2 (CEST)            |
-| Europe      | Spain                                    | 02:00 - 03:00       | UTC+1            | 03:00 - 04:00      | UTC+2 (CEST)            |
-| Europe      | Italy                                    | 02:00 - 03:00       | UTC+1            | 03:00 - 04:00      | UTC+2 (CEST)            |
-| Europe      | Poland                                   | 02:00 - 03:00       | UTC+1            | 03:00 - 04:00      | UTC+2 (CEST)            |
+| Europe      | Spain                                    | 02:00 - 03:00       | UTC+1            | 03:00 - 04:00      | UTC+2             |
+| Europe      | Italy                                    | 02:00 - 03:00       | UTC+1            | 03:00 - 04:00      | UTC+2             |
+| Europe      | Poland                                   | 02:00 - 03:00       | UTC+1            | 03:00 - 04:00      | UTC+2             |
 | Europe      | Greece, Romania                         | 03:00 - 04:00       | UTC+2            | 04:00 - 05:00      | UTC+3 (EEST)            |
 | Europe      | Turkey                                   | 04:00 - 05:00       | UTC+3            | 04:00 - 05:00      |                         |
 | Europe      | Belarus                                  | 04:00 - 05:00       | UTC+3            |                    |                         |
@@ -90,10 +90,10 @@ Every day at 20:00 pm New York timezone the game siwtch in free to play mode, yo
 | Asia        | Australia (Central)                     | 10:30 - 11:30       | UTC+9:30         |                    |                         |
 | Asia        | Malaysia                                 | 09:00 - 10:00       | UTC+8            |                    |                         |
 | Asia        | Nepal                                    | 06:45 - 07:45       | UTC+5:45         |                    |                         |
-| Americas    | Canada (West)                           | 17:00 - 18:00       | UTC-8            | 18:00 - 19:00      | UTC-7 (PDT)             |
-| Americas    | USA (California, Washington)            | 17:00 - 18:00       | UTC-8            | 18:00 - 19:00      | UTC-7 (PDT)             |
-| Americas    | USA (Texas, Illinois)                   | 19:00 - 20:00       | UTC-6            | 20:00 - 21:00      | UTC-5 (CDT)             |
-| Americas    | USA (New York, Florida)                 | 20:00 - 21:00       | UTC-5            | 21:00 - 22:00      | UTC-4 (EDT)             |
+| Americas    | Canada (West)                           | 17:00 - 18:00       | UTC-8            | 18:00 - 19:00      | UTC-7              |
+| Americas    | USA (California, Washington)            | 17:00 - 18:00       | UTC-8            | 18:00 - 19:00      | UTC-7              |
+| Americas    | USA (Texas, Illinois)                   | 19:00 - 20:00       | UTC-6            | 20:00 - 21:00      | UTC-5              |
+| Americas    | USA (New York, Florida)                 | 20:00 - 21:00       | UTC-5            | 21:00 - 22:00      | UTC-4              |
 | Americas    | Mexico                                  | 19:00 - 20:00       | UTC-6            | 20:00 - 21:00      | UTC-5                   |
 | Americas    | Cuba                                    | 20:00 - 21:00       | UTC-5            | 21:00 - 22:00      | UTC-4                   |
 | Americas    | Brazil (Brasilia)                       | 23:00 - 00:00       | UTC-3            | 23:00 - 00:00      | UTC-2                   |
