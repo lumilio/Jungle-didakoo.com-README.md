@@ -60,8 +60,60 @@ Didakoo has relased in Opensea marketplace some Nfts that make you able to unloc
 ## Free to play time  
 
 ## Business model 
+Game system recognize didakoo's Nfts, 
+This is "one time purchase" videogame.
+
+Sellin didakoo Nfts is the only business of the project:
+
+https://opensea.io/collection/didakoo-items
+https://opensea.io/collection/didakoo-items-2024
+https://opensea.io/collection/didakoo-polygon-2024
+https://opensea.io/collection/didakoo-base-2024-1
+
+0xf1e51457504edc0321DE4B6bA4403A1464c2B897
+0x69D96b32F731567cA61A36AAE26d387dD82b1D83
+
+The features you unlock in game will be yours forever, no subscription.
+No third part advertising in Jungle didakoo.com
+
+
+
+Questo è un videogioco indipendente che si interfaccia alle seguenti Blockchain :
+- Ethereum Mainnet
+- Polygon
+- Base
+
+
+A seguito di innuemerevoli transazioni sulla blockchain di ethereum e di qualifiche di proprietà intellettuale 
+sotto forma di tokens sulla medesima chain , come : .crypto .base .eth
+
+0xf1e51457504edc0321DE4B6bA4403A1464c2B897
+0x69D96b32F731567cA61A36AAE26d387dD82b1D83
+0x13339b04E4f54965bF9b9EBaF25dB1B5091e7b77
+0xF83611F45e11b590eBB9FdABa9ee12e7Dc9E9393
+
+
+il progetto didakoo.com Jungle si proclama legittimo di operare garantendo la completa tutela dei seguenti dati : [...]
+Il sito non mostra pubblicità di terze parti
+
+la scelta dell'utilizzo di Metamask come wallet per accedere al gioco è volta alla facilità di creazione 
+di un wallet vergine dando la possibilità ai giocatori di interagire con il sito con sicurezza elevata,
+
+Metamask consente di creare infiniti wallet a costo 0. 
+how to install metamask ( loading ... tutorial section ... ) 
 
 ## App code is private 
+After a careful evaluation of potential risks that could harm both Didakoo brand and its customers, 
+I have decided to make the GitHub repository containing the game’s code private. 
+This decision stems from the need to safeguard intellectual property, 
+maintain quality control, and ensure a secure experience for users.
+
+One of the primary concerns is that malicious actors could copy the code to create fraudulent versions of the game, 
+potentially using them for phishing scams. Such replicas could deceive users into providing sensitive information, 
+putting both their data and the reputation of the Didakoo brand at risk. By restricting access to the code, 
+I aim to prevent these threats and protect our customers from harmful exploitation. 
+This measure ensures that only authorized contributors have access, 
+allowing us to deliver a secure and authentic software.
 
 
 
