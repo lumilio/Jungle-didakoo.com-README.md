@@ -61,6 +61,8 @@ Didakoo has relased in Opensea marketplace some Nfts that make you able to unloc
 
 Every day at 20:00 pm New York timezone the game siwtch in free to play mode, you can play as guest or without jungle pass 
 
+
+<div style="font-size: 10px;">
 | Region      | Location                                   | Solar Time         | Offset 1     | Legal Time       | Offset 2            |
 |-------------|-------------------------------------------|---------------------|------------------|--------------------|-------------------------|
 | Australia   | Western Australia                        | 09:00 - 10:00       | UTC+8            |                    |                         |
@@ -107,7 +109,7 @@ Every day at 20:00 pm New York timezone the game siwtch in free to play mode, yo
 | Africa      | Seychelles, Mauritius                   | 05:00 - 04:00       | UTC+4            |                    |                         |
 | Africa      | Cape Verde Islands                      | 00:00 - 01:00       | UTC-1            |                    |                         |
 
-
+</div>
 
 
 
