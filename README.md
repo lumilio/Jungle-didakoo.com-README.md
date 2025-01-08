@@ -120,9 +120,9 @@ Every day at 20:00 pm New York timezone the game siwtch in free to play mode, yo
 ## Business model 
 
 This is "one time purchase" videogame.
-No third part advertising in Jungle didakoo.com
-Sellin didakoo Nfts is the only business of the project:
-Game system recognize the following Nfts collections, 
+No third part advertising in Jungle didakoo.com ,
+sellin didakoo Nfts is the only business of the project,
+Game system recognize the following Nfts collections: 
 
 - [didakoo items](https://opensea.io/collection/didakoo-items")
 - [didakoo items 2024](https://opensea.io/collection/didakoo-items-2024") 
@@ -144,10 +144,7 @@ Game system recognize the following Nfts collections,
 
 
 
-https://opensea.io/collection/didakoo-items
-https://opensea.io/collection/didakoo-items-2024
-https://opensea.io/collection/didakoo-polygon-2024
-https://opensea.io/collection/didakoo-base-2024-1
+
 
 0xf1e51457504edc0321DE4B6bA4403A1464c2B897
 0x69D96b32F731567cA61A36AAE26d387dD82b1D83
