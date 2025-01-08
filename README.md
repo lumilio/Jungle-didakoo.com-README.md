@@ -2,12 +2,8 @@
 
 
 ## Version 1.0.6
-
-An independent multiplyer videogame that integrates a custom minimax algorithm into a single-page website built in Laravel PHP and Vue.js JavaScript. 
-
-Play Jungle didakoo.com in any device. 
-
-Jungle is a Web3 browser game hosted in didakoo.com ---> [didakoo.com](https://didakoo.com) , Updates and news on [X](https://twitter.com/didakoo_games) 
+Jungle is a Web3 browser game hosted in didakoo.com ---> [didakoo.com](https://didakoo.com) , 
+Play Jungle didakoo.com in any device. Updates and news on [X](https://twitter.com/didakoo_games) 
 <!-- [Medium](https://medium.com/@didakoo)  -->
 
 In This game no third part advertising all data saved will be relased periodically. 
@@ -166,6 +162,9 @@ Game system recognize the following Nfts collections :
 
 
 ## App code is private 
+
+Single-Page WebApp Multiplyer Videogame with custom minimax algorithm built in Laravel (PHP) and Vue.js (JavaScript). 
+
 After a careful evaluation of potential risks that could harm both Didakoo brand and its customers, 
 I have decided to make the GitHub repository containing the game’s code private. 
 This decision stems from the need to safeguard intellectual property, 
