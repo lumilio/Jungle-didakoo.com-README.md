@@ -65,8 +65,6 @@ If you’re playing as “no wallet” you won’t have access to the ranking fe
 
 
 
-## Db relase 
-
 
 
 
