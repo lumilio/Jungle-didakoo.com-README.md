@@ -187,7 +187,11 @@ sotto forma di tokens sulla medesima chain , come : .crypto .base .eth
 4. 0xF83611F45e11b590eBB9FdABa9ee12e7Dc9E9393
 
 
-il progetto didakoo.com Jungle si proclama legittimo di operare garantendo la completa tutela dei seguenti dati : [...]
+il progetto didakoo.com Jungle si proclama legittimo di operare garantendo la completa tutela dei  dati del giocatore adottando una politica di completa trasparenza.
+
+Non è necessario fornire nessun dato sensibile alla privacy del giocatore 
+
+Publicando l'intero archivio di dati di gioco in modo ricorrente nel percorso : 
 Il sito non mostra pubblicità di terze parti
 
 la scelta dell'utilizzo di Metamask come wallet per accedere al gioco è volta alla facilità di creazione 
