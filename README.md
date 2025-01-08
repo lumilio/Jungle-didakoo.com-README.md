@@ -123,41 +123,60 @@ This is "one time purchase" videogame.
 No third part advertising in Jungle didakoo.com,
 sellin didakoo Nfts is the only business of the project.
 
-Game system recognize the following Nfts collections :  
-
--[didakoo items](https://opensea.io/collection/didakoo-items")
--[didakoo items 2024](https://opensea.io/collection/didakoo-items-2024") 
--[didakoo Polygon 2024](https://opensea.io/collection/didakoo-polygon-2024") 
--[Jungle Base pass 1](https://opensea.io/collection/didakoo-base-2024-1") 
--[CryptoKitties](https://opensea.io/collection/cryptokitties")
--[Bored Ape Yacht Club](https://opensea.io/collection/boredapeyachtclub") 
--[CryptoPunk](https://opensea.io/collection/cryptopunks")
--[Polychain Monster](https://opensea.io/collection/polychainmonsters")
--[The Sandbox LANDs](https://opensea.io/collection/sandbox")
--[Doodles](https://opensea.io/collection/doodles-official") 
--[Hash Masks](https://opensea.io/collection/hashmasks")
--[Adidas IMPOSSIBLE BOX](https://opensea.io/collection/adidascapsule")  
--[RTFKT x Nike Dunk Genesis CRYPTOKICKS](https://opensea.io/collection/rtfkt-nike-cryptokicks") 
--[Pepsi Mic Drop](https://opensea.io/collection/pepsi-mic-drop") 
--[Lacoste UNDW3: The Emerge](https://opensea.io/collection/lacoste-undw3-the-emerge") 
--[Decentraland](https://opensea.io/collection/decentraland") 
-
-
-
-
-https://opensea.io/collection/didakoo-items
-https://opensea.io/collection/didakoo-items-2024
-https://opensea.io/collection/didakoo-polygon-2024
-https://opensea.io/collection/didakoo-base-2024-1
-
 0xf1e51457504edc0321DE4B6bA4403A1464c2B897
 0x69D96b32F731567cA61A36AAE26d387dD82b1D83
+
+- https://opensea.io/collection/didakoo-items
+- https://opensea.io/collection/didakoo-items-2024
+- https://opensea.io/collection/didakoo-polygon-2024
+- https://opensea.io/collection/didakoo-base-2024-1
+
+
+Game system recognize the following Nfts collections :  
+
+- [didakoo items](https://opensea.io/collection/didakoo-items")
+- [didakoo items 2024](https://opensea.io/collection/didakoo-items-2024") 
+- [didakoo Polygon 2024](https://opensea.io/collection/didakoo-polygon-2024") 
+- [Jungle Base pass 1](https://opensea.io/collection/didakoo-base-2024-1") 
+- [CryptoKitties](https://opensea.io/collection/cryptokitties")
+- [Bored Ape Yacht Club](https://opensea.io/collection/boredapeyachtclub") 
+- [CryptoPunk](https://opensea.io/collection/cryptopunks")
+- [Polychain Monster](https://opensea.io/collection/polychainmonsters")
+- [The Sandbox LANDs](https://opensea.io/collection/sandbox")
+- [Doodles](https://opensea.io/collection/doodles-official") 
+- [Hash Masks](https://opensea.io/collection/hashmasks")
+- [Adidas IMPOSSIBLE BOX](https://opensea.io/collection/adidascapsule")  
+- [RTFKT x Nike Dunk Genesis CRYPTOKICKS](https://opensea.io/collection/rtfkt-nike-cryptokicks") 
+- [Pepsi Mic Drop](https://opensea.io/collection/pepsi-mic-drop") 
+- [Lacoste UNDW3: The Emerge](https://opensea.io/collection/lacoste-undw3-the-emerge") 
+- [Decentraland](https://opensea.io/collection/decentraland") 
+
 
 The features you unlock in game will be yours forever, no subscription.
 No third part advertising in Jungle didakoo.com
 
 
 
+
+## App code is private 
+After a careful evaluation of potential risks that could harm both Didakoo brand and its customers, 
+I have decided to make the GitHub repository containing the game’s code private. 
+This decision stems from the need to safeguard intellectual property, 
+maintain quality control, and ensure a secure experience for users.
+
+One of the primary concerns is that malicious actors could copy the code to create fraudulent versions of the game, 
+potentially using them for phishing scams. Such replicas could deceive users into providing sensitive information, 
+putting both their data and the reputation of the Didakoo brand at risk. By restricting access to the code, 
+I aim to prevent these threats and protect our customers from harmful exploitation. 
+This measure ensures that only authorized contributors have access, 
+allowing us to deliver a secure and authentic software.
+
+
+## Contributors
+
+
+
+## Credentials
 Questo è un videogioco indipendente che si interfaccia alle seguenti Blockchain :
 - Ethereum Mainnet
 - Polygon
@@ -181,26 +200,5 @@ di un wallet vergine dando la possibilità ai giocatori di interagire con il sit
 
 Metamask consente di creare infiniti wallet a costo 0. 
 how to install metamask ( loading ... tutorial section ... ) 
-
-## App code is private 
-After a careful evaluation of potential risks that could harm both Didakoo brand and its customers, 
-I have decided to make the GitHub repository containing the game’s code private. 
-This decision stems from the need to safeguard intellectual property, 
-maintain quality control, and ensure a secure experience for users.
-
-One of the primary concerns is that malicious actors could copy the code to create fraudulent versions of the game, 
-potentially using them for phishing scams. Such replicas could deceive users into providing sensitive information, 
-putting both their data and the reputation of the Didakoo brand at risk. By restricting access to the code, 
-I aim to prevent these threats and protect our customers from harmful exploitation. 
-This measure ensures that only authorized contributors have access, 
-allowing us to deliver a secure and authentic software.
-
-
-## Contributors
-
-
-
-
-
 
 
