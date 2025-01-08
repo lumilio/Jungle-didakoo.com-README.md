@@ -30,6 +30,15 @@ You can play against computer or challenge a friend in Multiplayer mode by shari
 
 
 ## Ethereum & L2 Blockchains
+
+la scelta dell'utilizzo di Metamask come wallet per accedere al gioco è volta alla facilità di creazione 
+di un wallet vergine dando la possibilità ai giocatori di interagire con il sito con sicurezza elevata,
+
+Metamask consente di creare infiniti wallet a costo 0. 
+how to install metamask ( loading ... tutorial section ... ) 
+
+
+
 (1) Ethereum e Metamask 
 What is an Ethereum gateway ?
 Ethereum was invented by Vitalik Buterin in 2013, is a decentralized computer powered by blockchain technology.
@@ -187,17 +196,19 @@ sotto forma di tokens sulla medesima chain , come : .crypto .base .eth
 4. 0xF83611F45e11b590eBB9FdABa9ee12e7Dc9E9393
 
 
-il progetto didakoo.com Jungle si proclama legittimo di operare garantendo la completa tutela dei  dati del giocatore adottando una politica di completa trasparenza.
+il progetto didakoo.com Jungle si proclama legittimo di operare 
 
-Non è necessario fornire nessun dato sensibile alla privacy del giocatore 
 
-Publicando l'intero archivio di dati di gioco in modo ricorrente nel percorso : 
+
+Per giocare non è necessario fornire nessun dato sensibile alla privacy del utente, adottando una politica di completa trasparenza; l'intero archivio dei dati di gioco verrà publicato nella repo [] in modo ricorrente. 
+
+il progetto didakoo.com Jungle si proclama legittimo di operare 
 Il sito non mostra pubblicità di terze parti
 
-la scelta dell'utilizzo di Metamask come wallet per accedere al gioco è volta alla facilità di creazione 
-di un wallet vergine dando la possibilità ai giocatori di interagire con il sito con sicurezza elevata,
 
-Metamask consente di creare infiniti wallet a costo 0. 
-how to install metamask ( loading ... tutorial section ... ) 
+
+
+
+
 
 
