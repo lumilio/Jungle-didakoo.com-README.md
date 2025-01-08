@@ -131,7 +131,7 @@ sellin didakoo Nfts is the only business of the project.
 - https://opensea.io/collection/didakoo-polygon-2024
 - https://opensea.io/collection/didakoo-base-2024-1
 
-
+The features you unlock with Nfts will be yours forever, no subscription.
 Game system recognize the following Nfts collections :  
 
 - [didakoo items](https://opensea.io/collection/didakoo-items")
@@ -152,8 +152,8 @@ Game system recognize the following Nfts collections :
 - [Decentraland](https://opensea.io/collection/decentraland") 
 
 
-The features you unlock in game will be yours forever, no subscription.
-No third part advertising in Jungle didakoo.com
+
+
 
 
 
