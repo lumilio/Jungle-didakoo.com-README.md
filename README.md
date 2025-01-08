@@ -120,31 +120,35 @@ Every day at 20:00 pm New York timezone the game siwtch in free to play mode, yo
 ## Business model 
 
 This is "one time purchase" videogame.
-No third part advertising in Jungle didakoo.com ,
-sellin didakoo Nfts is the only business of the project,
-Game system recognize the following Nfts collections: 
+No third part advertising in Jungle didakoo.com,
+sellin didakoo Nfts is the only business of the project.
 
-- [didakoo items](https://opensea.io/collection/didakoo-items")
-- [didakoo items 2024](https://opensea.io/collection/didakoo-items-2024") 
-- [didakoo Polygon 2024](https://opensea.io/collection/didakoo-polygon-2024") 
-- [Jungle Base pass 1](https://opensea.io/collection/didakoo-base-2024-1") 
-- [CryptoKitties](https://opensea.io/collection/cryptokitties")
-- [Bored Ape Yacht Club](https://opensea.io/collection/boredapeyachtclub") 
-- [CryptoPunk](https://opensea.io/collection/cryptopunks")
-- [Polychain Monster](https://opensea.io/collection/polychainmonsters")
-- [The Sandbox LANDs](https://opensea.io/collection/sandbox")
-- [Doodles](https://opensea.io/collection/doodles-official") 
-- [Hash Masks](https://opensea.io/collection/hashmasks")
-- [Adidas IMPOSSIBLE BOX](https://opensea.io/collection/adidascapsule")  
-- [RTFKT x Nike Dunk Genesis CRYPTOKICKS](https://opensea.io/collection/rtfkt-nike-cryptokicks") 
-- [Pepsi Mic Drop](https://opensea.io/collection/pepsi-mic-drop") 
-- [Lacoste UNDW3: The Emerge](https://opensea.io/collection/lacoste-undw3-the-emerge") 
-- [Decentraland](https://opensea.io/collection/decentraland") 
+Game system recognize the following Nfts collections :  
 
-
-
+-[didakoo items](https://opensea.io/collection/didakoo-items")
+-[didakoo items 2024](https://opensea.io/collection/didakoo-items-2024") 
+-[didakoo Polygon 2024](https://opensea.io/collection/didakoo-polygon-2024") 
+-[Jungle Base pass 1](https://opensea.io/collection/didakoo-base-2024-1") 
+-[CryptoKitties](https://opensea.io/collection/cryptokitties")
+-[Bored Ape Yacht Club](https://opensea.io/collection/boredapeyachtclub") 
+-[CryptoPunk](https://opensea.io/collection/cryptopunks")
+-[Polychain Monster](https://opensea.io/collection/polychainmonsters")
+-[The Sandbox LANDs](https://opensea.io/collection/sandbox")
+-[Doodles](https://opensea.io/collection/doodles-official") 
+-[Hash Masks](https://opensea.io/collection/hashmasks")
+-[Adidas IMPOSSIBLE BOX](https://opensea.io/collection/adidascapsule")  
+-[RTFKT x Nike Dunk Genesis CRYPTOKICKS](https://opensea.io/collection/rtfkt-nike-cryptokicks") 
+-[Pepsi Mic Drop](https://opensea.io/collection/pepsi-mic-drop") 
+-[Lacoste UNDW3: The Emerge](https://opensea.io/collection/lacoste-undw3-the-emerge") 
+-[Decentraland](https://opensea.io/collection/decentraland") 
 
 
+
+
+https://opensea.io/collection/didakoo-items
+https://opensea.io/collection/didakoo-items-2024
+https://opensea.io/collection/didakoo-polygon-2024
+https://opensea.io/collection/didakoo-base-2024-1
 
 0xf1e51457504edc0321DE4B6bA4403A1464c2B897
 0x69D96b32F731567cA61A36AAE26d387dD82b1D83
