@@ -125,6 +125,21 @@ Every day at 20:00pm to 21:00pm in New York time zone Jungle pass is temporarily
 
 ## Business model e Nfts
 
+Questo è un videogioco indipendente che si interfaccia alle seguenti Blockchain : Ethereum Mainnet, Polygon L2, Base L2
+
+A seguito di numerose transazioni sulla blockchain di ethereum e di certificazione del possesso di qualifiche di proprietà intellettuale sotto forma di tokens ERC-721 e ERC-1155 sulla medesima chain , come : .crypto .base .eth
+
+1. 0xf1e51457504edc0321DE4B6bA4403A1464c2B897
+2. 0x69D96b32F731567cA61A36AAE26d387dD82b1D83
+3. 0x13339b04E4f54965bF9b9EBaF25dB1B5091e7b77
+4. 0xF83611F45e11b590eBB9FdABa9ee12e7Dc9E9393
+
+il progetto didakoo.com Jungle si proclama legittimo di operare 
+
+Per giocare non è necessario fornire nessun dato sensibile alla privacy del utente, adottando una politica di completa trasparenza; l'intero archivio dei dati di gioco verrà publicato nella repo [] in modo ricorrente. 
+
+Il sito non mostra pubblicità di terze parti
+
 Didakoo has relased in Opensea marketplace some Nfts that make you able to unlock extra functionalitys and permissions in game. No third part advertising in Jungle didakoo.com, Sellin didakoo Nfts is the only entrance of the project.
 
 This is "one time purchase" videogame.
@@ -188,31 +203,6 @@ allowing us to deliver a secure and authentic software.
 <img src="https://imgur.com/e60LCHg.jpg" alt="drawing" style="width:300px;"/>
 
 
-
-
-
-
-
-
-
-
-
-## Credentials
-
-Questo è un videogioco indipendente che si interfaccia alle seguenti Blockchain : Ethereum Mainnet, Polygon L2, Base L2
-
-A seguito di innuemerevoli transazioni sulla blockchain di ethereum e di certificazione del possesso di qualifiche di proprietà intellettuale sotto forma di tokens ERC-721 e ERC-1155 sulla medesima chain , come : .crypto .base .eth
-
-1. 0xf1e51457504edc0321DE4B6bA4403A1464c2B897
-2. 0x69D96b32F731567cA61A36AAE26d387dD82b1D83
-3. 0x13339b04E4f54965bF9b9EBaF25dB1B5091e7b77
-4. 0xF83611F45e11b590eBB9FdABa9ee12e7Dc9E9393
-
-il progetto didakoo.com Jungle si proclama legittimo di operare 
-
-Per giocare non è necessario fornire nessun dato sensibile alla privacy del utente, adottando una politica di completa trasparenza; l'intero archivio dei dati di gioco verrà publicato nella repo [] in modo ricorrente. 
-
-Il sito non mostra pubblicità di terze parti
 
 
 
