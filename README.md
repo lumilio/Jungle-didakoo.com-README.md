@@ -69,7 +69,7 @@ Every day at 20:00 pm New York timezone the game siwtch in free to play mode, yo
 <sub>
 
 
-| Region      | Location                                   | Solar Time         | Offset 1     | Legal Time       | Offset 2            |
+| Region      | Location                                   | Happy hour         | Solar Time     | Happy Hour      | Legal Time            |
 |-------------|-------------------------------------------|---------------------|------------------|--------------------|-------------------------|
 | Australia   | Western Australia                        | 09:00 - 10:00       | UTC+8            |                    |                         |
 | Australia   | Northern Territory                       | 10:30 - 11:30       | UTC+9:30         |                    |                         |
