@@ -3,7 +3,7 @@
 
 ## Version 1.0.6
 Jungle is a Web3 browser game hosted in didakoo.com ---> [didakoo.com](https://didakoo.com) , 
-Play Jungle didakoo.com in any device. Updates and news on [X](https://twitter.com/didakoo_games) 
+Play Jungle in didakoo.com in any device. Updates and news on [X](https://twitter.com/didakoo_games) 
 <!-- [Medium](https://medium.com/@didakoo)  -->
 
 In This game no third part advertising all data saved will be relased periodically. 
