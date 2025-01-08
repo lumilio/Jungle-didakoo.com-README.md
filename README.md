@@ -63,8 +63,7 @@ A significant aspect of Jungle is to benefit top-ranked players;
 grants them the opportunity to showcase their OpenSea accounts and their NFT collections. 
 If you’re playing as “no wallet” you won’t have access to the ranking feature.
 
-## Nfts  
-Didakoo has relased in Opensea marketplace some Nfts that make you able to unlock extra functionality and permissions in game:
+
 
 ## Db relase 
 
@@ -126,20 +125,18 @@ Here the Every day Free to play Hour in world countries
 
 
 
-## Business model 
+## Business model e Nfts
 
+
+Didakoo has relased in Opensea marketplace some Nfts that make you able to unlock extra functionalitys and permissions in game. Sellin didakoo Nfts is the only entrance of the project.
 This is "one time purchase" videogame.
+
 No third part advertising in Jungle didakoo.com,
-sellin didakoo Nfts is the only business of the project.
 
 1. 0xf1e51457504edc0321DE4B6bA4403A1464c2B897 
 2. 0x69D96b32F731567cA61A36AAE26d387dD82b1D83
 
-- https://opensea.io/collection/didakoo-items
-- https://opensea.io/collection/didakoo-items-2024
-- https://opensea.io/collection/didakoo-polygon-2024
-- https://opensea.io/collection/didakoo-base-2024-1
-
+This is "one time purchase" videogame.
 The features you unlock with Nfts will be yours forever, no subscription.
 Game system recognize the following Nfts collections :  
 
