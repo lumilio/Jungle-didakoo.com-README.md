@@ -28,9 +28,6 @@ At the end of a match the winner is rewarded with 3 points.
 You can play against computer or challenge a friend in Multiplayer mode by sharing a room link.
 
 
-<details>
-<summary><h4>tap</h4></summary>
-</details>
 
 ## Ethereum & L2 Blockchains
 (1) Ethereum e Metamask 
