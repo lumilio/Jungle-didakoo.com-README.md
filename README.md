@@ -70,7 +70,7 @@ If you’re playing as “no wallet” you won’t have access to the ranking fe
 ## Free to play time  
 Every day at 20:00 pm New York time zone the game siwtch in free to play mode, you can play without Jungle pass or as guest mode.
 
-Here the Every day Free to play Hour in world countries
+Here the every day free to play hour in world times offset
 
 <sub>
 
@@ -127,14 +127,7 @@ Here the Every day Free to play Hour in world countries
 
 ## Business model e Nfts
 
-
-Didakoo has relased in Opensea marketplace some Nfts that make you able to unlock extra functionalitys and permissions in game. Sellin didakoo Nfts is the only entrance of the project.
-This is "one time purchase" videogame.
-
-No third part advertising in Jungle didakoo.com,
-
-1. 0xf1e51457504edc0321DE4B6bA4403A1464c2B897 
-2. 0x69D96b32F731567cA61A36AAE26d387dD82b1D83
+Didakoo has relased in Opensea marketplace some Nfts that make you able to unlock extra functionalitys and permissions in game. No third part advertising in Jungle didakoo.com, Sellin didakoo Nfts is the only entrance of the project.
 
 This is "one time purchase" videogame.
 The features you unlock with Nfts will be yours forever, no subscription.
@@ -181,13 +174,34 @@ This measure ensures that only authorized contributors have access,
 allowing us to deliver a secure and authentic software.
 
 
+
+
+
+
+
+
+
+
+
+
+
 ## Contributors
+
 <img src="https://imgur.com/e60LCHg.jpg" alt="drawing" style="width:300px;"/>
 
 
-## Credentials
-Questo è un videogioco indipendente che si interfaccia alle seguenti Blockchain : Ethereum Mainnet, Polygon L2, Base L2
 
+
+
+
+
+
+
+
+
+## Credentials
+
+Questo è un videogioco indipendente che si interfaccia alle seguenti Blockchain : Ethereum Mainnet, Polygon L2, Base L2
 
 A seguito di innuemerevoli transazioni sulla blockchain di ethereum e di qualifiche di proprietà intellettuale 
 sotto forma di tokens sulla medesima chain , come : .crypto .base .eth
@@ -197,10 +211,7 @@ sotto forma di tokens sulla medesima chain , come : .crypto .base .eth
 3. 0x13339b04E4f54965bF9b9EBaF25dB1B5091e7b77
 4. 0xF83611F45e11b590eBB9FdABa9ee12e7Dc9E9393
 
-
 il progetto didakoo.com Jungle si proclama legittimo di operare 
-
-
 
 Per giocare non è necessario fornire nessun dato sensibile alla privacy del utente, adottando una politica di completa trasparenza; l'intero archivio dei dati di gioco verrà publicato nella repo [] in modo ricorrente. 
 
