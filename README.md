@@ -68,7 +68,7 @@ If you’re playing as “no wallet” you won’t have access to the ranking fe
 ## Db relase 
 
 ## Free to play time  
-Every day at 20:00 pm New York time zone the game siwtch in free to play mode, you can play without Jungle pass or as guest mode. Check the table for free to play hour in your country.
+Every day at 20:00 pm in New York time zone Jungle pass is not required to play , even guest mode is able to play all game modes. Check the table to find your country free to play hour :
 
 <sub>
 
