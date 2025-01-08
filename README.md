@@ -15,7 +15,7 @@ info@didakoo.com
 ![Imgur Image](http://i.imgur.com/fj8XkoO.jpg)
 
 
-
+<sub>
 
 ## Jungle
 This game is 1 vs 1.
@@ -70,7 +70,7 @@ If you’re playing as “no wallet” you won’t have access to the ranking fe
 ## Free to play time  
 Every day at 20:00pm to 21:00pm in New York time zone Jungle pass is temporarily not required to play , even guest mode is able to play all game modes. Check the table to find your country free to play hour :
 
-<sub>
+
 
 | Region      | Location                                   | Happy hour         | Solar Time     | Happy Hour      | Legal Time            |
 |-------------|-------------------------------------------|---------------------|------------------|--------------------|-------------------------|
@@ -118,7 +118,7 @@ Every day at 20:00pm to 21:00pm in New York time zone Jungle pass is temporarily
 | Africa      | Seychelles, Mauritius                   | 05:00 - 04:00       | UTC+4            |                    |                         |
 | Africa      | Cape Verde Islands                      | 00:00 - 01:00       | UTC-1            |                    |                         |
 
-</sub>
+
 
 
 
@@ -204,7 +204,7 @@ allowing us to deliver a secure and authentic software.
 
 
 
-
+</sub>
 
 
 
