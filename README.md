@@ -162,7 +162,7 @@ Single-Page WebApp Multiplyer Videogame with custom minimax algorithm built in L
 After a careful evaluation of potential risks that could harm both Didakoo brand and its customers, 
 I have decided to make the GitHub repository containing the game’s code private. 
 This decision stems from the need to safeguard intellectual property, 
-maintain quality control, and ensure a secure experience for users.
+maintain quality control, and ensure a safety user experience.
 
 One of the primary concerns is that malicious actors could copy the code to create fraudulent versions of the game, 
 potentially using them for phishing scams. Such replicas could deceive users into providing sensitive information, 
