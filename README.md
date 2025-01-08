@@ -213,7 +213,6 @@ il progetto didakoo.com Jungle si proclama legittimo di operare
 
 Per giocare non è necessario fornire nessun dato sensibile alla privacy del utente, adottando una politica di completa trasparenza; l'intero archivio dei dati di gioco verrà publicato nella repo [] in modo ricorrente. 
 
-il progetto didakoo.com Jungle si proclama legittimo di operare 
 Il sito non mostra pubblicità di terze parti
 
 
