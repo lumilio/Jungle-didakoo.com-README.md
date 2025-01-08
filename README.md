@@ -14,6 +14,8 @@ info@didakoo.com
 
 ![Imgur Image](http://i.imgur.com/fj8XkoO.jpg)
 
+
+<img src="https://imgur.com/e60LCHg.jpg" alt="drawing" style="width:200px;"/>
 ![Imgur Image](https://imgur.com/e60LCHg.jpg)
 
 
