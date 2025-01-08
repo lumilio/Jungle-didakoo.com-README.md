@@ -14,6 +14,8 @@ info@didakoo.com
 
 ![Imgur Image](http://i.imgur.com/fj8XkoO.jpg)
 
+![Imgur Image](https://imgur.com/e60LCHg.jpg)
+
 
 ## Jungle
 This game is 1 vs 1.
