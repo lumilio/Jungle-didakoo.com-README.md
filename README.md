@@ -67,6 +67,51 @@ If you’re playing as “no wallet” you won’t have access to the ranking fe
 
 ## Db relase 
 
+
+
+
+
+
+## Business model e Nfts
+
+Questo è un videogioco indipendente che si interfaccia alle seguenti Blockchain : Ethereum Mainnet, Polygon L2, Base L2
+
+A seguito di numerose transazioni sulla blockchain di ethereum e di certificazione del possesso di qualifiche di proprietà intellettuale sotto forma di tokens ERC-721 e ERC-1155 sulla medesima chain , come : .crypto .base .eth
+
+1. 0xf1e51457504edc0321DE4B6bA4403A1464c2B897
+2. 0x69D96b32F731567cA61A36AAE26d387dD82b1D83
+3. 0x13339b04E4f54965bF9b9EBaF25dB1B5091e7b77
+4. 0xF83611F45e11b590eBB9FdABa9ee12e7Dc9E9393
+
+il progetto didakoo.com Jungle si proclama legittimo di operare 
+
+Per giocare non è necessario fornire nessun dato sensibile alla privacy del utente, adottando una politica di completa trasparenza; l'intero archivio dei dati di gioco verrà publicato nella repo [] in modo ricorrente. 
+
+Il sito non mostra pubblicità di terze parti
+
+Didakoo has relased in Opensea marketplace some Nfts that make you able to unlock extra functionalitys and permissions in game. No third part advertising in Jungle didakoo.com, Sellin didakoo Nfts is the only entrance of the project.
+
+This is "one time purchase" videogame.
+The features you unlock with Nfts will be yours forever, no subscription.
+Game system recognize the following Nfts collections :  
+
+- [didakoo items](https://opensea.io/collection/didakoo-items")
+- [didakoo items 2024](https://opensea.io/collection/didakoo-items-2024") 
+- [didakoo Polygon 2024](https://opensea.io/collection/didakoo-polygon-2024") 
+- [Jungle Base pass 1](https://opensea.io/collection/didakoo-base-2024-1") 
+- [CryptoKitties](https://opensea.io/collection/cryptokitties")
+- [Bored Ape Yacht Club](https://opensea.io/collection/boredapeyachtclub") 
+- [CryptoPunk](https://opensea.io/collection/cryptopunks")
+- [Polychain Monster](https://opensea.io/collection/polychainmonsters")
+- [The Sandbox LANDs](https://opensea.io/collection/sandbox")
+- [Doodles](https://opensea.io/collection/doodles-official") 
+- [Hash Masks](https://opensea.io/collection/hashmasks")
+- [Adidas IMPOSSIBLE BOX](https://opensea.io/collection/adidascapsule")  
+- [RTFKT x Nike Dunk Genesis CRYPTOKICKS](https://opensea.io/collection/rtfkt-nike-cryptokicks") 
+- [Pepsi Mic Drop](https://opensea.io/collection/pepsi-mic-drop") 
+- [Lacoste UNDW3: The Emerge](https://opensea.io/collection/lacoste-undw3-the-emerge") 
+- [Decentraland](https://opensea.io/collection/decentraland") 
+
 ## Free to play time  
 Every day at 20:00pm to 21:00pm in New York time zone Jungle pass is temporarily not required to play , even guest mode is able to play all game modes. Check the table to find your country free to play hour :
 
@@ -122,50 +167,9 @@ Every day at 20:00pm to 21:00pm in New York time zone Jungle pass is temporarily
 
 
 
+## Contributors
 
-## Business model e Nfts
-
-Questo è un videogioco indipendente che si interfaccia alle seguenti Blockchain : Ethereum Mainnet, Polygon L2, Base L2
-
-A seguito di numerose transazioni sulla blockchain di ethereum e di certificazione del possesso di qualifiche di proprietà intellettuale sotto forma di tokens ERC-721 e ERC-1155 sulla medesima chain , come : .crypto .base .eth
-
-1. 0xf1e51457504edc0321DE4B6bA4403A1464c2B897
-2. 0x69D96b32F731567cA61A36AAE26d387dD82b1D83
-3. 0x13339b04E4f54965bF9b9EBaF25dB1B5091e7b77
-4. 0xF83611F45e11b590eBB9FdABa9ee12e7Dc9E9393
-
-il progetto didakoo.com Jungle si proclama legittimo di operare 
-
-Per giocare non è necessario fornire nessun dato sensibile alla privacy del utente, adottando una politica di completa trasparenza; l'intero archivio dei dati di gioco verrà publicato nella repo [] in modo ricorrente. 
-
-Il sito non mostra pubblicità di terze parti
-
-Didakoo has relased in Opensea marketplace some Nfts that make you able to unlock extra functionalitys and permissions in game. No third part advertising in Jungle didakoo.com, Sellin didakoo Nfts is the only entrance of the project.
-
-This is "one time purchase" videogame.
-The features you unlock with Nfts will be yours forever, no subscription.
-Game system recognize the following Nfts collections :  
-
-- [didakoo items](https://opensea.io/collection/didakoo-items")
-- [didakoo items 2024](https://opensea.io/collection/didakoo-items-2024") 
-- [didakoo Polygon 2024](https://opensea.io/collection/didakoo-polygon-2024") 
-- [Jungle Base pass 1](https://opensea.io/collection/didakoo-base-2024-1") 
-- [CryptoKitties](https://opensea.io/collection/cryptokitties")
-- [Bored Ape Yacht Club](https://opensea.io/collection/boredapeyachtclub") 
-- [CryptoPunk](https://opensea.io/collection/cryptopunks")
-- [Polychain Monster](https://opensea.io/collection/polychainmonsters")
-- [The Sandbox LANDs](https://opensea.io/collection/sandbox")
-- [Doodles](https://opensea.io/collection/doodles-official") 
-- [Hash Masks](https://opensea.io/collection/hashmasks")
-- [Adidas IMPOSSIBLE BOX](https://opensea.io/collection/adidascapsule")  
-- [RTFKT x Nike Dunk Genesis CRYPTOKICKS](https://opensea.io/collection/rtfkt-nike-cryptokicks") 
-- [Pepsi Mic Drop](https://opensea.io/collection/pepsi-mic-drop") 
-- [Lacoste UNDW3: The Emerge](https://opensea.io/collection/lacoste-undw3-the-emerge") 
-- [Decentraland](https://opensea.io/collection/decentraland") 
-
-
-
-
+<img src="https://imgur.com/e60LCHg.jpg" alt="drawing" style="width:300px;"/>
 
 
 
@@ -186,21 +190,6 @@ I aim to prevent these threats and protect our customers from harmful exploitati
 This measure ensures that only authorized contributors have access, 
 allowing us to deliver a secure and authentic software.
 
-
-
-
-
-
-
-
-
-
-
-
-
-## Contributors
-
-<img src="https://imgur.com/e60LCHg.jpg" alt="drawing" style="width:300px;"/>
 
 
 
