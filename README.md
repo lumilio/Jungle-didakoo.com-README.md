@@ -123,7 +123,7 @@ This is "one time purchase" videogame.
 No third part advertising in Jungle didakoo.com,
 sellin didakoo Nfts is the only business of the project.
 
-0xf1e51457504edc0321DE4B6bA4403A1464c2B897
+0xf1e51457504edc0321DE4B6bA4403A1464c2B897 / 
 0x69D96b32F731567cA61A36AAE26d387dD82b1D83
 
 - https://opensea.io/collection/didakoo-items
