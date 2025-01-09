@@ -1,6 +1,6 @@
 ![Imgur Image](http://i.imgur.com/3SqZpCN.jpg)
 
-## Version 1.0.6
+## Jungle didakoo 1.0.6
 Jungle is a Web3 browser game hosted in didakoo.com ---> [didakoo.com](https://didakoo.com) , 
 Play Jungle in didakoo.com in any device. In this game no third part advertising, all data saved will be relased periodically. 
 
@@ -12,7 +12,7 @@ info@didakoo.com
 
 
 
-## Jungle Game modes
+## Game modes
 This game is 1 vs 1.
 For all player ages , a match can last 10 sec to 1 hour.
 Jungle - didakoo.com mantains the fundamental rule of the classic board game introducing a twist: 
