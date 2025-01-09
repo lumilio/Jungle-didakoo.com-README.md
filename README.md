@@ -86,7 +86,7 @@ If you’re playing as “no wallet” you won’t have access to the ranking fe
 
 ## Business model e Nfts
 
-<span style="font-size:3px">
+<sub>
 
 
 Questo è un videogioco indipendente che si interfaccia alle seguenti Blockchain : Ethereum Mainnet, Polygon L2, Base L2 . A seguito di numerose transazioni sulla blockchain di ethereum e di certificazione del possesso di qualifiche di proprietà intellettuale sotto forma di tokens ERC-721 e ERC-1155 sulla medesima chain , come : .crypto .base .eth
@@ -121,7 +121,7 @@ Game system recognize the following Nfts collections :
 - [Lacoste UNDW3: The Emerge](https://opensea.io/collection/lacoste-undw3-the-emerge") 
 - [Decentraland](https://opensea.io/collection/decentraland") 
 
-</span>
+</sub>
 
 
 ## Free to play time  
