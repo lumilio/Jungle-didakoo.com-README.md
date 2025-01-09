@@ -108,10 +108,10 @@ Every day at 20:00pm to 21:00pm in New York time zone Jungle pass is temporarily
 
 Questo è un videogioco indipendente che si interfaccia alle seguenti Blockchain : Ethereum Mainnet, Polygon L2, Base L2 . A seguito di numerose transazioni sulla blockchain di ethereum e di certificazione del possesso di qualifiche di proprietà intellettuale sotto forma di tokens ERC-721 e ERC-1155 sulla medesima chain , come : .crypto .base .eth 
 
-1. 0xf1e51457504edc0321DE4B6bA4403A1464c2B897
-2. 0x69D96b32F731567cA61A36AAE26d387dD82b1D83
-3. 0x13339b04E4f54965bF9b9EBaF25dB1B5091e7b77
-4. 0xF83611F45e11b590eBB9FdABa9ee12e7Dc9E9393
+1. <sub>0xf1e51457504edc0321DE4B6bA4403A1464c2B897</sub>
+2. <sub>0x69D96b32F731567cA61A36AAE26d387dD82b1D83</sub>
+3. <sub>0x13339b04E4f54965bF9b9EBaF25dB1B5091e7b77</sub>
+4. <sub>0xF83611F45e11b590eBB9FdABa9ee12e7Dc9E9393</sub>
 
 Il progetto didakoo.com Jungle si proclama legittimo di operare. Per giocare non è necessario fornire nessun dato sensibile alla privacy del utente, adottando una politica di completa trasparenza; l'intero archivio dei dati di gioco verrà publicato nella repo [] in modo ricorrente. 
 
@@ -137,9 +137,6 @@ This is "one time purchase" videogame. The features you unlock with Nfts will be
 - [Decentraland](https://opensea.io/collection/decentraland") 
 
 
-## Contributors
-<img src="https://imgur.com/e60LCHg.jpg" alt="drawing" style="width:300px;"/>
-
 
 ## App Code is private 
 Single-Page WebApp Multiplyer Videogame with custom minimax algorithm built in Laravel (PHP) and Vue.js (JavaScript). 
@@ -149,3 +146,7 @@ putting both their data and the reputation of the Didakoo brand at risk. By rest
 I aim to prevent these threats and protect our customers from harmful exploitation. 
 This measure ensures that only authorized contributors have access, 
 allowing us to deliver a secure and authentic software.
+
+
+## Contributors
+<img src="https://imgur.com/e60LCHg.jpg" alt="drawing" style="width:300px;"/>
