@@ -15,7 +15,7 @@ info@didakoo.com
 ![Imgur Image](http://i.imgur.com/fj8XkoO.jpg)
 
 
-<small>
+
 
 ## Jungle
 This game is 1 vs 1.
@@ -23,6 +23,7 @@ For all player ages , a match can last 10 sec to 1 hour.
 Jungle - didakoo.com mantains the fundamental rule of the classic board game introducing a twist: 
 the initial disposition of animals is randomized in each new room.
 At the end of a match the winner is rewarded with 3 points.
+
 
 ## Game modes
 You can play against computer or challenge a friend in Multiplayer mode by sharing a room link.
@@ -72,6 +73,8 @@ If you’re playing as “no wallet” you won’t have access to the ranking fe
 
 ## Business model e Nfts
 
+<small>
+
 Questo è un videogioco indipendente che si interfaccia alle seguenti Blockchain : Ethereum Mainnet, Polygon L2, Base L2 . A seguito di numerose transazioni sulla blockchain di ethereum e di certificazione del possesso di qualifiche di proprietà intellettuale sotto forma di tokens ERC-721 e ERC-1155 sulla medesima chain , come : .crypto .base .eth
 
 1. 0xf1e51457504edc0321DE4B6bA4403A1464c2B897
@@ -104,10 +107,12 @@ Game system recognize the following Nfts collections :
 - [Lacoste UNDW3: The Emerge](https://opensea.io/collection/lacoste-undw3-the-emerge") 
 - [Decentraland](https://opensea.io/collection/decentraland") 
 
+</small>
+
 ## Free to play time  
 Every day at 20:00pm to 21:00pm in New York time zone Jungle pass is temporarily not required to play , even guest mode is able to play all game modes. Check the table to find your country free to play hour :
 
-</small>
+
 
 <sub>
 
