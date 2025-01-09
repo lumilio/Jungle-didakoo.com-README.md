@@ -72,18 +72,18 @@ If you’re playing as “no wallet” you won’t have access to the ranking fe
 
 ## Business model e Nfts
 
-Questo è un videogioco indipendente che si interfaccia alle seguenti Blockchain : Ethereum Mainnet, Polygon L2, Base L2
+Questo è un videogioco indipendente che si interfaccia alle seguenti Blockchain : Ethereum Mainnet, Polygon L2, Base L2 . A seguito di numerose transazioni sulla blockchain di ethereum e di certificazione del possesso di qualifiche di proprietà intellettuale sotto forma di tokens ERC-721 e ERC-1155 sulla medesima chain , come : .crypto .base .eth
 
-A seguito di numerose transazioni sulla blockchain di ethereum e di certificazione del possesso di qualifiche di proprietà intellettuale sotto forma di tokens ERC-721 e ERC-1155 sulla medesima chain , come : .crypto .base .eth
+<sub>
 
 1. 0xf1e51457504edc0321DE4B6bA4403A1464c2B897
 2. 0x69D96b32F731567cA61A36AAE26d387dD82b1D83
 3. 0x13339b04E4f54965bF9b9EBaF25dB1B5091e7b77
 4. 0xF83611F45e11b590eBB9FdABa9ee12e7Dc9E9393
 
-il progetto didakoo.com Jungle si proclama legittimo di operare 
+</sub>
 
-Per giocare non è necessario fornire nessun dato sensibile alla privacy del utente, adottando una politica di completa trasparenza; l'intero archivio dei dati di gioco verrà publicato nella repo [] in modo ricorrente. 
+Il progetto didakoo.com Jungle si proclama legittimo di operare. Per giocare non è necessario fornire nessun dato sensibile alla privacy del utente, adottando una politica di completa trasparenza; l'intero archivio dei dati di gioco verrà publicato nella repo [] in modo ricorrente. 
 
 Il sito non mostra pubblicità di terze parti
 
