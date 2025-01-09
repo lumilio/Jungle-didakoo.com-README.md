@@ -1,18 +1,17 @@
 ![Imgur Image](http://i.imgur.com/3SqZpCN.jpg)
 
-
 ## Version 1.0.6
 Jungle is a Web3 browser game hosted in didakoo.com ---> [didakoo.com](https://didakoo.com) , 
 Play Jungle in didakoo.com in any device. In this game no third part advertising, all data saved will be relased periodically. 
 
-
 Updates and news on [X](https://twitter.com/didakoo_games) 
-
 
 info@didakoo.com
 
-
 ![Imgur Image](http://i.imgur.com/fj8XkoO.jpg)
+
+
+
 
 
 
@@ -25,8 +24,22 @@ the initial disposition of animals is randomized in each new room.
 At the end of a match the winner is rewarded with 3 points.
 
 
+
+
+
+
+
+
 ## Game modes
 You can play against computer or challenge a friend in Multiplayer mode by sharing a room link.
+
+
+
+
+
+
+
+
 
 
 
@@ -73,7 +86,7 @@ If you’re playing as “no wallet” you won’t have access to the ranking fe
 
 ## Business model e Nfts
 
-<span style="font-size:5px">
+<span style="font-size:3px">
 
 
 Questo è un videogioco indipendente che si interfaccia alle seguenti Blockchain : Ethereum Mainnet, Polygon L2, Base L2 . A seguito di numerose transazioni sulla blockchain di ethereum e di certificazione del possesso di qualifiche di proprietà intellettuale sotto forma di tokens ERC-721 e ERC-1155 sulla medesima chain , come : .crypto .base .eth
