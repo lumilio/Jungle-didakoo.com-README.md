@@ -1,6 +1,6 @@
 ![Imgur Image](http://i.imgur.com/3SqZpCN.jpg)
 
-## Jungle didakoo 1.0.6
+## Version 1.0.6
 Jungle is a Web3 browser game hosted in didakoo.com ---> [didakoo.com](https://didakoo.com) , 
 Play Jungle in didakoo.com in any device. In this game no third part advertising, all data saved will be relased periodically. 
 
@@ -12,7 +12,7 @@ info@didakoo.com
 
 
 
-## Game modes
+## Jungle Game modes
 This game is 1 vs 1.
 For all player ages , a match can last 10 sec to 1 hour.
 Jungle - didakoo.com mantains the fundamental rule of the classic board game introducing a twist: 
@@ -44,21 +44,13 @@ metamask tutorial
 
 
 ## How to login
-To play you need no email or password. You can join as “no wallet” as anonymous or create your avatar with Metamask wallet.
 
-Website throw Metamsk login recognize tokens in web3 networks list to unlock features in game : Eth Mainnet , Polygon L2, Base L2 .
+To play you need no email or password. You can join as “no wallet” as anonymous or login with Metamask wallet. Website on handshake recognize tokens in ethereum networks to unlock features in game : Eth Mainnet , Polygon L2, Base L2 . It's also possible login as anonymous guest with less features.
 
-It's also possible login as anonymous guest with less features.
-
-On your first Metamask login, your avatar will be created in the game ranking. 
-A significant aspect of Jungle is to benefit top-ranked players;
-grants them the opportunity to showcase their OpenSea accounts and their NFT collections. 
-If you’re playing as “no wallet” you won’t have access to the ranking feature.
-
+On your first Metamask login, your player will be created in the game ranking. 
+Jungle benefit top-ranked players, grants them the opportunity to showcase their OpenSea accounts and their NFT collections. If you’re playing as “no wallet” you won’t have access to the ranking feature.
 
 Every day at 20:00pm to 21:00pm in New York time zone Jungle pass is temporarily not required to play , even guest mode is able to play all game modes. Check the table to find your country free to play hour :
-
-
 
 <sub>
 
@@ -112,33 +104,9 @@ Every day at 20:00pm to 21:00pm in New York time zone Jungle pass is temporarily
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Business model e Nfts
 
-<span style="font-size:1rem;"> Questo è un videogioco indipendente che si interfaccia alle seguenti Blockchain : Ethereum Mainnet, Polygon L2, Base L2 . A seguito di numerose transazioni sulla blockchain di ethereum e di certificazione del possesso di qualifiche di proprietà intellettuale sotto forma di tokens ERC-721 e ERC-1155 sulla medesima chain , come : .crypto .base .eth </span>
+Questo è un videogioco indipendente che si interfaccia alle seguenti Blockchain : Ethereum Mainnet, Polygon L2, Base L2 . A seguito di numerose transazioni sulla blockchain di ethereum e di certificazione del possesso di qualifiche di proprietà intellettuale sotto forma di tokens ERC-721 e ERC-1155 sulla medesima chain , come : .crypto .base .eth 
 
 1. 0xf1e51457504edc0321DE4B6bA4403A1464c2B897
 2. 0x69D96b32F731567cA61A36AAE26d387dD82b1D83
@@ -149,18 +117,7 @@ Il progetto didakoo.com Jungle si proclama legittimo di operare. Per giocare non
 
 Didakoo has relased in Opensea marketplace some Nfts that make you able to unlock extra functionalitys and permissions in game. No third part advertising in Jungle didakoo.com, Sellin didakoo Nfts is the only entrance of the project.
 
-Single-Page WebApp Multiplyer Videogame with custom minimax algorithm built in Laravel (PHP) and Vue.js (JavaScript). After a careful evaluation of potential risks that could harm both Didakoo brand and its customers, I have decided to make the GitHub repository containing the game’s code private. This decision stems from the need to safeguard intellectual property, maintain quality control, and ensure a safety user experience.
-
-One of the primary concerns is that malicious actors could copy the code to create fraudulent versions of the game, 
-potentially using them for phishing scams. Such replicas could deceive users into providing sensitive information, 
-putting both their data and the reputation of the Didakoo brand at risk. By restricting access to the code, 
-I aim to prevent these threats and protect our customers from harmful exploitation. 
-This measure ensures that only authorized contributors have access, 
-allowing us to deliver a secure and authentic software.
-
-This is "one time purchase" videogame.
-The features you unlock with Nfts will be yours forever, no subscription.
-Game system recognize the following Nfts collections :  
+This is "one time purchase" videogame. The features you unlock with Nfts will be yours forever, no subscription. Game system recognize the following Nfts collections :  
 
 - [didakoo items](https://opensea.io/collection/didakoo-items")
 - [didakoo items 2024](https://opensea.io/collection/didakoo-items-2024") 
@@ -180,25 +137,15 @@ Game system recognize the following Nfts collections :
 - [Decentraland](https://opensea.io/collection/decentraland") 
 
 
-
-
-
-
-
-
-
-
 ## Contributors
-
 <img src="https://imgur.com/e60LCHg.jpg" alt="drawing" style="width:300px;"/>
 
 
-
-
-
-
-
-
-
-
-
+## App Code is private 
+Single-Page WebApp Multiplyer Videogame with custom minimax algorithm built in Laravel (PHP) and Vue.js (JavaScript). 
+After a careful evaluation of potential risks that could harm both Didakoo brand and its customers, I have decided to make the GitHub repository containing the game’s code private. This decision stems from the need to safeguard intellectual property, maintain quality control, and ensure a safety user experience. One of the primary concerns is that malicious actors could copy the code to create fraudulent versions of the game, 
+potentially using them for phishing scams. Such replicas could deceive users into providing sensitive information, 
+putting both their data and the reputation of the Didakoo brand at risk. By restricting access to the code, 
+I aim to prevent these threats and protect our customers from harmful exploitation. 
+This measure ensures that only authorized contributors have access, 
+allowing us to deliver a secure and authentic software.
