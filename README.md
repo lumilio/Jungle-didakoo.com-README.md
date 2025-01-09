@@ -115,7 +115,7 @@ Questo è un videogioco indipendente che si interfaccia alle seguenti Blockchain
 
 Il progetto didakoo.com Jungle si proclama legittimo di operare. Per giocare non è necessario fornire nessun dato sensibile alla privacy del utente, adottando una politica di completa trasparenza; l'intero archivio dei dati di gioco verrà publicato nella repo [] in modo ricorrente. 
 
-Didakoo has relased in Opensea marketplace some Nfts that make you able to unlock extra functionalitys and permissions in game. No third part advertising in Jungle didakoo.com, Sellin didakoo Nfts is the only entrance of the project.
+Didakoo has relased in Opensea marketplace some Nfts that make you able to unlock extra functionalitys and permissions in game. No third part advertising in Jungle didakoo.com, Sellin didakoo Nfts is the only income of the project.
 
 This is "one time purchase" videogame. The features you unlock with Nfts will be yours forever, no subscription. Game system recognize the following Nfts collections :  
 
