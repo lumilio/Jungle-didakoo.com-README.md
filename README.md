@@ -82,7 +82,8 @@ If you’re playing as “no wallet” you won’t have access to the ranking fe
 
 
 ## Business model e Nfts
-<span style="font-size: 20px;"> Questo è un videogioco indipendente che si interfaccia alle seguenti Blockchain : Ethereum Mainnet, Polygon L2, Base L2 . A seguito di numerose transazioni sulla blockchain di ethereum e di certificazione del possesso di qualifiche di proprietà intellettuale sotto forma di tokens ERC-721 e ERC-1155 sulla medesima chain , come : .crypto .base .eth </span>
+
+<span style="font-size: 10px;"> Questo è un videogioco indipendente che si interfaccia alle seguenti Blockchain : Ethereum Mainnet, Polygon L2, Base L2 . A seguito di numerose transazioni sulla blockchain di ethereum e di certificazione del possesso di qualifiche di proprietà intellettuale sotto forma di tokens ERC-721 e ERC-1155 sulla medesima chain , come : .crypto .base .eth </span>
 
 1. 0xf1e51457504edc0321DE4B6bA4403A1464c2B897
 2. 0x69D96b32F731567cA61A36AAE26d387dD82b1D83
