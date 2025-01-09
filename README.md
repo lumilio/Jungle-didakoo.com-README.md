@@ -14,16 +14,12 @@ info@didakoo.com
 
 
 
-
-
 ## Jungle
 This game is 1 vs 1.
 For all player ages , a match can last 10 sec to 1 hour.
 Jungle - didakoo.com mantains the fundamental rule of the classic board game introducing a twist: 
 the initial disposition of animals is randomized in each new room.
 At the end of a match the winner is rewarded with 3 points.
-
-
 
 
 
@@ -39,19 +35,12 @@ You can play against computer or challenge a friend in Multiplayer mode by shari
 
 
 
-
-
-
-
 ## Ethereum & L2 Blockchains
-
 la scelta dell'utilizzo di Metamask come wallet per accedere al gioco è volta alla facilità di creazione 
 di un wallet vergine dando la possibilità ai giocatori di interagire con il sito con sicurezza elevata,
 
 Metamask consente di creare infiniti wallet a costo 0. 
 how to install metamask ( loading ... tutorial section ... ) 
-
-
 
 (1) Ethereum e Metamask 
 What is an Ethereum gateway ?
@@ -63,6 +52,14 @@ To join Ethereum and create your avatar in Jungle you just need Metamask ,
 one of the most popular gateway wallet in crypto world.
 story 
 metamask tutorial 
+
+
+
+
+
+
+
+
 
 ## How to login
 To play you need no email or password. You can join as “no wallet” as anonymous or create your avatar with Metamask wallet.
@@ -85,16 +82,12 @@ If you’re playing as “no wallet” you won’t have access to the ranking fe
 
 
 ## Business model e Nfts
+<sub>Questo è un videogioco indipendente che si interfaccia alle seguenti Blockchain : Ethereum Mainnet, Polygon L2, Base L2 . A seguito di numerose transazioni sulla blockchain di ethereum e di certificazione del possesso di qualifiche di proprietà intellettuale sotto forma di tokens ERC-721 e ERC-1155 sulla medesima chain , come : .crypto .base .eth </sub>
 
-<sub>
-
-
-Questo è un videogioco indipendente che si interfaccia alle seguenti Blockchain : Ethereum Mainnet, Polygon L2, Base L2 . A seguito di numerose transazioni sulla blockchain di ethereum e di certificazione del possesso di qualifiche di proprietà intellettuale sotto forma di tokens ERC-721 e ERC-1155 sulla medesima chain , come : .crypto .base .eth
-
-1. 0xf1e51457504edc0321DE4B6bA4403A1464c2B897
-2. 0x69D96b32F731567cA61A36AAE26d387dD82b1D83
-3. 0x13339b04E4f54965bF9b9EBaF25dB1B5091e7b77
-4. 0xF83611F45e11b590eBB9FdABa9ee12e7Dc9E9393
+<sub>1. 0xf1e51457504edc0321DE4B6bA4403A1464c2B897</sub>
+<sub>2. 0x69D96b32F731567cA61A36AAE26d387dD82b1D83</sub>
+<sub>3. 0x13339b04E4f54965bF9b9EBaF25dB1B5091e7b77</sub>
+<sub>4. 0xF83611F45e11b590eBB9FdABa9ee12e7Dc9E9393</sub>
 
 Il progetto didakoo.com Jungle si proclama legittimo di operare. Per giocare non è necessario fornire nessun dato sensibile alla privacy del utente, adottando una politica di completa trasparenza; l'intero archivio dei dati di gioco verrà publicato nella repo [] in modo ricorrente. 
 
@@ -121,7 +114,7 @@ Game system recognize the following Nfts collections :
 - [Lacoste UNDW3: The Emerge](https://opensea.io/collection/lacoste-undw3-the-emerge") 
 - [Decentraland](https://opensea.io/collection/decentraland") 
 
-</sub>
+
 
 
 ## Free to play time  
