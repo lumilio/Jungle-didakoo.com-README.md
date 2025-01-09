@@ -15,7 +15,7 @@ info@didakoo.com
 ![Imgur Image](http://i.imgur.com/fj8XkoO.jpg)
 
 
-
+<small>
 
 ## Jungle
 This game is 1 vs 1.
@@ -106,6 +106,8 @@ Game system recognize the following Nfts collections :
 
 ## Free to play time  
 Every day at 20:00pm to 21:00pm in New York time zone Jungle pass is temporarily not required to play , even guest mode is able to play all game modes. Check the table to find your country free to play hour :
+
+</small>
 
 <sub>
 
