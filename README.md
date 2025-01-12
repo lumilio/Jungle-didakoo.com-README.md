@@ -13,6 +13,17 @@ info@didakoo.com
 
 
 ## Jungle Game modes
+<!-- 
+- * copy exist rules shogi
+- This game is 1 vs 1.
+- twist place 
+- animal value
+- plant damage 
+- lake jump
+- goal game 
+- points assignation
+- game modes
+-->
 This game is 1 vs 1.
 For all player ages , a match can last 10 sec to 1 hour.
 Jungle - didakoo.com mantains the fundamental rule of the classic board game introducing a twist: 
