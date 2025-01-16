@@ -12,7 +12,7 @@ info@didakoo.com
 
 
 
-## Jungle Game modes
+## Jungle 
 <!-- 
 - * copy exist rules shogi  OK
 - This game is 1 vs 1.   
@@ -26,10 +26,6 @@ info@didakoo.com
 - if you make a login    TO DO 
 - picture of animals      TO DO 
 -->
-This game is 1 vs 1.
-For all player ages , a match can last 10 sec to 1 hour.
-At the end of a match the winner is rewarded with 3 points.
-You can play against computer or challenge a friend in Multiplayer mode by sharing a room link.
 
 Each player has eight pieces, different animals, with different degrees of power. Here are the pieces, their English names, and their relative powers, indicated by number:
 
@@ -43,7 +39,8 @@ Each player has eight pieces, different animals, with different degrees of power
 8) Elephant 
 
 Goal of the Game
-To win the game, one player must successfully move any animal to the Castle of the opponent.
+This game is 1 vs 1. To win, one player must successfully move any animal to the Castle of the opponent.
+At the end of a match the winner is rewarded with 3 rank points.
 
 Movement of the Pieces
 All pieces have the same basic move, although some have special powers (described below). The basic move is just one space either forward, backward, left or right. The pieces never move diagonally.
@@ -64,7 +61,8 @@ The Castle
 Animals are allowed to move into their own Castle. When an animal moves into the opponent’s Castle, it has won the game.
 
 
-
+## Game modes
+You can play against computer or challenge a friend in Multiplayer mode by sharing a room link.
 
 
 
