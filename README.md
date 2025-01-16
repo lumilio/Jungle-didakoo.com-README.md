@@ -26,7 +26,10 @@ info@didakoo.com
 - if you make a login    TO DO 
 - picture of animals      TO DO 
 -->
+This game is 1 vs 1. To win, one player must successfully move any animal to the Castle of the opponent.
+At the end of a match the winner is rewarded with 3 rank points.
 
+### Animals Pieces
 Each player has eight pieces, different animals, with different degrees of power. Here are the pieces, their English names, and their relative powers, indicated by number:
 
 1) Rat
@@ -37,10 +40,6 @@ Each player has eight pieces, different animals, with different degrees of power
 6) Tiger
 7) Lion
 8) Elephant 
-
-### Goal of the Game
-This game is 1 vs 1. To win, one player must successfully move any animal to the Castle of the opponent.
-At the end of a match the winner is rewarded with 3 rank points.
 
 ### Movement of the Pieces
 All pieces have the same basic move, although some have special powers (described below). The basic move is just one space either forward, backward, left or right. The pieces never move diagonally.
