@@ -8,25 +8,11 @@ Updates and news on [X](https://twitter.com/didakoo_games)
 
 info@didakoo.com
 
+# Jungle 
+This game is 1 vs 1. To win, one player must successfully move any animal to the Castle of the opponent.
+
 ![Imgur Image](http://i.imgur.com/fj8XkoO.jpg)
 
-
-
-# Jungle 
-<!-- 
-- * copy exist rules shogi  OK
-- This game is 1 vs 1.   
-- twist place  TO DO
-- animal value    OK
-- plant damage    OK
-- lake jump   OK
-- goal game   OK
-- points assignation   TO DO 
-- game modes            TO DO
-- if you make a login    TO DO 
-- picture of animals      TO DO 
--->
-This game is 1 vs 1. To win, one player must successfully move any animal to the Castle of the opponent.
 
 ## Animals Pieces
 Each player has eight pieces, different animals, with different degrees of power. Here are the pieces, their English names, and their relative powers, indicated by number:
