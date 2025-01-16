@@ -51,11 +51,15 @@ To join Ethereum and create your avatar in Jungle you just need Metamask ,
 one of the most popular gateway wallet in crypto world.
 story 
 metamask tutorial 
-
+<!-- 
+- vitalik , ecosystem , what is ethereum , token system opportunityb , layers 2 , explain metamas an why we chose it  
+-->
 
 
 ## How to login
-
+<!-- 
+metamas or guest if you able 
+-->
 To play you need no email or password. You can join as “no wallet” as anonymous or login with Metamask wallet. Website on handshake recognize tokens in ethereum networks to unlock features in game : Eth Mainnet , Polygon L2, Base L2 . It's also possible login as anonymous guest with less features.
 
 On your first Metamask login, your player will be created in the game ranking. 
