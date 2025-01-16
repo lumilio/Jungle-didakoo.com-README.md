@@ -55,7 +55,7 @@ Animals are allowed to move into their own Castle. When an animal moves into the
 ## The Trees
 Each side has three Tree squares surrounding its Castle. A player may move on and off of his own Tree squares with no effect. If, however, a player moves onto the opponent’s tree square, that piece loses all of its power, and may be captured by any of the defending pieces.
 
-### Rank & Points
+## Rank & Points
 At the end of a match the winner is rewarded with 3 rank points. ...........
 
 ## Game modes
@@ -63,7 +63,7 @@ You can play against computer or challenge a friend in Multiplayer mode by shari
 
 
 
-# Ethereum & L2 Blockchains
+## Ethereum & L2 Blockchains
 la scelta dell'utilizzo di Metamask come wallet per accedere al gioco è volta alla facilità di creazione 
 di un wallet vergine dando la possibilità ai giocatori di interagire con il sito con sicurezza elevata,
 
@@ -85,7 +85,7 @@ metamask tutorial
 -->
 
 
-# How to login
+## How to login
 <!-- 
 metamas or guest if you able 
 -->
