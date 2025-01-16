@@ -66,7 +66,7 @@ metamask tutorial
 -->
 
 
-## How to login
+# How to login
 <!-- 
 metamas or guest if you able 
 -->
@@ -129,7 +129,7 @@ Every day at 20:00pm to 21:00pm in New York time zone Jungle pass is temporarily
 
 
 
-## Business model e Nfts
+# Business model e Nfts
 
 Questo è un videogioco indipendente che si interfaccia alle seguenti Blockchain : Ethereum Mainnet, Polygon L2, Base L2 . A seguito di numerose transazioni sulla blockchain di ethereum e di certificazione del possesso di qualifiche di proprietà intellettuale sotto forma di tokens ERC-721 e ERC-1155 sulla medesima chain , come : .crypto .base .eth 
 
@@ -163,7 +163,7 @@ This is "one time purchase" videogame. The features you unlock with Nfts will be
 
 
 
-## App Code is private 
+# App Code is private 
 Single-Page WebApp Multiplyer Videogame with custom minimax algorithm built in Laravel (PHP) and Vue.js (JavaScript). 
 After a careful evaluation of potential risks that could harm both Didakoo brand and its customers, I have decided to make the GitHub repository containing the game’s code private. This decision stems from the need to safeguard intellectual property, maintain quality control, and ensure a safety user experience. One of the primary concerns is that malicious actors could copy the code to create fraudulent versions of the game, 
 potentially using them for phishing scams. Such replicas could deceive users into providing sensitive information, 
@@ -173,5 +173,5 @@ This measure ensures that only authorized contributors have access,
 allowing us to deliver a secure and authentic software.
 
 
-## Contributors
+# Contributors
 <img src="https://imgur.com/e60LCHg.jpg" alt="drawing" style="width:300px;"/>
