@@ -77,7 +77,7 @@ Jungle benefit top-ranked players, grants them the opportunity to showcase their
 
 Every day at 20:00pm to 21:00pm in New York time zone Jungle pass is temporarily not required to play , even guest mode is able to play all game modes. Check the table to find your country free to play hour :
 
-<sub>
+
 
 | Region      | Location                                   | Happy hour         | Solar Time     | Happy Hour      | Legal Time            |
 |-------------|-------------------------------------------|---------------------|------------------|--------------------|-------------------------|
@@ -125,7 +125,7 @@ Every day at 20:00pm to 21:00pm in New York time zone Jungle pass is temporarily
 | Africa      | Seychelles, Mauritius                   | 05:00 - 04:00       | UTC+4            |                    |                         |
 | Africa      | Cape Verde Islands                      | 00:00 - 01:00       | UTC-1            |                    |                         |
 
-</sub>
+
 
 
 
