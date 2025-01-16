@@ -129,7 +129,7 @@ Every day at 20:00pm to 21:00pm in New York time zone Jungle pass is temporarily
 
 
 
-# Business model e Nfts
+# Nft Policy 
 
 Questo è un videogioco indipendente che si interfaccia alle seguenti Blockchain : Ethereum Mainnet, Polygon L2, Base L2 . A seguito di numerose transazioni sulla blockchain di ethereum e di certificazione del possesso di qualifiche di proprietà intellettuale sotto forma di tokens ERC-721 e ERC-1155 sulla medesima chain , come : .crypto .base .eth 
 
