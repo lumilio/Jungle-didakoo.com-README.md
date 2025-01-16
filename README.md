@@ -1,6 +1,6 @@
 ![Imgur Image](http://i.imgur.com/3SqZpCN.jpg)
 
-# Jungle 1.0.6
+## Jungle 1.0.6
 Jungle is a Web3 browser game hosted in didakoo.com ---> [didakoo.com](https://didakoo.com) , 
 Play Jungle in didakoo.com in any device. In this game no third part advertising, all data saved will be relased periodically. This game is 1 vs 1. To win, one player must successfully move any animal to the Castle of the opponent.
 
