@@ -28,14 +28,9 @@ info@didakoo.com
 -->
 This game is 1 vs 1.
 For all player ages , a match can last 10 sec to 1 hour.
-Jungle - didakoo.com mantains the fundamental rule of the classic board game introducing a twist: 
-the initial disposition of animals is randomized in each new room.
 At the end of a match the winner is rewarded with 3 points.
 You can play against computer or challenge a friend in Multiplayer mode by sharing a room link.
-ù
 
-
-<!-- 
 Each player has eight pieces, different animals, with different degrees of power. Here are the pieces, their English names, and their relative powers, indicated by number:
 
 1) Rat
@@ -68,7 +63,7 @@ Each side has three Tree squares surrounding its Castle. A player may move on an
 The Castle
 Animals are allowed to move into their own Castle. When an animal moves into the opponent’s Castle, it has won the game.
 
--->
+
 
 
 
