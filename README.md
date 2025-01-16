@@ -23,6 +23,8 @@ info@didakoo.com
 - goal game 
 - points assignation
 - game modes
+- if you make a login 
+- picture of animals 
 -->
 This game is 1 vs 1.
 For all player ages , a match can last 10 sec to 1 hour.
