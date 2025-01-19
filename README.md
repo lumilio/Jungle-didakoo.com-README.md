@@ -3,10 +3,7 @@
 # Jungle  
 <details>
   <summary>v 1.0.6</summary>
-
-  * 1.0.5 14 September 2024
-  * 1.0.3
-  * 1.0.2
+  Last updated 17 october 2024
 </details>
 
 Play Jungle browser game in [didakoo.com](https://didakoo.com). No third part advertising in this website, all data saved will be released periodically in [Rank History](https://github.com/lumilio/Jungle-didakoo.com-README.md/tree/main/Rank%20History) folder. 
