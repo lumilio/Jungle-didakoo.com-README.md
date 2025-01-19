@@ -1,9 +1,8 @@
 ![Imgur Image](http://i.imgur.com/3SqZpCN.jpg)
 
-# Jungle 1.0.6
-Jungle [didakoo.com](https://didakoo.com) browser game v 1.0.6 
+# Jungle [didakoo.com](https://didakoo.com) 1.0.6
 
-Last game update: 17 october 2024
+
 
 
 ![Imgur Image](http://i.imgur.com/fj8XkoO.jpg)
