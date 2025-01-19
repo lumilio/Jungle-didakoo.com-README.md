@@ -2,7 +2,7 @@
 
 # Jungle [didakoo.com](https://didakoo.com) 1.0.6
 
-
+Play Jungle browser game in [didakoo.com](https://didakoo.com). In this game no third part advertising, all data saved will be relased periodically. Updates and news on [X](https://twitter.com/didakoo_games) - info@didakoo.com
 
 
 ![Imgur Image](http://i.imgur.com/fj8XkoO.jpg)
@@ -130,8 +130,6 @@ Every day at 20:00pm to 21:00pm in New York time zone Jungle pass is temporarily
 
 
 # Nft Policy 
-
-In this game no third part advertising, all data saved will be relased periodically. Updates and news on [X](https://twitter.com/didakoo_games) - info@didakoo.com
 
 Questo è un videogioco indipendente che si interfaccia alle seguenti Blockchain : Ethereum Mainnet, Polygon L2, Base L2 . A seguito di numerose transazioni sulla blockchain di ethereum e di certificazione del possesso di qualifiche di proprietà intellettuale sotto forma di tokens ERC-721 e ERC-1155 sulla medesima chain , come : .crypto .base .eth 
 
