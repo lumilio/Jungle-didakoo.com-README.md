@@ -1,15 +1,14 @@
 ![Imgur Image](http://i.imgur.com/3SqZpCN.jpg)
 
 # Jungle 1.0.6
-Jungle is a Web3 browser game hosted in didakoo.com ---> [didakoo.com](https://didakoo.com) , 
-Play Jungle in didakoo.com in any device. In this game no third part advertising, all data saved will be relased periodically. Updates and news on [X](https://twitter.com/didakoo_games) - info@didakoo.com
+Jungle didakoo.com is a browser game in [didakoo.com](https://didakoo.com) , 
 
-This game is 1 vs 1. To win, one player must successfully move any animal to the Castle of the opponent.
 
 ![Imgur Image](http://i.imgur.com/fj8XkoO.jpg)
 
 
 ### Animals Pieces
+This game is 1 vs 1. To win, one player must successfully move any animal to the Castle of the opponent.
 Each player has eight pieces, different animals, with different degrees of power. Here are the pieces, their English names, and their relative powers, indicated by number:
 
 1) Rat
@@ -30,11 +29,11 @@ All pieces have the same basic move, although some have special powers (describe
 3) Both the Lion and the Tiger can jump over the water, moving from one bank straight forward, backward, left or right to the first square of dry land on the other side. They may capture in this move as well. The Lion and Tiger can not jump over a rat if in the water.
 
 
-### The Castle
-Animals are allowed to move into their own Castle. When an animal moves into the opponent’s Castle, it has won the game.
-
 ### The Trees
 Each side has three Tree squares surrounding its Castle. A player may move on and off of his own Tree squares with no effect. If, however, a player moves onto the opponent’s tree square, that piece loses all of its power, and may be captured by any of the defending pieces.
+
+### The Castle
+Animals are allowed to move into their own Castle. When an animal moves into the opponent’s Castle, it has won the game.
 
 ### Rank & Points
 At the end of a match the winner is rewarded with 3 rank points. ...........
@@ -130,6 +129,8 @@ Every day at 20:00pm to 21:00pm in New York time zone Jungle pass is temporarily
 
 
 # Nft Policy 
+
+In this game no third part advertising, all data saved will be relased periodically. Updates and news on [X](https://twitter.com/didakoo_games) - info@didakoo.com
 
 Questo è un videogioco indipendente che si interfaccia alle seguenti Blockchain : Ethereum Mainnet, Polygon L2, Base L2 . A seguito di numerose transazioni sulla blockchain di ethereum e di certificazione del possesso di qualifiche di proprietà intellettuale sotto forma di tokens ERC-721 e ERC-1155 sulla medesima chain , come : .crypto .base .eth 
 
