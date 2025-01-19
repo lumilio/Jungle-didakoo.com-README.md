@@ -4,7 +4,9 @@
 
 Play Jungle browser game in [didakoo.com](https://didakoo.com). 
 
-No third part advertising in this website, all data saved will be relased periodically. Updates and news on [X](https://twitter.com/didakoo_games) 
+No third part advertising in this website, all data saved will be relased periodically. 
+
+Updates and news on [X](https://twitter.com/didakoo_games) 
 
 info@didakoo.com
 
