@@ -9,7 +9,7 @@ Last game update: 17 october 2024
 ![Imgur Image](http://i.imgur.com/fj8XkoO.jpg)
 
 
-### Animals Pieces
+## Animals 
 This game is 1 vs 1. To win, one player must successfully move any animal to the Castle of the opponent.
 Each player has eight pieces, different animals, with different degrees of power. Here are the pieces, their English names, and their relative powers, indicated by number:
 
@@ -22,25 +22,25 @@ Each player has eight pieces, different animals, with different degrees of power
 7) Lion
 8) Elephant 
 
-### Movement of the Pieces
+## Movement of the Pieces
 All pieces have the same basic move, although some have special powers (described below). The basic move is just one space either forward, backward, left or right. The pieces never move diagonally. An animal is captured (or “eaten”) by an opposing animal moving onto its square, as in chess. But the attacking animal must be of equal or higher power than the one being captured. For instance, the Tiger (6) can capture the Tiger (6), Leopard (5) or Monkey (4), but the Dog can not capture the Leopard or Tiger.
 
-### Extra moves
+## Extra moves
 1) The Rat, although it is the least powerful piece, has the power to capture the Elephant. The Elephant can not capture the Rat. 
 2) The Rat, and no other animal, can move in the water. 
 3) Both the Lion and the Tiger can jump over the water, moving from one bank straight forward, backward, left or right to the first square of dry land on the other side. They may capture in this move as well. The Lion and Tiger can not jump over a rat if in the water.
 
 
-### The Trees
+## The Trees
 Each side has three Tree squares surrounding its Castle. A player may move on and off of his own Tree squares with no effect. If, however, a player moves onto the opponent’s tree square, that piece loses all of its power, and may be captured by any of the defending pieces.
 
-### The Castle
+## The Castle
 Animals are allowed to move into their own Castle. When an animal moves into the opponent’s Castle, it has won the game.
 
-### Rank & Points
+## Rank & Points
 At the end of a match the winner is rewarded with 3 rank points. ...........
 
-### Game modes
+## Multiplayer
 You can play against computer or challenge a friend in Multiplayer mode by sharing a room link.
 
 
