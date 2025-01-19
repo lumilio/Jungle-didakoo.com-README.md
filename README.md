@@ -3,7 +3,7 @@
 # Jungle  
 <details>
   <summary>v 1.0.6</summary>
-  _ Release 17 october 2024
+_ 1.0.6 Jungle _ 17 october 2024
 </details>
 
 Play Jungle browser game in [didakoo.com](https://didakoo.com). No third part advertising in this website. Full copy of Db will be released 1st day of the month periodically in [Rank History](https://github.com/lumilio/Jungle-didakoo.com-README.md/tree/main/Rank%20History) folder. 
