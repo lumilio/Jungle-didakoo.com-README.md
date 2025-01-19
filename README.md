@@ -2,7 +2,7 @@
 
 # Jungle 1.0.6
 
-Play Jungle v1.0.6 browser game in [didakoo.com](https://didakoo.com). No third part advertising in this website, all data saved will be released periodically. [X](https://twitter.com/didakoo_games) / info@didakoo.com
+Play Jungle v 1.0.6 browser game in [didakoo.com](https://didakoo.com). No third part advertising in this website, all data saved will be released periodically. [X](https://twitter.com/didakoo_games) / info@didakoo.com
 
 
 ![Imgur Image](http://i.imgur.com/fj8XkoO.jpg)
