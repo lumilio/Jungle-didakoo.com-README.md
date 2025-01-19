@@ -1,8 +1,15 @@
 ![Imgur Image](http://i.imgur.com/3SqZpCN.jpg)
 
-# Jungle 1.0.6
+# Jungle  
+<details>
+  <summary>v 1.0.6</summary>
 
-Play Jungle v1.0.6 browser game in [didakoo.com](https://didakoo.com). No third part advertising in this website, all data saved will be released periodically in [Rank History](https://github.com/lumilio/Jungle-didakoo.com-README.md/tree/main/Rank%20History) folder. 
+  1. 1.0.5
+  2. 1.0.3
+  3. 1.0.2
+</details>
+
+Play Jungle browser game in [didakoo.com](https://didakoo.com). No third part advertising in this website, all data saved will be released periodically in [Rank History](https://github.com/lumilio/Jungle-didakoo.com-README.md/tree/main/Rank%20History) folder. 
 
 [X](https://twitter.com/didakoo_games) / info@didakoo.com
 
