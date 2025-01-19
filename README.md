@@ -1,7 +1,7 @@
 ![Imgur Image](http://i.imgur.com/3SqZpCN.jpg)
 
 # Jungle 1.0.6
-Jungle didakoo.com is a browser game in [didakoo.com](https://didakoo.com) , 
+Jungle [didakoo.com](https://didakoo.com) browser game v 1.0.6
 
 
 ![Imgur Image](http://i.imgur.com/fj8XkoO.jpg)
