@@ -9,8 +9,9 @@ Play Jungle browser game in [didakoo.com](https://didakoo.com). No third part ad
 
 
 ## Animals 
-This game is 1 vs 1. To win, one player must successfully move any animal to the Castle of the opponent.
-Each player has eight pieces, different animals, with different degrees of power. Here are the pieces, their English names, and their relative powers, indicated by number:
+This game is 1 vs 1. To win, one player must move any Animal to the Piramid of the opponent.
+
+Each player has eight different animals, with different degrees of power. Here are the pieces, their English names, and their relative powers, indicated by number:
 
 1) Rat
 2) Cat
@@ -31,10 +32,10 @@ All pieces have the same basic move, although some have special powers (describe
 
 
 ## The Trees
-Each side has three Tree squares surrounding its Castle. A player may move on and off of his own Tree squares with no effect. If, however, a player moves onto the opponent’s tree square, that piece loses all of its power, and may be captured by any of the defending pieces.
+Each side has three Tree squares surrounding its Piramid. A player may move on and off of his own Tree squares with no effect. If, however, a player moves onto the opponent’s tree square, that piece loses all of its power, and may be captured by any of the defending pieces.
 
-## The Castle
-Animals are allowed to move into their own Castle. When an animal moves into the opponent’s Castle, it has won the game.
+## The Piramid
+Animals are allowed to move into their own Piramid. When an animal moves into the opponent’s Piramid, it has won the game.
 
 ## Rank & Points
 At the end of a match the winner is rewarded with 3 rank points. ...........
