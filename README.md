@@ -6,7 +6,7 @@
 _ 1.0.6 Jungle _ 17 october 2024
 </details>
 
-Play Jungle browser game in https:// [didakoo.com](https://didakoo.com). No third part advertising in this website. Full copy of Db will be shared 1st day of the month periodically in [Rank History](https://github.com/lumilio/Jungle-didakoo.com-README.md/tree/main/Rank%20History) folder. 
+Play Jungle browser game in https://didakoo.com. No third part advertising in this website. Full copy of Db will be shared 1st day of the month periodically in [Rank History](https://github.com/lumilio/Jungle-didakoo.com-README.md/tree/main/Rank%20History) folder. 
 
 [X](https://twitter.com/didakoo_games) / <!-- [Instagram](https://twitter.com/didakoo_games) / [Youtube](https://twitter.com/didakoo_games) / [Twich](https://twitter.com/didakoo_games) / [TikTok](https://twitter.com/didakoo_games) / --> info@didakoo.com
 
@@ -16,7 +16,6 @@ Play Jungle browser game in https:// [didakoo.com](https://didakoo.com). No thir
 
 ## Animals 
 This game is 1 vs 1. To win, one player must move any animal to the piramid of the opponent.
-
 Each player has eight different animals, with different degrees of power. Here are the pieces, their English names, and their relative powers, indicated by number:
 
 1) Rat
