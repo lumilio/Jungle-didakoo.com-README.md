@@ -1,6 +1,6 @@
 ![Imgur Image](http://i.imgur.com/3SqZpCN.jpg)
 
-# Jungle [didakoo.com](https://didakoo.com) 1.0.6
+# Jungle 1.0.6
 
 Play Jungle browser game in [didakoo.com](https://didakoo.com). In this game no third part advertising, all data saved will be relased periodically. Updates and news on [X](https://twitter.com/didakoo_games) - info@didakoo.com
 
