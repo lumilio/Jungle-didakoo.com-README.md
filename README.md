@@ -175,3 +175,14 @@ At the end of a match the winner is rewarded with 3 rank points. ...........
 ## Multiplayer
 You can play against computer or challenge a friend in Multiplayer mode by sharing a room link.
 
+## App Code is private 
+Single-Page WebApp Multiplyer Videogame with custom minimax algorithm built in Laravel (PHP) and Vue.js (JavaScript). 
+After a careful evaluation of potential risks that could harm both Didakoo brand and its customers, I have decided to make the GitHub repository containing the game’s code private. This decision stems from the need to safeguard intellectual property, maintain quality control, and ensure a safety user experience. One of the primary concerns is that malicious actors could copy the code to create fraudulent versions of the game, 
+potentially using them for phishing scams. Such replicas could deceive users into providing sensitive information, 
+putting both their data and the reputation of the Didakoo brand at risk. By restricting access to the code, 
+I aim to prevent these threats and protect our customers from harmful exploitation. 
+This measure ensures that only authorized contributors have access, 
+allowing us to deliver a secure and authentic software.
+
+<img src="https://imgur.com/e60LCHg.jpg" alt="drawing" style="width:300px;"/> 
+
