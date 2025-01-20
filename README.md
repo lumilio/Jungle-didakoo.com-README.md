@@ -37,7 +37,7 @@ All pieces have the same basic move, although some have extra moves. The basic m
 
 &ensp;
 
-## The Trees ![Imgur Image](http://i.imgur.com/ahAcNBF.jpg)
+## The Trees <img src="https://imgur.com/ahAcNBF.jpg" alt="drawing" style="margin-bottom:-10px;"/> 
 
 <!-- ![Imgur Image](http://i.imgur.com/nj1fHT1.jpg)
 ![Imgur Image](http://i.imgur.com/nj1fHT1.jpg)
@@ -185,4 +185,6 @@ This measure ensures that only authorized contributors have access,
 allowing us to deliver a secure and authentic software.
 
 <img src="https://imgur.com/e60LCHg.jpg" alt="drawing" style="width:300px;"/> 
+
+
 
