@@ -22,7 +22,9 @@ Each player has 8 different animals, with different degrees of power. Here are t
 ![Imgur Image](http://i.imgur.com/MrUHXms.jpg)
 
 The initial animals arrangement in board is random for each player every new match.
+
 &ensp;
+
 
 
 
