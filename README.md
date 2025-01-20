@@ -27,7 +27,7 @@ Here are the animals pieces, with their relative powers indicated by number :
 
 
 ## Movement of the Pieces
-All pieces have the same basic move, although some have special powers (described below). The basic move is just one space either forward, backward, left or right. The pieces never move diagonally. An animal is captured (or “eaten”) by an opposing animal moving onto its square, as in chess. But the attacking animal must be of equal or higher power than the one being captured. For instance, the Tiger (6) can capture the Tiger (6), Leopard (5) or Monkey (4), but the Dog can not capture the Leopard or Tiger.
+All pieces have the same basic move, although some have extra moves. The basic move is just one space either forward, backward, left or right. The pieces never move diagonally. An animal is eaten by an opposing animal moving onto its square. The attacking animal must be of equal or higher power than the one being captured. For instance, the Tiger (6) can capture the Tiger (6), Leopard (5) or Monkey (4), but the Dog can not capture the Leopard or Tiger.
 
 ### Extra moves
 1) The Rat, although it is the least powerful piece, has the power to capture the Elephant. The Elephant can not capture the Rat. 
