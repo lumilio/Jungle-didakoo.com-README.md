@@ -19,7 +19,7 @@ This game is 1 vs 1. To win, one player must move any animal to the piramid of t
 Each player has eight different animals, with different degrees of power. Here are the pieces, their English names, and their relative powers, indicated by number:
 
 
-![Imgur Image](https://imgur.com/a/animals-VRoSufA.jpg)
+![Imgur Image](http://i.imgur.com/a/animals-VRoSufA.jpg)
 
 
 
