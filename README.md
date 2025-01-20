@@ -38,9 +38,9 @@ All pieces have the same basic move, although some have special powers (describe
 
 ## The Trees
 
-![Imgur Image](http://i.imgur.com/n8Ahkko.jpg)
-![Imgur Image](http://i.imgur.com/n8Ahkko.jpg)
-![Imgur Image](http://i.imgur.com/n8Ahkko.jpg)
+![Imgur Image](http://i.imgur.com/ahAcNBF.jpg)
+![Imgur Image](http://i.imgur.com/ahAcNBF.jpg)
+![Imgur Image](http://i.imgur.com/ahAcNBF.jpg)
 
 Each side has 3x Tree squares surrounding its Piramid. A player may move on and off of his own Tree squares with no effect. If, however, a player moves onto the opponent’s tree square, that piece loses all of its power, and may be captured by any of the defending pieces.
 
