@@ -37,9 +37,9 @@ All pieces have the same basic move, although some have extra moves. The basic m
 
 &ensp;
 
-## The Trees <img src="https://imgur.com/fiYBkuc.jpg" alt="drawing" style="margin-bottom:-5px;"/> 
+## The Trees ![Imgur Image](http://i.imgur.com/HJTKsI7.jpg)
 
-<!-- ![Imgur Image](http://i.imgur.com/fiYBkuc.jpg)
+<!-- ![Imgur Image](http://i.imgur.com/HJTKsI7.jpg)
 ![Imgur Image](http://i.imgur.com/nj1fHT1.jpg)
 ![Imgur Image](http://i.imgur.com/nj1fHT1.jpg) -->
 
