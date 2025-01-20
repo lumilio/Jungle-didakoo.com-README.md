@@ -37,9 +37,10 @@ All pieces have the same basic move, although some have special powers (describe
 &ensp;
 
 ## The Trees
-Each side has three Tree squares surrounding its Piramid. A player may move on and off of his own Tree squares with no effect. If, however, a player moves onto the opponent’s tree square, that piece loses all of its power, and may be captured by any of the defending pieces.
 
 ![Imgur Image](http://i.imgur.com/78SRfUo.jpg)
+
+Each side has three Tree squares surrounding its Piramid. A player may move on and off of his own Tree squares with no effect. If, however, a player moves onto the opponent’s tree square, that piece loses all of its power, and may be captured by any of the defending pieces.
 
 
 ## The Piramid
