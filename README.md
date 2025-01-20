@@ -44,17 +44,10 @@ All pieces have the same basic move, although some have special powers (describe
 
 Each side has 3x Tree squares surrounding its Piramid. A player may move on and off of his own Tree squares with no effect. If, however, a player moves onto the opponent’s tree square, that piece loses all of its power, and may be captured by any of the defending pieces.
 
-
 ## The Piramid
 Animals are not allowed to move into their own Piramid. When an animal moves into the opponent’s Piramid, it has won the game.
 
-## Rank & Points
-At the end of a match the winner is rewarded with 3 rank points. ...........
-
-## Multiplayer
-You can play against computer or challenge a friend in Multiplayer mode by sharing a room link.
-
-
+&ensp;
 
 ## Ethereum & L2 Blockchains
 la scelta dell'utilizzo di Metamask come wallet per accedere al gioco è volta alla facilità di creazione 
@@ -138,9 +131,6 @@ Every day at 20:00pm to 21:00pm in New York time zone Jungle pass is temporarily
 | Africa      | Cape Verde Islands                      | 00:00 - 01:00       | UTC-1            |                    |                         |
 
 
-
-
-
 ## Nft Policy 
 
 Questo è un videogioco indipendente che si interfaccia alle seguenti Blockchain : Ethereum Mainnet, Polygon L2, Base L2 . A seguito di numerose transazioni sulla blockchain di ethereum e di certificazione del possesso di qualifiche di proprietà intellettuale sotto forma di tokens ERC-721 e ERC-1155 sulla medesima chain , come : .crypto .base .eth 
@@ -173,7 +163,11 @@ This is "one time purchase" videogame. The features you unlock with Nfts will be
 - [Lacoste UNDW3: The Emerge](https://opensea.io/collection/lacoste-undw3-the-emerge") 
 - [Decentraland](https://opensea.io/collection/decentraland") 
 
+## Rank & Points
+At the end of a match the winner is rewarded with 3 rank points. ...........
 
+## Multiplayer
+You can play against computer or challenge a friend in Multiplayer mode by sharing a room link.
 
 ## App Code is private 
 Single-Page WebApp Multiplyer Videogame with custom minimax algorithm built in Laravel (PHP) and Vue.js (JavaScript). 
