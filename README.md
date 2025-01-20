@@ -18,14 +18,10 @@ Play Jungle browser game in [didakoo.com](https://didakoo.com). No third part ad
 This game is 1 vs 1. To win, one player must move any animal to the piramid of the opponent.
 Each player has eight different animals, with different degrees of power. Here are the pieces, their English names, and their relative powers, indicated by number:
 
-1) Rat
-2) Cat
-3) Dog
-4) Monkey
-5) Leopard
-6) Tiger
-7) Lion
-8) Elephant 
+
+![Imgur Image](https://imgur.com/a/animals-VRoSufA.jpg)
+
+
 
 ## Movement of the Pieces
 All pieces have the same basic move, although some have special powers (described below). The basic move is just one space either forward, backward, left or right. The pieces never move diagonally. An animal is captured (or “eaten”) by an opposing animal moving onto its square, as in chess. But the attacking animal must be of equal or higher power than the one being captured. For instance, the Tiger (6) can capture the Tiger (6), Leopard (5) or Monkey (4), but the Dog can not capture the Leopard or Tiger.
