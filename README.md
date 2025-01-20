@@ -37,11 +37,7 @@ All pieces have the same basic move, although some have extra moves. The basic m
 
 &ensp;
 
-## The Trees <img src="https://imgur.com/HJTKsI7.jpg" alt="drawing" style=""/> <img src="https://imgur.com/HJTKsI7.jpg" alt="drawing" style=""/> <img src="https://imgur.com/HJTKsI7.jpg" alt="drawing" style=""/> 
-
-<!-- ![Imgur Image](http://i.imgur.com/HJTKsI7.jpg)
-![Imgur Image](http://i.imgur.com/nj1fHT1.jpg)
-![Imgur Image](http://i.imgur.com/nj1fHT1.jpg) -->
+## The Trees <img src="https://imgur.com/HJTKsI7.jpg" alt="drawing" style=""/> <!-- <img src="https://imgur.com/HJTKsI7.jpg" alt="drawing" style=""/> <img src="https://imgur.com/HJTKsI7.jpg" alt="drawing" style=""/>  -->
 
 Each side has 3x Tree squares surrounding its Piramid. A player may move on and off of his own tree squares with no effect. If, however, a player moves onto the opponent’s tree square, that piece loses all of its power, and may be eaten by any of the defending pieces.
 
