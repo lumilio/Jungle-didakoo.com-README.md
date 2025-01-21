@@ -172,9 +172,7 @@ You can play against computer or challenge a friend in Multiplayer mode by shari
 
 ## App Code is private 
 
-Jungle didakoo.com is a Single-Page WebApp Multiplyer Videogame with custom minimax algorithm built in Laravel (PHP) and Vue.js (JavaScript). 
-
-This software is no open-source to safeguard intellectual property, maintain quality control, and ensure a safety user experience. One of the primary concerns is that malicious actors could copy the code to create fraudulent versions of the game, potentially using them for phishing scams. Such replicas could deceive users into providing sensitive information, putting both their data and the reputation of brand at risk. allowing us to deliver a secure and authentic software.
+This software is not open-source to safeguard intellectual property, maintain quality control, and ensure a safety user experience. One of the primary concerns is that malicious actors could copy the code to create fraudulent versions of the game, potentially using them for phishing scams. Such replicas could deceive users into providing sensitive information, putting both their data and the reputation of brand at risk. allowing us to deliver a secure and authentic software.
 
 <!-- Jungle didakoo.com is a Single-Page WebApp Multiplyer Videogame with custom minimax algorithm built in Laravel (PHP) and Vue.js (JavaScript).  -->
 
