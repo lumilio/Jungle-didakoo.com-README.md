@@ -50,33 +50,32 @@ Animals are not allowed to move into their own Piramid. When an animal moves int
 &ensp; <!-- ------------------------------------------------------------------------- -->
 
 ## Ethereum & L2 Blockchains
-Whats ethereum ?/why Ethereum ?/whats L2?/whats metamask?/why metamask?
 
-la scelta dell'utilizzo di Metamask come wallet per accedere al gioco è volta alla facilità di creazione 
-di un wallet vergine dando la possibilità ai giocatori di interagire con il sito con sicurezza elevata,
 
-Metamask consente di creare infiniti wallet a costo 0. 
-how to install metamask ( loading ... tutorial section ... ) 
 
-(1) Ethereum e Metamask 
-What is an Ethereum gateway ?
-Ethereum was invented by Vitalik Buterin in 2013, is a decentralized computer powered by blockchain technology.
+Whats ethereum ?/ why Ethereum ?/
+Ethereum is a decentralized computer powered by blockchain technology. 
 More than just a cryptocurrency, it’s the house of Web3 applications, 
 revolutionizing digital ownership and authenticity introducing Non-Fungible Tokens ( NFTs ).
-(1a)
+token system opportunityb
+
+
+whats L2?/
+[...]
+
+whats metamask?/why metamask?
+la scelta dell'utilizzo di Metamask come wallet per accedere al gioco è volta alla facilità di creazione 
+di un wallet vergine dando la possibilità ai giocatori di interagire con il sito con sicurezza elevata,
+Metamask consente di creare infiniti wallet a costo 0. 
+how to install metamask ( loading ... tutorial section ... ) 
 To join Ethereum and create your avatar in Jungle you just need Metamask , 
 one of the most popular gateway wallet in crypto world.
 story 
 metamask tutorial 
-<!-- 
-- vitalik , ecosystem , what is ethereum , token system opportunityb , layers 2 , explain metamas an why we chose it  
--->
+
 
 
 ## How to login
-<!-- 
-metamas or guest if you able 
--->
 To play you need no email or password. You can join as “no wallet” as anonymous or login with Metamask wallet. Website on handshake recognize tokens in ethereum networks to unlock features in game : Eth Mainnet , Polygon L2, Base L2 . It's also possible login as anonymous guest with less features.
 
 On your first Metamask login, your player will be created in the game ranking. 
@@ -172,13 +171,14 @@ At the end of a match the winner is rewarded with 3 rank points. ...........
 You can play against computer or challenge a friend in Multiplayer mode by sharing a room link.
 
 ## App Code is private 
-Single-Page WebApp Multiplyer Videogame with custom minimax algorithm built in Laravel (PHP) and Vue.js (JavaScript). 
-After a careful evaluation of potential risks that could harm both Didakoo brand and its customers, I have decided to make the GitHub repository containing the game’s code private. This decision stems from the need to safeguard intellectual property, maintain quality control, and ensure a safety user experience. One of the primary concerns is that malicious actors could copy the code to create fraudulent versions of the game, 
-potentially using them for phishing scams. Such replicas could deceive users into providing sensitive information, 
-putting both their data and the reputation of the Didakoo brand at risk. By restricting access to the code, 
-I aim to prevent these threats and protect our customers from harmful exploitation. 
-This measure ensures that only authorized contributors have access, 
-allowing us to deliver a secure and authentic software.
+
+Jungle didakoo.com is a Single-Page WebApp Multiplyer Videogame with custom minimax algorithm built in Laravel (PHP) and Vue.js (JavaScript). 
+
+This software is no open-source to safeguard intellectual property, maintain quality control, and ensure a safety user experience. One of the primary concerns is that malicious actors could copy the code to create fraudulent versions of the game, potentially using them for phishing scams. Such replicas could deceive users into providing sensitive information, putting both their data and the reputation of brand at risk. allowing us to deliver a secure and authentic software.
+
+<!-- Jungle didakoo.com is a Single-Page WebApp Multiplyer Videogame with custom minimax algorithm built in Laravel (PHP) and Vue.js (JavaScript).  -->
+
+<!-- code snippet [...] -->
 
 <img src="https://imgur.com/e60LCHg.jpg" alt="drawing" style="width:300px;"/> 
 
