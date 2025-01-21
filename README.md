@@ -50,6 +50,9 @@ Animals are not allowed to move into their own Piramid. When an animal moves int
 &ensp; <!-- ------------------------------------------------------------------------- -->
 
 ## Ethereum & L2 Blockchains
+Whats ethereum ?/why Ethereum ?/whats L2?/whats metamask?/
+
+
 la scelta dell'utilizzo di Metamask come wallet per accedere al gioco è volta alla facilità di creazione 
 di un wallet vergine dando la possibilità ai giocatori di interagire con il sito con sicurezza elevata,
 
