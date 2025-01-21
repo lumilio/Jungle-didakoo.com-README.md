@@ -10,8 +10,6 @@ Play Jungle browser game in [didakoo.com](https://didakoo.com). No third part ad
 
 [X](https://twitter.com/didakoo_games) / [Youtube](https://www.youtube.com/@Didakoo_TV) / [Twich](https://www.twitch.tv/didakoo_tv) / info@didakoo.com
 
-https://www.twitch.tv/didakoo_tv
-
 ![Imgur Image](http://i.imgur.com/fj8XkoO.jpg)
 
 
