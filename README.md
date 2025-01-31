@@ -57,8 +57,13 @@ Animals are not allowed to move into their own Piramid. When an animal moves int
 
 Whats ethereum ?/ why Ethereum ?/
 
+distributed computing platform
 
-[Ethereum](https://ethereum.org/en/) is a decentralized computer powered by blockchain technology. 
+
+
+[Blockchain](https://en.wikipedia.org/wiki/Blockchain) 
+
+[Ethereum](https://ethereum.org/en/) is a decentralized computer powered by [Blockchain](https://en.wikipedia.org/wiki/Blockchain) technology. 
 More than just a cryptocurrency, it’s the house of Web3 applications, 
 revolutionizing digital ownership and authenticity introducing Non-Fungible Tokens ( NFTs ).
 token system opportunityb
