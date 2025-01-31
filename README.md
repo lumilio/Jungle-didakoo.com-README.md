@@ -55,13 +55,14 @@ Animals are not allowed to move into their own Piramid. When an animal moves int
 
 [Ethereum](https://ethereum.org/en/) is a distributed computing platform based on [Blockchain](https://en.wikipedia.org/wiki/Blockchain) technology. Ethereum enables the execution of smart contracts and decentralized applications in a secure environment without the need for a central authority.
 
+The introduction of Ethereum NFTs has allowed didakoo.com to recognize a player's identity and their NFTs without requiring an email or password. This is done through the use of crypto wallet MetaMask, which provides a unique blockchain address linked to the player and their NFTs
 
 
-Whats ethereum ?/ why Ethereum ?/
+acts as a digital identifier and proof of ownership of NFT assets. provides a unique blockchain address linked to the player and their NFTs.
 
-More than just a cryptocurrency, it’s the house of Web3 applications, 
-revolutionizing digital ownership and authenticity introducing Non-Fungible Tokens ( NFTs ).
-token system opportunityb
+
+
+
 
 
 whats L2?/
