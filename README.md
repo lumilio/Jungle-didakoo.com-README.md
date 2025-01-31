@@ -60,8 +60,10 @@ The introduction of Ethereum NFTs has allowed didakoo.com to recognize players a
 L2 are independent blockchains connected to Ethereum, didakoo.com allows you to sign in using Metamask on the following chains:
 
 * Ethereum Mainnet
-* Polygon
-* Base
+* Polygon 
+* Base 
+
+NFTs from Didakoo are available on OpenSea marketplace across these same chains.
 
 
 
