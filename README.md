@@ -57,13 +57,13 @@ Animals are not allowed to move into their own Piramid. When an animal moves int
 
 The introduction of Ethereum NFTs has allowed didakoo.com to recognize players and their NFTs without requiring an email or password. This is done through the use of crypto wallet [MetaMask](https://metamask.io/), which provides a unique blockchain address linked to the player and their NFTs. With Metamask you can create infinite anonymous wallets and addresses for free. 
 
-L2 are independent blockchains connected to Ethereum, didakoo.com allows you to sign in using Metamask on the following chains:
+L2 are independent blockchains connected to Ethereum, didakoo.com allows you to sign in using Metamask on the following chains: (NFTs from Didakoo are available on OpenSea marketplace across these same chains).
 
 * Ethereum Mainnet
 * Polygon 
 * Base 
 
-NFTs from Didakoo are available on OpenSea marketplace across these same chains.
+
 
 
 
