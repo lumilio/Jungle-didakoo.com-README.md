@@ -55,16 +55,10 @@ Animals are not allowed to move into their own Piramid. When an animal moves int
 
 [Ethereum](https://ethereum.org/en/) is a distributed computing platform based on [Blockchain](https://en.wikipedia.org/wiki/Blockchain) technology. Ethereum enables the execution of smart contracts and decentralized applications in a secure environment without the need for a central authority.
 
-The introduction of Ethereum NFTs has allowed didakoo.com to recognize a player's identity and their NFTs without requiring an email or password. This is done through the use of crypto wallet MetaMask, which provides a unique blockchain address linked to the player and their NFTs. Metamask allowing players to create infinite wallets and addresses effortlessly. 
+The introduction of Ethereum NFTs has allowed didakoo.com to recognize a player's identity and their NFTs without requiring an email or password. This is done through the use of crypto wallet [MetaMask](https://metamask.io/), which provides a unique blockchain address linked to the player and their NFTs. Metamask allowing players to create infinite anonymous and v irgin wallets and addresses for free. 
 
 
 
-
-how to install metamask ( loading ... tutorial section ... ) 
-To join Ethereum and create your avatar in Jungle you just need Metamask , 
-one of the most popular gateway wallet in crypto world.
-story 
-metamask tutorial 
 
 
 
