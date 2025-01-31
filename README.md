@@ -57,21 +57,18 @@ Animals are not allowed to move into their own Piramid. When an animal moves int
 
 The introduction of Ethereum NFTs has allowed didakoo.com to recognize players and their NFTs without requiring an email or password. This is done through the use of crypto wallet [MetaMask](https://metamask.io/), which provides a unique blockchain address linked to the player and their NFTs. With Metamask you can create infinite anonymous wallets and addresses for free. 
 
-L2 are independent blockchains connected to Ethereum, didakoo.com allows you to sign in using Metamask on the following chains: (NFTs from Didakoo are available on OpenSea marketplace across these same chains).
+L2 are independent blockchains connected to Ethereum, didakoo.com allows you to Log-in using Metamask on the following chains:
 
 * Ethereum Mainnet
 * Polygon 
 * Base 
 
 
-
-
-
 ## How to login
 
 
 
-Players can interact with didakoo.com even using a brand-new Metamask wallet with no funds. In didakoo.com there is only one smart contract used for sign-in, and it requires zero gas fees, meaning you don’t need ETH or tokens to start playing. You can connect a fresh wallet without worrying about transaction costs or exposing your main account. 
+Players can interact with didakoo.com even using a brand-new Metamask wallet with no funds. In didakoo.com there is only one smart contract used for login, and it requires zero gas fees, meaning you don’t need ETH or tokens to start playing. You can connect a fresh wallet without worrying about transaction costs or exposing your main account. 
 
 
 
@@ -135,6 +132,9 @@ Every day at 20:00pm to 21:00pm in New York time zone Jungle pass is temporarily
 At the end of a match the winner is rewarded with 3 rank points. ...........
 
 ## Nft Policy 
+
+
+NFTs from Didakoo are available on OpenSea marketplace across these same chains. 
 
 Questo è un videogioco indipendente che si interfaccia alle seguenti Blockchain : Ethereum Mainnet, Polygon L2, Base L2 . A seguito di numerose transazioni sulla blockchain di ethereum e di certificazione del possesso di qualifiche di proprietà intellettuale sotto forma di tokens ERC-721 e ERC-1155 sulla medesima chain , come : .crypto .base .eth 
 
