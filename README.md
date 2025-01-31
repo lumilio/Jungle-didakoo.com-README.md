@@ -130,6 +130,8 @@ Every day at 20:00pm to 21:00pm in New York time zone Jungle pass is temporarily
 | Africa      | Seychelles, Mauritius                   | 05:00 - 04:00       | UTC+4            |                    |                         |
 | Africa      | Cape Verde Islands                      | 00:00 - 01:00       | UTC-1            |                    |                         |
 
+## Rank & Points 
+At the end of a match the winner is rewarded with 3 rank points. ...........
 
 ## Nft Policy 
 
@@ -162,9 +164,6 @@ This is "one time purchase" videogame. The features you unlock with Nfts will be
 - [Pepsi Mic Drop](https://opensea.io/collection/pepsi-mic-drop") 
 - [Lacoste UNDW3: The Emerge](https://opensea.io/collection/lacoste-undw3-the-emerge") 
 - [Decentraland](https://opensea.io/collection/decentraland") 
-
-## Rank & Points
-At the end of a match the winner is rewarded with 3 rank points. ...........
 
 ## Multiplayer
 You can play against computer or challenge a friend in Multiplayer mode by sharing a room link.
