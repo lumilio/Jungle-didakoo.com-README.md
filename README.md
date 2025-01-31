@@ -8,6 +8,8 @@ _ 1.0.6 Jungle _ 17 october 2024
 
 Play Jungle browser game in [didakoo.com](https://didakoo.com). No third part advertising in this website. All data collected will be shared 1st day of the month periodically in [Rank History](https://github.com/lumilio/Jungle-didakoo.com-README.md/tree/main/Rank%20History) folder. 
 
+The minimum internet speed to play is a 5 megabits per second (Mbps) connection or faster.
+
 [X](https://twitter.com/didakoo_games) / [Youtube](https://www.youtube.com/@Didakoo_TV) <!-- [Twich](https://www.twitch.tv/didakoo_tv) --> / info@didakoo.com
 
 ![Imgur Image](http://i.imgur.com/fj8XkoO.jpg)
