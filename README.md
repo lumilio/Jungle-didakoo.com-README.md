@@ -45,9 +45,9 @@ Each side has 3x Tree squares surrounding its Piramid. A player may move on and 
 
 ## The Piramid
 
-![Imgur Image](http://i.imgur.com/tuJgkIV.jpg)
-
 Animals are not allowed to move into their own Piramid. When an animal moves into the opponent’s Piramid, it has won the game.
+
+![Imgur Image](http://i.imgur.com/tuJgkIV.jpg)
 
 &ensp; <!-- ------------------------------------------------------------------------- -->
 
