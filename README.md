@@ -9,7 +9,7 @@ _ Jungle V 1.0.6 _ 17 october 2024
 
 Play Jungle browser game in [didakoo.com](https://didakoo.com). No third part advertising in this website. All data collected will be shared 1st day of the month periodically in [Rank History](https://github.com/lumilio/Jungle-didakoo.com-README.md/tree/main/Rank%20History) folder. 
 
-Minimum internet speed to play is a 5 Mbps connection.
+Minimum internet speed to play is a 10 Mbps connection.
 
 [X](https://twitter.com/didakoo_games) / [Youtube](https://www.youtube.com/@Didakoo_TV) <!-- [Twich](https://www.twitch.tv/didakoo_tv) --> / info@didakoo.com
 
@@ -55,7 +55,7 @@ Animals are not allowed to move into their own Piramid. When an animal moves int
 
 [Ethereum](https://ethereum.org/en/) is a distributed computing platform based on [Blockchain](https://en.wikipedia.org/wiki/Blockchain) technology. Ethereum enables the execution of smart contracts and decentralized applications in a secure environment without the need for a central authority.
 
-The introduction of Ethereum NFTs has allowed didakoo.com to recognize players and their NFTs without requiring an email or password. This is done through the use of crypto wallet [MetaMask](https://metamask.io/), which provides a unique blockchain address linked to the player and their NFTs. With Metamask you can create infinite anonymous wallets and addresses for free. 
+The introduction of Ethereum NFTs has allowed didakoo.com to recognize players and their NFTs without requiring an email or password. This is done through the use of crypto wallet [MetaMask](https://metamask.io/), which provides a unique blockchain address that proves ownership of the player's NFTs. With Metamask you can create infinite anonymous wallets and addresses for free. 
 
 L2 are independent blockchains connected to Ethereum, didakoo.com allows you to Log-in using Metamask on the following chains:
 
