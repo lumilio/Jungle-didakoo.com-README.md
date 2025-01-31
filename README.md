@@ -57,6 +57,8 @@ Animals are not allowed to move into their own Piramid. When an animal moves int
 
 The introduction of Ethereum NFTs has allowed didakoo.com to recognize players and their NFTs without requiring an email or password. This is done through the use of crypto wallet [MetaMask](https://metamask.io/), which provides a unique blockchain address linked to the player and their NFTs. With Metamask you can create infinite anonymous wallets and addresses for free. 
 
+Players can interact with didakoo.com even using a brand-new Metamask wallet with no funds. In didakoo.com there is only one smart contract used for sign-in, and it requires zero gas fees, meaning you don’t need ETH or tokens to start playing. You can connect a fresh wallet without worrying about transaction costs or exposing your main account. 
+
 
 ## How to login
 To play you need no email or password. You can join as “no wallet” as anonymous or login with Metamask wallet. Website on handshake recognize tokens in ethereum networks to unlock features in game : Eth Mainnet , Polygon L2, Base L2 . It's also possible login as anonymous guest with less features.
