@@ -53,16 +53,11 @@ Animals are not allowed to move into their own Piramid. When an animal moves int
 
 ## Ethereum & L2 Blockchains
 
+[Ethereum](https://ethereum.org/en/) is a distributed computing platform based on [Blockchain](https://en.wikipedia.org/wiki/Blockchain) technology. Ethereum enables the execution of smart contracts and decentralized applications in a secure environment without the need for a central authority.
+
 
 
 Whats ethereum ?/ why Ethereum ?/
-
-distributed computing platform
-
-
-
-
-[Ethereum](https://ethereum.org/en/) is a distributed computing platform based on [Blockchain](https://en.wikipedia.org/wiki/Blockchain) technology. Ethereum enables the execution of smart contracts and decentralized applications in a secure environment without the need for a central authority.
 
 More than just a cryptocurrency, it’s the house of Web3 applications, 
 revolutionizing digital ownership and authenticity introducing Non-Fungible Tokens ( NFTs ).
