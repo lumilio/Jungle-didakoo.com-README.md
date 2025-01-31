@@ -4,7 +4,7 @@
 <details>
   <summary>v 1.0.6</summary>
 
-* _ 1.0.6 Jungle _ 17 october 2024 
+* _ Jungle V 1.0.6 _ 17 october 2024 
 
 * Minimum internet speed to play is a 5 Mbps connection.
 </details>
