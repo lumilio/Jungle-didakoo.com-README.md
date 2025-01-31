@@ -59,9 +59,9 @@ The introduction of Ethereum NFTs has allowed didakoo.com to recognize players a
 
 L2 are independent blockchains connected to Ethereum, didakoo.com allows you to Log-in using Metamask on the following chains:
 
-* Ethereum Mainnet
-* Polygon 
-* Base 
+* [Ethereum Mainnet](https://metamask.io/)
+* [Polygon (L2)](https://metamask.io/)
+* [Base (L2)](https://metamask.io/)
 
 
 ## How to login
