@@ -61,9 +61,9 @@ distributed computing platform
 
 
 
-[Blockchain](https://en.wikipedia.org/wiki/Blockchain) 
 
-[Ethereum](https://ethereum.org/en/) is a decentralized computer powered by [Blockchain](https://en.wikipedia.org/wiki/Blockchain) technology. 
+[Ethereum](https://ethereum.org/en/) is a distributed computing platform powered by [Blockchain](https://en.wikipedia.org/wiki/Blockchain) technology. 
+
 More than just a cryptocurrency, it’s the house of Web3 applications, 
 revolutionizing digital ownership and authenticity introducing Non-Fungible Tokens ( NFTs ).
 token system opportunityb
@@ -72,7 +72,7 @@ token system opportunityb
 whats L2?/
 [...]
 
-whats metamask?/why metamask? https://ethereum.org/en/
+whats metamask?/why metamask? 
 la scelta dell'utilizzo di Metamask come wallet per accedere al gioco è volta alla facilità di creazione 
 di un wallet vergine dando la possibilità ai giocatori di interagire con il sito con sicurezza elevata,
 Metamask consente di creare infiniti wallet a costo 0. 
