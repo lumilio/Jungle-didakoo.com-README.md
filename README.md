@@ -83,7 +83,7 @@ In didakoo.com there is only one smart contract used for Metamask login, and it 
 
 &ensp;
 
-Every day at 20:00pm to 21:00pm in New York time zone the Jungle game is free to play (Jungle pass is temporarily not required to play) even "no wallet" players can access all game modes. Check the table to find your country free to play hour :
+Every day at 20:00pm to 21:00pm in New York time zone the game is free to play (Jungle pass is temporarily not required to play) even "no wallet" players can access all game modes. Check the table to find your country free to play hour :
 
 &ensp;
 
