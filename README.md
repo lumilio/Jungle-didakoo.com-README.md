@@ -79,6 +79,9 @@ Players can interact with didakoo.com even using a brand-new Metamask wallet wit
 On your first Metamask login, your player will be created in the game ranking. 
 Jungle benefit top-ranked players, grants them the opportunity to showcase their OpenSea accounts and their NFT collections. If you’re playing as “no wallet” you won’t have access to the ranking feature.
 
+![Imgur Image](http://i.imgur.com/t2LQDgY.jpg)
+
+
 Every day at 20:00pm to 21:00pm in New York time zone Jungle pass is temporarily not required to play , even guest mode is able to play all game modes. Check the table to find your country free to play hour :
 
 
