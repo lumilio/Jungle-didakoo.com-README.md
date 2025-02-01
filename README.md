@@ -68,7 +68,7 @@ L2 are independent blockchains connected to Ethereum. Didakoo.com allows you to 
 
 ## How to login
 
-You can login with Metamask wallet or join as “no wallet” guest with limited features, If you participate as a guest, you will not be able to create your own avatar, 
+You can Login with Metamask wallet or as “no wallet” with limited features, if you participate as “no wallet” you can not use or create your avatar. You can login as "no wallet" even in incognito mode.
 
 ![Imgur Image](http://i.imgur.com/5RQD9sA.jpg)
 
