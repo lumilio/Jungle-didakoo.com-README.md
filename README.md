@@ -64,6 +64,12 @@ L2 are independent blockchains connected to Ethereum. Didakoo.com allows you to 
 * [Base (L2)](https://metamask.io/)
 
 
+Players can interact with didakoo.com even using a brand-new Metamask wallet with no funds. In didakoo.com there is only one smart contract used for login, and it requires zero gas fees, meaning you don’t need ETH or tokens to start playing. You can connect a fresh wallet without worrying about transaction costs or exposing your main account.
+
+
+![Imgur Image](http://i.imgur.com/aWQApg7.jpg)
+
+
 ## How to login
 
 
