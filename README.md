@@ -74,7 +74,8 @@ You can Login with Metamask wallet or as “no wallet” with limited features, 
 
 ![Imgur Image](http://i.imgur.com/prdR0xK.jpg)
 
-On your first Metamask login, your player will be created in the game ranking. In didakoo.com there is only one smart contract used for login, and it requires zero gas fees, meaning you don’t need ETH or tokens to start playing. You can connect a fresh wallet without worrying about transaction costs or exposing your main account. 
+In didakoo.com there is only one smart contract used for Metamask login, and it requires zero gas fees. You can connect a fresh wallet without worrying about transaction costs or exposing your main account. 
+
 
 ![Imgur Image](http://i.imgur.com/aWQApg7.jpg)
 
