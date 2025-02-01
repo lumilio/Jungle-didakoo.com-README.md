@@ -5,6 +5,7 @@
   <summary>v 1.0.6</summary>
 
 _ Jungle V 1.0.6 _ 17 october 2024 
+
 </details>
 
 Play Jungle browser game in [didakoo.com](https://didakoo.com). No third part advertising in this website. All data collected will be shared 1st day of the month periodically in [Rank History](https://github.com/lumilio/Jungle-didakoo.com-README.md/tree/main/Rank%20History) folder. 
@@ -15,7 +16,6 @@ Minimum internet speed to play is a 10 Mbps connection.
 
 ![Imgur Image](http://i.imgur.com/fj8XkoO.jpg)
 
-
 ## Animals 
 This game is 1 vs 1. To win, one player must move any animal from his team <!-- ? -->to the piramid of the opponent. Each player has 8 different animals, with different degrees of power. The initial animals arrangement in board is random for each player every new match.
 
@@ -24,9 +24,6 @@ Here are the animals pieces, with their relative powers indicated by number :
 ![Imgur Image](http://i.imgur.com/MrUHXms.jpg)
 
 &ensp;
-
-
-
 
 ## Movement of the Pieces
 All pieces have the same basic move, although some have extra moves. The basic move is just one space either forward, backward, left or right. The pieces never move diagonally. An animal is eaten by an opposing animal moving onto its square. The attacking animal must be of equal or higher power than the one being eaten.
@@ -62,7 +59,6 @@ L2 are independent blockchains connected to Ethereum. Didakoo.com allows you to 
 * [Ethereum Mainnet](https://metamask.io/)
 * [Polygon (L2)](https://metamask.io/)
 * [Base (L2)](https://metamask.io/)
-
 
 &ensp;
 
