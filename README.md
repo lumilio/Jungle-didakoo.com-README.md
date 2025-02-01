@@ -82,7 +82,7 @@ Every day at 20:00pm to 21:00pm in New York time zone Jungle pass is temporarily
 
 
 
-| Region      | Location                                   | Free daily hour         | Solar time     | Free daily hour      | Legal time            |
+| Continent      | Location                                   | Free daily hour         | Solar time     | Free daily hour      | Legal time            |
 |-------------|-------------------------------------------|---------------------|------------------|--------------------|-------------------------|
 | Australia   | Western Australia                        | 09:00 - 10:00       | UTC+8            |                    |                         |
 | Australia   | Northern Territory                       | 10:30 - 11:30       | UTC+9:30         |                    |                         |
