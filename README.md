@@ -72,6 +72,8 @@ You can Login with Metamask wallet or as “no wallet” with limited features, 
 
 ![Imgur Image](http://i.imgur.com/5RQD9sA.jpg)
 
+![Imgur Image](http://i.imgur.com/prdR0xK.jpg)
+
 Players can interact with didakoo.com even using a brand-new Metamask wallet with no funds. In didakoo.com there is only one smart contract used for login, and it requires zero gas fees, meaning you don’t need ETH or tokens to start playing. You can connect a fresh wallet without worrying about transaction costs or exposing your main account. 
 
 ![Imgur Image](http://i.imgur.com/aWQApg7.jpg)
@@ -79,7 +81,6 @@ Players can interact with didakoo.com even using a brand-new Metamask wallet wit
 On your first Metamask login, your player will be created in the game ranking. 
 Jungle benefit top-ranked players, grants them the opportunity to showcase their OpenSea accounts and their NFT collections. If you’re playing as “no wallet” you won’t have access to the ranking feature.
 
-![Imgur Image](http://i.imgur.com/prdR0xK.jpg)
 
 
 
