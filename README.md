@@ -76,15 +76,9 @@ You can Login with Metamask wallet or as “no wallet” with limited features, 
 
 In didakoo.com there is only one smart contract used for Metamask login, and it requires zero gas fees. You can connect a fresh wallet without worrying about transaction costs or exposing your main account. 
 
-
 ![Imgur Image](http://i.imgur.com/aWQApg7.jpg)
 
-Players can log-in didakoo.com even using a brand-new Metamask wallet with no funds. In didakoo.com there is only one smart contract used for login, and it requires zero gas fees, meaning you don’t need ETH or tokens to start playing. You can connect a fresh wallet without worrying about transaction costs or exposing your main account. 
-
-
-
-
-Every day at 20:00pm to 21:00pm in New York time zone Jungle pass is temporarily not required to play , even guest mode is able to play all game modes. Check the table to find your country free to play hour :
+Every day at 20:00pm to 21:00pm in New York time zone Jungle pass is temporarily not required to play , even "no wallet" players can access all game modes. Check the table to find your country free to play hour :
 
 
 
