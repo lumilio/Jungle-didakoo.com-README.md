@@ -68,11 +68,13 @@ L2 are independent blockchains connected to Ethereum. Didakoo.com allows you to 
 
 ## How to login
 
+![Imgur Image](http://i.imgur.com/prdR0xK.jpg)
+
 You can Login with Metamask wallet or as “no wallet” with limited features, if you participate as “no wallet” you can not use or create your avatar. You can login as "no wallet" even in incognito mode.
 
 ![Imgur Image](http://i.imgur.com/5RQD9sA.jpg)
 
-![Imgur Image](http://i.imgur.com/prdR0xK.jpg)
+
 
 Players can interact with didakoo.com even using a brand-new Metamask wallet with no funds. In didakoo.com there is only one smart contract used for login, and it requires zero gas fees, meaning you don’t need ETH or tokens to start playing. You can connect a fresh wallet without worrying about transaction costs or exposing your main account. 
 
