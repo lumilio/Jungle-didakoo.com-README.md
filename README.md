@@ -77,6 +77,8 @@ In didakoo.com there is only one smart contract used for Metamask login, and it 
 
 &ensp;
 
+&ensp;
+
 ![Imgur Image](http://i.imgur.com/lL279cn.jpg)
 
 &ensp;
