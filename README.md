@@ -64,7 +64,7 @@ L2 are independent blockchains connected to Ethereum. Didakoo.com allows you to 
 * [Base (L2)](https://metamask.io/)
 
 
-
+&ensp;
 
 ## How to login
 
