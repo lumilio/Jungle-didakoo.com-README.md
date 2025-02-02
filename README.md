@@ -1,5 +1,5 @@
-<!-- ![Imgur Image](http://i.imgur.com/3SqZpCN.jpg) -->
-![Imgur Image](http://i.imgur.com/908yehw.jpg)
+![Imgur Image](http://i.imgur.com/3SqZpCN.jpg)
+<!-- ![Imgur Image](http://i.imgur.com/908yehw.jpg) -->
 
 # Jungle  
 <details>
@@ -201,6 +201,8 @@ This software is not open-source to safeguard intellectual property, maintain qu
 <!-- code snippet [...] -->
 
 <img src="https://imgur.com/e60LCHg.jpg" alt="drawing" style="width:300px;"/> 
+
+![Imgur Image](http://i.imgur.com/908yehw.jpg)
 
 
 
