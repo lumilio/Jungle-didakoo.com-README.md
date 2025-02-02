@@ -25,8 +25,8 @@ Here are the animals pieces, with their relative powers indicated by number :
 
 &ensp;
 
-## Movement of the Pieces
-All pieces have the same basic move, although some have extra moves. The basic move is just one space either forward, backward, left or right. The pieces never move diagonally. An animal is eaten by an opposing animal moving onto its square. The attacking animal must be of equal or higher power than the one being eaten.
+## Movement of the Animals
+All animals have the same basic move, although some have extra moves. The basic move is just one space either forward, backward, left or right. The animals never move diagonally. An animal is eaten by an opposing animal moving onto its square. The attacking animal must be of equal or higher power than the one being eaten.
 
 ![Imgur Image](http://i.imgur.com/SgkNoTG.jpg)
 ### Extra moves
