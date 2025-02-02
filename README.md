@@ -1,4 +1,5 @@
-![Imgur Image](http://i.imgur.com/3SqZpCN.jpg)
+<!-- ![Imgur Image](http://i.imgur.com/3SqZpCN.jpg) -->
+![Imgur Image](http://i.imgur.com/908yehw.jpg)
 
 # Jungle  
 <details>
@@ -14,8 +15,8 @@ Minimum internet speed to play is a 10 Mbps connection.
 
 [X](https://twitter.com/didakoo_games) / [Youtube](https://www.youtube.com/@Didakoo_TV) <!-- [Twich](https://www.twitch.tv/didakoo_tv) --> / info@didakoo.com
 
-<!-- ![Imgur Image](http://i.imgur.com/fj8XkoO.jpg) -->
-![Imgur Image](http://i.imgur.com/908yehw.jpg)
+![Imgur Image](http://i.imgur.com/fj8XkoO.jpg)
+
 
 
 
