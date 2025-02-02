@@ -135,6 +135,10 @@ Check the table to find your country free to play hour :
 | Africa      | Seychelles, Mauritius                   | 05:00 - 04:00       | UTC+4            |                    |                         |
 | Africa      | Cape Verde Islands                      | 00:00 - 01:00       | UTC-1            |                    |                         |
 
+## Rank & Points 
+At the end of a match the winner is rewarded with 3 rank points. ...........
+Jungle benefit top-ranked players, grants them the opportunity to showcase their OpenSea accounts and their NFT collections. If you’re playing as “no wallet” you won’t have access to the ranking feature.
+
 
 
 ## Nft Policy 
@@ -172,9 +176,6 @@ This is "one time purchase" videogame. The features you unlock with Nfts will be
 - [Lacoste UNDW3: The Emerge](https://opensea.io/collection/lacoste-undw3-the-emerge") 
 - [Decentraland](https://opensea.io/collection/decentraland") 
 
-## Rank & Points 
-At the end of a match the winner is rewarded with 3 rank points. ...........
-Jungle benefit top-ranked players, grants them the opportunity to showcase their OpenSea accounts and their NFT collections. If you’re playing as “no wallet” you won’t have access to the ranking feature.
 
 ## Multiplayer
 You can play against computer or challenge a friend in Multiplayer mode by sharing a room link.
