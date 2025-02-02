@@ -70,7 +70,7 @@ You can Login with Metamask wallet or as “no wallet” with limited features, 
 
 ![Imgur Image](http://i.imgur.com/prdR0xK.jpg)
 
-In didakoo.com there is only one smart contract used for Metamask login, and it requires zero gas fees. You can connect a fresh wallet without worrying about transaction costs or exposing your main account. 
+In didakoo.com, MetaMask login is made through the signature of a message, not a smart contract, and it requires zero gas fees. You can connect a fresh wallet without worrying about transaction costs or exposing your main account.
 
 <!-- ![Imgur Image](http://i.imgur.com/wJar46b.jpg) -->
 <!-- ![Imgur Image](http://i.imgur.com/lL279cn.jpg) -->
