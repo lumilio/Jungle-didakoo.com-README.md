@@ -89,6 +89,9 @@ Every day at 20:00pm to 21:00pm in New York time zone the game is free to play (
 
 Check the table to find your country free to play hour :
 
+<details>
+  <summary>Click here to show table</summary>
+
 | Continent      | Location                                   | Free daily hour         | Solar time     | Free daily hour      | Legal time            |
 |-------------|-------------------------------------------|---------------------|------------------|--------------------|-------------------------|
 | Australia   | Western Australia                        | 09:00 - 10:00       | UTC+8            |                    |                         |
@@ -134,6 +137,8 @@ Check the table to find your country free to play hour :
 | Africa      | Kenya, Uganda, Somalia, Tanzania        | 04:00 - 05:00       | UTC+3            |                    |                         |
 | Africa      | Seychelles, Mauritius                   | 05:00 - 04:00       | UTC+4            |                    |                         |
 | Africa      | Cape Verde Islands                      | 00:00 - 01:00       | UTC-1            |                    |                         |
+
+</details>
 
 ## Rank & Points 
 At the end of a match the winner is rewarded with 3 rank points. ...........
