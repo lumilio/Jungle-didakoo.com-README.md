@@ -81,6 +81,8 @@ In didakoo.com, MetaMask login is done through the signature of a message (a ran
 
 &ensp;
 
+
+
 Every day at 20:00pm to 21:00pm in New York time zone the game is free to play (Jungle pass is temporarily not required to play) even "no wallet" players can access all game modes.
 
 ![Imgur Image](http://i.imgur.com/wJar46b.jpg)
@@ -89,7 +91,7 @@ Every day at 20:00pm to 21:00pm in New York time zone the game is free to play (
 
 Check the table to find your country free to play hour :
 <details>
-  <summary>Click here to show table <<<  </summary>
+  <summary>Click here to show table &#9664;   </summary>
 
 | Continent      | Location                                   | Free daily hour         | Solar time     | Free daily hour      | Legal time            |
 |-------------|-------------------------------------------|---------------------|------------------|--------------------|-------------------------|
