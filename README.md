@@ -141,6 +141,8 @@ Check the table to find your country free to play hour :
 
 </details>
 
+&ensp;
+
 ## Rank & Points 
 At the end of a match the winner is rewarded with 3 rank points. ...........
 Jungle benefit top-ranked players, grants them the opportunity to showcase their OpenSea accounts and their NFT collections. If you’re playing as “no wallet” you won’t have access to the ranking feature.
