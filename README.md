@@ -88,7 +88,6 @@ Every day at 20:00pm to 21:00pm in New York time zone the game is free to play (
 &ensp;
 
 Check the table to find your country free to play hour :
-
 <details>
   <summary>Click here to show table</summary>
 
