@@ -1,5 +1,6 @@
-![Imgur Image](http://i.imgur.com/3SqZpCN.jpg)
-<!-- ![Imgur Image](http://i.imgur.com/908yehw.jpg) -->
+<!-- ![Imgur Image](http://i.imgur.com/3SqZpCN.jpg) -->
+
+![Imgur Image](http://i.imgur.com/n9dVsE2.jpg)
 
 # Jungle  
 <details>
