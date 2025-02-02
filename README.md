@@ -14,7 +14,10 @@ Minimum internet speed to play is a 10 Mbps connection.
 
 [X](https://twitter.com/didakoo_games) / [Youtube](https://www.youtube.com/@Didakoo_TV) <!-- [Twich](https://www.twitch.tv/didakoo_tv) --> / info@didakoo.com
 
-![Imgur Image](http://i.imgur.com/fj8XkoO.jpg)
+<!-- ![Imgur Image](http://i.imgur.com/fj8XkoO.jpg) -->
+![Imgur Image](http://i.imgur.com/908yehw.jpg)
+
+
 
 ## Animals 
 This game is 1 vs 1. To win, one player must move any animal from his team <!-- ? -->to the piramid of the opponent. Each player has 8 different animals, with different degrees of power. The initial animals arrangement in board is random for each player every new match.
