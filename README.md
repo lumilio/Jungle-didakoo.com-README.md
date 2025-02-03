@@ -154,19 +154,9 @@ Jungle benefit top-ranked players, grants them the opportunity to showcase their
 
 ![Imgur Image](http://i.imgur.com/afTMwb0.jpg)
 
-
-
-
-
-
-
-
-
 &ensp;
 
 ## Nft Policy 
-
-
 NFTs from Didakoo are available on OpenSea marketplace across these same chains. 
 
 Questo è un videogioco indipendente che si interfaccia alle seguenti Blockchain : Ethereum Mainnet, Polygon L2, Base L2 . A seguito di numerose transazioni sulla blockchain di ethereum e di certificazione del possesso di qualifiche di proprietà intellettuale sotto forma di tokens ERC-721 e ERC-1155 sulla medesima chain , come : .crypto .base .eth 
@@ -199,9 +189,12 @@ This is "one time purchase" videogame. The features you unlock with Nfts will be
 - [Lacoste UNDW3: The Emerge](https://opensea.io/collection/lacoste-undw3-the-emerge") 
 - [Decentraland](https://opensea.io/collection/decentraland") 
 
+&ensp;
 
 ## Multiplayer
 You can play against computer or challenge a friend in Multiplayer mode by sharing a room link.
+
+&ensp;
 
 ## App Code is private 
 
