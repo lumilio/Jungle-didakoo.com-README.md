@@ -153,10 +153,12 @@ At the end of a match the winner is rewarded with 3 rank points. ...........
 Jungle benefit top-ranked players, grants them the opportunity to showcase their OpenSea accounts and their NFT collections. If you’re playing as “no wallet” you won’t have access to the ranking feature.
 
 
-![Imgur Image](http://i.imgur.com/P4TmqF4.jpg)
-![Imgur Image](http://i.imgur.com/yV4YoW8.jpg)
+![Imgur Image](http://i.imgur.com/k0rfXhS.jpg)
+<!-- ![Imgur Image](http://i.imgur.com/yV4YoW8.jpg) -->
 
-<!-- ![Imgur Image](http://i.imgur.com/VdN2Awn.jpg) -->
+
+
+
 
 
 
