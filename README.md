@@ -154,7 +154,7 @@ Jungle benefit top-ranked players, grants them the opportunity to showcase their
 
 
 ![Imgur Image](http://i.imgur.com/VdN2Awn.jpg)
-![Imgur Image](http://i.imgur.com/2vEbjEx.jpg)
+![Imgur Image](http://i.imgur.com/P4TmqF4.jpg)
 
 <!-- ![Imgur Image](http://i.imgur.com/VdN2Awn.jpg) -->
 
