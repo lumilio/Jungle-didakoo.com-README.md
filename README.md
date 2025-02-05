@@ -12,7 +12,7 @@ _ Jungle V 1.0.6 _ 17 october 2024
 
 Play Jungle browser game in [didakoo.com](https://didakoo.com). No third part advertising in this website. All data collected will be shared 1st day of the month periodically in [Rank History](https://github.com/lumilio/Jungle-didakoo.com-README.md/tree/main/Rank%20History) folder. 
 
-Minimum internet speed to play is a 10 Mbps connection.
+Internet speed to play -> 10 Mbps connection.
 
 [X](https://twitter.com/didakoo_games) / [Youtube](https://www.youtube.com/@Didakoo_TV) <!-- [Twich](https://www.twitch.tv/didakoo_tv) --> / info@didakoo.com
 
@@ -159,18 +159,16 @@ High-ranked players are rewarded with visibility, allowing them to show their ad
 &ensp;
 
 ## Nft Policy 
-NFTs from Didakoo are available on OpenSea marketplace across these same chains. 
-
-Questo è un videogioco indipendente che si interfaccia alle seguenti Blockchain : Ethereum Mainnet, Polygon L2, Base L2 . A seguito di numerose transazioni sulla blockchain di ethereum e di certificazione del possesso di qualifiche di proprietà intellettuale sotto forma di tokens ERC-721 e ERC-1155 sulla medesima chain , come : .crypto .base .eth 
+Questo è un videogioco indipendente che si interfaccia alle seguenti Blockchain : Ethereum Mainnet, Polygon L2, Base L2 . A seguito di numerose transazioni sulla blockchain di ethereum e di certificazione del possesso di qualifiche di proprietà intellettuale sotto forma di tokens ERC-721 e ERC-1155 sulla medesima chain , come : .crypto .base .eth , il progetto didakoo.com Jungle si proclama legittimo di operare.
 
 1. <sub>0xf1e51457504edc0321DE4B6bA4403A1464c2B897</sub>
 2. <sub>0x69D96b32F731567cA61A36AAE26d387dD82b1D83</sub>
 3. <sub>0x13339b04E4f54965bF9b9EBaF25dB1B5091e7b77</sub>
 4. <sub>0xF83611F45e11b590eBB9FdABa9ee12e7Dc9E9393</sub>
 
-Il progetto didakoo.com Jungle si proclama legittimo di operare. Per giocare non è necessario fornire nessun dato sensibile alla privacy del utente, adottando una politica di completa trasparenza; l'intero archivio dei dati di gioco verrà publicato nella repo [] in modo ricorrente. 
+<!-- Per giocare non è necessario fornire nessun dato sensibile alla privacy del utente, adottando una politica di completa trasparenza; l'intero archivio dei dati di gioco verrà publicato nella repo [] in modo ricorrente.  -->
 
-Didakoo has relased in Opensea marketplace some Nfts that make you able to unlock extra functionalitys and permissions in game. No third part advertising in Jungle didakoo.com, Sellin didakoo Nfts is the only income of the project.
+Didakoo has relased in Opensea marketplace some Nfts that make you able to unlock permissions in game. No third part advertising in Jungle didakoo.com, Sellin didakoo Nfts is the only income of the project.
 
 This is "one time purchase" videogame. The features you unlock with Nfts will be yours forever, no subscription. Game system recognize the following Nfts collections :  
 
