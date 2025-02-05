@@ -150,15 +150,9 @@ Check the table to find your country free to play hour :
 
 ## Rank & Points 
 
-At your first metamask login your avatat will with your wallet address wil be created and addeend in the botto of the ranking 
+When you log in with MetaMask for the first time, your avatar with your wallet address will be created and added to the bottom of the ranking. Tap the purple button to see your avatar page. Every match you win you wiul be rewareded with 3 points.
 
-visit your avat in menu button purple
-
-Every match you win you wiul be rewareded with 3 points 
-
-Jungle benefit top-ranked players, grants them the opportunity to showcase their OpenSea accounts and their NFT collections
-
-If you’re playing as “no wallet” you won’t have access to the ranking feature.
+High-ranked players are rewarded with visibility, allowing them to show their address and OpenSea profile to show their NFTs to other players. If you’re playing as “no wallet” you won’t have access to the ranking feature.
 
 ![Imgur Image](http://i.imgur.com/afTMwb0.jpg)
 
