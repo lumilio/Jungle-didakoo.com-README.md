@@ -10,9 +10,9 @@ _ Jungle V 1.0.6 _ 17 october 2024
 
 </details>
 
-Play Jungle browser game in [didakoo.com](https://didakoo.com). No third part advertising in this website. All data collected will be shared 1st day of the month periodically in [Rank History](https://github.com/lumilio/Jungle-didakoo.com-README.md/tree/main/Rank%20History) folder. 
+Play Jungle browser game in [didakoo.com](https://didakoo.com). The minimum internet speed to play is a 10 Mbps connection. No third part advertising in this website. All data collected will be shared 1st day of the month periodically in [Rank History](https://github.com/lumilio/Jungle-didakoo.com-README.md/tree/main/Rank%20History) folder. 
 
-Internet speed to play : > 10 Mbps connection.
+
 
 [X](https://twitter.com/didakoo_games) / [Youtube](https://www.youtube.com/@Didakoo_TV) <!-- [Twich](https://www.twitch.tv/didakoo_tv) --> / info@didakoo.com
 
@@ -168,7 +168,7 @@ Questo è un videogioco indipendente che si interfaccia alle seguenti Blockchain
 
 <!-- Per giocare non è necessario fornire nessun dato sensibile alla privacy del utente, adottando una politica di completa trasparenza; l'intero archivio dei dati di gioco verrà publicato nella repo [] in modo ricorrente.  -->
 
-Didakoo has relased in Opensea marketplace some Nfts that make you able to unlock permissions in game. No third part advertising in Jungle didakoo.com, Sellin didakoo Nfts is the only income of the project.
+Didakoo has relased in Opensea marketplace some Nfts that make you able to unlock permissions in game. Sellin Nfts is the only income of the project.
 
 This is "one time purchase" videogame. The features you unlock with Nfts will be yours forever, no subscription. Game system recognize the following Nfts collections :  
 
