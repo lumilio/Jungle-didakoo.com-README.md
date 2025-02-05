@@ -152,9 +152,9 @@ Check the table to find your country free to play hour :
 
 When you log in with MetaMask for the first time, your avatar with address will be created and added to the ranking. Tap the purple button to see your avatar details. Every match you win you will be rewareded with 3 points.
 
-High-ranked players are rewarded with visibility, allowing them to show their address and OpenSea profile to show their NFTs to other players. If you’re playing as “no wallet” you won’t have access to the ranking feature.
-
 ![Imgur Image](http://i.imgur.com/afTMwb0.jpg)
+
+High-ranked players are rewarded with visibility, allowing them to show their address and OpenSea profile to show their NFTs to other players. If you’re playing as “no wallet” you won’t have access to the ranking feature.
 
 &ensp;
 
