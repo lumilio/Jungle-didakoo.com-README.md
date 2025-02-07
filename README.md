@@ -192,6 +192,7 @@ This is "one time purchase" videogame. The features you unlock with Nfts will be
 &ensp;
 
 ## Multiplayer
+[Imgur](https://imgur.com/bJldEvu)
 You can play against computer or challenge a friend in Multiplayer mode by sharing a room link.
 <!-- ![Imgur Image](http://i.imgur.com/zDrR6I0.jpg) -->
 ![Imgur Image](http://i.imgur.com/ZjJeKzS.jpg)
@@ -212,3 +213,4 @@ This software is not open-source to safeguard intellectual property, maintain qu
  -->
 
 
+[Imgur](https://imgur.com/oN3FbM1)
