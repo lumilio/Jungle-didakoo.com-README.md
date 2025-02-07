@@ -52,7 +52,9 @@ Animals are not allowed to move on their own Piramid. When an animal moves into 
 
 [Ethereum](https://ethereum.org/en/) is a distributed computing platform based on [Blockchain](https://en.wikipedia.org/wiki/Blockchain) technology. <!-- Ethereum enables the execution of smart contracts and decentralized applications in a secure environment without the need for a central authority. -->
 
-To create your player in Jungle didakoo.com you need the crypto wallet [MetaMask](https://metamask.io/), which provides a unique blockchain address that proves ownership of the player's NFTs. With MetaMask, you can create infinite anonymous wallets and addresses for free.
+To create your player in Jungle didakoo.com you need the crypto wallet [MetaMask](https://metamask.io/), which provides a unique blockchain address that proves ownership of the player's NFTs. 
+
+With MetaMask, you can create infinite anonymous wallets and addresses for free. Check [How to login](https://github.com/lumilio/Jungle-didakoo.com-README.md?tab=readme-ov-file#how-to-login) section.
 
 <!-- The introduction of Ethereum NFTs has allowed didakoo.com to recognize players and their NFTs without requiring an email or password. This is done through the use of crypto wallet [MetaMask](https://metamask.io/), which provides a unique blockchain address that proves ownership of the player's NFTs. With Metamask you can create infinite anonymous wallets and addresses for free.  -->
 
