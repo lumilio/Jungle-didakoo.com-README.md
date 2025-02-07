@@ -217,5 +217,4 @@ This software is not open-source to safeguard intellectual property, maintain qu
 <!-- ![Imgur Image](http://i.imgur.com/908yehw.jpg)
  -->
 
-
-[Imgur](https://imgur.com/oN3FbM1)
+![Imgur Image](http://i.imgur.com/oN3FbM1.jpg)
