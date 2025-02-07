@@ -12,14 +12,9 @@ _ Jungle V 1.0.6 _ 17 october 2024
 
 Play Jungle browser game in [didakoo.com](https://didakoo.com). The minimum internet speed to play is a 10 Mbps connection. No third part advertising in this website. All data collected will be shared 1st day of the month periodically in [Rank History](https://github.com/lumilio/Jungle-didakoo.com-README.md/tree/main/Rank%20History) folder. 
 
-
-
 [X](https://twitter.com/didakoo_games) / [Youtube](https://www.youtube.com/@Didakoo_TV) <!-- [Twich](https://www.twitch.tv/didakoo_tv) --> / info@didakoo.com
 
 ![Imgur Image](http://i.imgur.com/fj8XkoO.jpg)
-
-
-
 
 ## Animals 
 This game is 1 vs 1. To win, one player must move any animal from his team <!-- ? -->to the piramid of the opponent. Each player has 8 different animals, with different degrees of power. The initial animals arrangement in board is random for each player every new match.
@@ -85,8 +80,6 @@ In didakoo.com, MetaMask login is done through the signature of a message (a ran
 ![Imgur Image](http://i.imgur.com/lL279cn.jpg)
 
 &ensp;
-
-
 
 Every day at 20:00pm to 21:00pm in New York time zone the game is free to play (Jungle pass is temporarily not required to play) even "no wallet" players can access all game modes.
 
@@ -209,12 +202,9 @@ To challenge a friend, click on the "Player 2" button. You will be placed in the
 This software is not open-source to safeguard intellectual property, maintain quality control, and ensure a safety user experience. Malicious actors could copy the code to create fraudulent versions of the game, potentially using them for phishing scams. Such replicas could deceive users into providing sensitive information, putting both their data and the reputation of project at risk. <!-- allowing us to deliver a secure and authentic software. -->
 
 <!-- Jungle didakoo.com is a Single-Page WebApp Multiplyer Videogame with custom minimax algorithm built in Laravel (PHP) and Vue.js (JavaScript).  -->
-
 <!-- code snippet [...] -->
 
 <img src="https://imgur.com/e60LCHg.jpg" alt="drawing" style="width:300px;"/> 
 
-<!-- ![Imgur Image](http://i.imgur.com/908yehw.jpg)
- -->
-
-![Imgur Image](http://i.imgur.com/oN3FbM1.jpg)
+![Imgur Image](http://i.imgur.com/908yehw.jpg)
+<!-- ![Imgur Image](http://i.imgur.com/oN3FbM1.jpg) -->
