@@ -17,7 +17,7 @@ Play Jungle browser game in [didakoo.com](https://didakoo.com). The minimum inte
 ![Imgur Image](http://i.imgur.com/fj8XkoO.jpg)
 
 ## Animals 
-This game is 1 vs 1. To win, one player must move any animal from his team <!-- ? -->to the piramid of the opponent. Each player has 8 different animals, with different degrees of power. The initial animals arrangement in board is random for each player every new match.
+This game is 1 vs 1. To win, one player must move any animal from his team to the piramid of the opponent. Each player has 8 different animals, with different degrees of power. The initial animals arrangement in board is random for each player every new match.
 
 Here are the animals pieces, with their relative powers indicated by number :
 
@@ -26,11 +26,11 @@ Here are the animals pieces, with their relative powers indicated by number :
 &ensp;
 
 ## Movement of the Animals
-All animals have the same basic move, although some have extra moves. The basic move is just one space either forward, backward, left or right. The animals never move diagonally. An animal is eaten by an opposing animal moving onto its square. The attacking animal must be of equal or higher power than the one being eaten.
+All animals have the same basic move, although some have extra moves. The basic move is just one space either forward, backward, left or right. The animals never move diagonally. An animal is eaten by an opposing animal moving on its square. The attacking animal must be equal or higher power than the one being eaten.
 
 ![Imgur Image](http://i.imgur.com/SgkNoTG.jpg)
 ### Extra moves
-1) The Rat, although it is the least powerful piece, has the power to capture the Elephant. The Elephant can not capture the Rat. 
+1) The Rat has the power to capture the Elephant. The Elephant can not capture the Rat. 
 2) The Rat, and no other animal, can move in the water. 
 3) Both the Lion and the Tiger can jump over the water, moving from one bank straight forward, backward, left or right to the first square of dry land on the other side. They may capture in this move as well. The Lion and Tiger can not jump over a rat if in the water.
 
@@ -38,11 +38,11 @@ All animals have the same basic move, although some have extra moves. The basic 
 
 ## The Trees <img src="https://imgur.com/HJTKsI7.jpg" alt="drawing" style=""/> 
 
-Each side has 3x Tree squares surrounding its Piramid. A player may move on and off of his own tree squares with no effect. If, however, a player moves onto the opponent’s tree square, that piece loses all of its power, and may be eaten by any of the defending pieces.
+Each side has 3x Tree squares surrounding its Piramid. A player may move on and off of his own tree squares with no effect. If, however, a player moves on the opponent’s tree square, that piece loses all of its power, and may be eaten by any of the defending pieces.
 
 ## The Piramid
 
-Animals are not allowed to move into their own Piramid. When an animal moves into the opponent’s Piramid, it has won the game.
+Animals are not allowed to move on their own Piramid. When an animal moves into the opponent’s Piramid, it has won the game.
 
 ![Imgur Image](http://i.imgur.com/tuJgkIV.jpg)
 
