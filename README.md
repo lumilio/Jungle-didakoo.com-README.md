@@ -194,8 +194,12 @@ This is "one time purchase" videogame. The features you unlock with Nfts will be
 ## Multiplayer
 <!-- ![Imgur Image](http://i.imgur.com/bJldEvu.jpg) -->
 <!-- ![Imgur Image](http://i.imgur.com/zDrR6I0.jpg) -->
-You can play against computer or challenge a friend in Multiplayer mode by sharing a room link.
+Jungle 1.0.6 has two game modes to choose. You can play against the computer or challenge a friend in Multiplayer mode by sharing a room link. 
+
 ![Imgur Image](http://i.imgur.com/3ExW50u.jpg)
+
+To challenge a friend, click on the "Player 2" button. You will be placed in the waiting room. In the menu, select "Invite" to copy the invitation link, which will be ready to paste and share.
+<!-- ![Imgur Image](http://i.imgur.com/3ExW50u.jpg) -->
 ![Imgur Image](http://i.imgur.com/ZjJeKzS.jpg)
 
 &ensp;
