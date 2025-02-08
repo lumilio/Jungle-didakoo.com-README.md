@@ -152,7 +152,7 @@ When you Log-in with MetaMask for the first time, your avatar with address will 
 &ensp;
 
 ## Nft Policy 
-Questo è un videogioco indipendente che si interfaccia alle seguenti Blockchain : Ethereum Mainnet, Polygon L2, Base L2 . A seguito di numerose transazioni sulla blockchain di ethereum e di certificazione del possesso di qualifiche di proprietà intellettuale sotto forma di tokens ERC-721 e ERC-1155 sulla medesima chain , come : .crypto .base .eth , il progetto didakoo.com Jungle si proclama legittimo di operare.
+This is an independent video game that interacts with the following blockchains: Ethereum Mainnet, Polygon L2, and Base L2. After numerous transactions on the Ethereum blockchain and the certification of intellectual property ownership through ERC-721 and ERC-1155 tokens on the same chain, such as .crypto, .base, .eth, the Didakoo.com Jungle project declares itself legitimate to operate.
 
 1. <sub>0xf1e51457504edc0321DE4B6bA4403A1464c2B897</sub>
 2. <sub>0x69D96b32F731567cA61A36AAE26d387dD82b1D83</sub>
