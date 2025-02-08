@@ -56,9 +56,9 @@ You don’t need to use Ethereum if you play without your Avatar. However, if yo
 
 L2 are independent blockchains connected to Ethereum. Didakoo.com allows you to Log-in using Metamask on the following chains:
 
-* [Ethereum Mainnet](https://metamask.io/)
-* [Polygon (L2)](https://metamask.io/)
-* [Base (L2)](https://metamask.io/)
+* [Ethereum Mainnet](https://ethereum.org/en/)
+* [Polygon (L2)](https://polygon.technology/)
+* [Base (L2)](https://www.base.org/)
 
 &ensp;
 
