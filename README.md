@@ -50,14 +50,9 @@ Animals are not allowed to move on their own Piramid. When an animal moves into 
 
 ## Ethereum & L2 Blockchains
 
-<!-- didakoo è un applicazione ibrida web3 web 2 -->
-
 [Ethereum](https://ethereum.org/en/) is a distributed computing platform based on [Blockchain](https://en.wikipedia.org/wiki/Blockchain) technology. Ethereum enables the execution of <!-- smart contracts and -->decentralized applications in a secure environment.<!--  without a central authority -->
 
-You don’t need to use Ethereum if you play without creating a player. However, if you want access to more features, you can create a player using a [MetaMask](https://metamask.io/) crypto wallet. MetaMask provides a unique blockchain address that proves ownership of your in-game item NFTs. You can create unlimited anonymous wallets and addresses for free. In the next section [How to login](https://github.com/lumilio/Jungle-didakoo.com-README.md?tab=readme-ov-file#how-to-login) you will find a tutorial.
-
-
-<!-- The introduction of Ethereum NFTs has allowed didakoo.com to recognize players and their NFTs without requiring an email or password. This is done through the use of crypto wallet [MetaMask](https://metamask.io/), which provides a unique blockchain address that proves ownership of the player's NFTs. With Metamask you can create infinite anonymous wallets and addresses for free.  -->
+You don’t need to use Ethereum if you play without your Avatar. However, if you want access to more features, you can create your Avatar using a [MetaMask](https://metamask.io/) crypto wallet. MetaMask provides a unique blockchain address that proves ownership of your in-game item NFTs. You can create unlimited anonymous wallets and addresses for free. In the next section [How to login](https://github.com/lumilio/Jungle-didakoo.com-README.md?tab=readme-ov-file#how-to-login) you will find a tutorial.
 
 L2 are independent blockchains connected to Ethereum. Didakoo.com allows you to Log-in using Metamask on the following chains:
 
