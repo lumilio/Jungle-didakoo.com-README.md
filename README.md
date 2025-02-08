@@ -52,7 +52,7 @@ Animals are not allowed to move on their own Piramid. When an animal moves into 
 
 [Ethereum](https://ethereum.org/en/) is a distributed computing platform based on [Blockchain](https://en.wikipedia.org/wiki/Blockchain) technology. Ethereum enables the execution of <!-- smart contracts and -->decentralized applications in a secure environment.<!--  without a central authority -->
 
-You don’t need to use Ethereum if you play without your Avatar. However, if you want access to more features, you can create your Avatar using a [MetaMask](https://metamask.io/) crypto wallet. MetaMask provides a unique blockchain address that proves ownership of your in-game item NFTs. You can create unlimited anonymous wallets and addresses for free. In the next section [How to login](https://github.com/lumilio/Jungle-didakoo.com-README.md?tab=readme-ov-file#how-to-login) you will find a tutorial.
+You don’t need to use Ethereum if you play without your Avatar. However, if you want access to more features, you can create your avatar using a [MetaMask](https://metamask.io/) crypto wallet. MetaMask provides a unique blockchain address that proves ownership of your in-game item NFTs. You can create unlimited anonymous wallets and addresses for free. In the next section [How to login](https://github.com/lumilio/Jungle-didakoo.com-README.md?tab=readme-ov-file#how-to-login) you will find a tutorial.
 
 L2 are independent blockchains connected to Ethereum. Didakoo.com allows you to Log-in using Metamask on the following chains:
 
@@ -66,11 +66,11 @@ L2 are independent blockchains connected to Ethereum. Didakoo.com allows you to 
 
 ![Imgur Image](http://i.imgur.com/5RQD9sA.jpg)
 
-You can Login with Metamask wallet or as “no wallet”. If you participate as “no wallet” there is no signature request and you are not able to create or use your avatar. You can login as "no wallet" even in incognito mode in your browser.
+You can Log-in with Metamask wallet or as “no wallet”. If you participate as “no wallet” there is no signature request and you are not able to create or use your avatar. You can Log-in as "no wallet" even in incognito mode in your browser.
 
 ![Imgur Image](http://i.imgur.com/prdR0xK.jpg)
 
-In didakoo.com, MetaMask login is done through the signature of a message (a random nonce) to authenticate wallet ownership. This signature does not require any on-chain transactions and has zero gas fees. You can connect a fresh wallet without worrying about transaction costs or exposing your main account. The login process works on Ethereum Mainnet, Polygon or Base networks.
+In didakoo.com, MetaMask Log-in is done through the signature of a message (a random nonce) to authenticate wallet ownership. This signature does not require any on-chain transactions and has zero gas fees. You can connect a fresh wallet without worrying about transaction costs or exposing your main account. The Log-in process works on Ethereum Mainnet, Polygon or Base networks.
 
 <!-- ![Imgur Image](http://i.imgur.com/wJar46b.jpg) -->
 <!-- ![Imgur Image](http://i.imgur.com/lL279cn.jpg) -->
@@ -143,7 +143,7 @@ Check the table to find your country free to play hour :
 
 ## Rank & Points 
 
-When you log in with MetaMask for the first time, your avatar with address will be created and added to the ranking. Tap the purple button to see your avatar details. Every match you win you will be rewareded with 3 points. If you’re playing as “no wallet” you won’t have access to the ranking feature.
+When you Log-in with MetaMask for the first time, your avatar with address will be created and added to the ranking. Tap the purple button to see your avatar details. Every match you win you will be rewareded with 3 points. If you’re playing as “no wallet” you won’t have access to the ranking feature.
 
 ![Imgur Image](http://i.imgur.com/afTMwb0.jpg)
 
