@@ -203,6 +203,8 @@ To challenge a friend, click on the "Player 2" button. You will be placed in the
 
 This software is not open-source to safeguard intellectual property, maintain quality control, and ensure a safety user experience. Malicious actors could copy the code to create fraudulent versions of the game, potentially using them for phishing scams. Such replicas could deceive users into providing sensitive information, putting both their data and the reputation of project at risk. <!-- allowing us to deliver a secure and authentic software. -->
 
+<!-- verranno rilasciate porzioni di codice per fidelizzare i giocatori -->
+
 <!-- Jungle didakoo.com is a Single-Page WebApp Multiplyer Videogame with custom minimax algorithm built in Laravel (PHP) and Vue.js (JavaScript).  -->
 <!-- code snippet [...] -->
 
