@@ -143,7 +143,7 @@ Check the table to find your country free to play hour :
 
 ## Rank & Points 
 
-When you Log-in with MetaMask for the first time, your avatar with address will be created and added to the ranking. Tap the purple button to see your avatar details. Every match you win you will be rewareded with 3 points. If you’re playing as “no wallet” you won’t have access to the ranking feature.
+When you Log-in with MetaMask for the first time, your avatar with address will be created and added to the ranking. Tap the purple button to see your avatar details. Every match you win you will be rewareded with 3 points. If you Log-in as “no wallet” you won’t have access to the ranking feature.
 
 ![Imgur Image](http://i.imgur.com/afTMwb0.jpg)
 
