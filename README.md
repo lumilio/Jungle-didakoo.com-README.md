@@ -91,51 +91,32 @@ Check the table to find your country free to play hour :
 <details>
   <summary>Click here to show table &#9664;   </summary>
 
-| Continent      | Location                                   | Free daily hour         | Solar time     | Free daily hour      | Legal time            |
-|-------------|-------------------------------------------|---------------------|------------------|--------------------|-------------------------|
-| Australia   | Western Australia                        | 09:00 - 10:00       | UTC+8            |                    |                         |
-| Australia   | Northern Territory                       | 10:30 - 11:30       | UTC+9:30         |                    |                         |
-| Australia   | Queensland                               | 11:00 - 12:00       | UTC+10           |                    |                         |
-| Australia   | South Australia                          | 10:30 - 11:30       | UTC+9:30         | 11:30 - 12:30      | UTC+10:30         |
-| Australia   | New South Wales                          | 11:00 - 12:00       | UTC+10           | 12:00 - 13:00      | UTC+11           |
-| Australia   | Victoria                                 | 11:00 - 12:00       | UTC+10           | 12:00 - 13:00      | UTC+11           |
-| Australia   | Tasmania                                 | 11:00 - 12:00       | UTC+10           | 12:00 - 13:00      | UTC+11           |
-| Australia   | Australian Capital Territory             | 11:00 - 12:00       | UTC+10           | 12:00 - 13:00      | UTC+11           |
-| Europe      | UK, Ireland                              | 01:00 - 02:00       | UTC+0            | 02:00 - 03:00      | UTC+1             |
-| Europe      | Portugal                                 | 01:00 - 02:00       | UTC+0            | 02:00 - 03:00      | UTC+1             |
-| Europe      | France, Germany, Belgium                | 02:00 - 03:00       | UTC+1            | 03:00 - 04:00      | UTC+2             |
-| Europe      | Spain                                    | 02:00 - 03:00       | UTC+1            | 03:00 - 04:00      | UTC+2             |
-| Europe      | Italy                                    | 02:00 - 03:00       | UTC+1            | 03:00 - 04:00      | UTC+2             |
-| Europe      | Poland                                   | 02:00 - 03:00       | UTC+1            | 03:00 - 04:00      | UTC+2             |
-| Europe      | Greece, Romania                         | 03:00 - 04:00       | UTC+2            | 04:00 - 05:00      | UTC+3 (EEST)            |
-| Europe      | Turkey                                   | 04:00 - 05:00       | UTC+3            | 04:00 - 05:00      |                         |
-| Europe      | Belarus                                  | 04:00 - 05:00       | UTC+3            |                    |                         |
-| Asia        | Japan, South Korea                      | 10:00 - 11:00       | UTC+9            |                    |                         |
-| Asia        | China, Singapore, Hong Kong             | 09:00 - 10:00       | UTC+8            |                    |                         |
-| Asia        | India                                    | 06:30 - 07:30       | UTC+5:30         |                    |                         |
-| Asia        | Pakistan                                 | 06:00 - 07:00       | UTC+5            |                    |                         |
-| Asia        | Indonesia (West)                        | 08:00 - 09:00       | UTC+7            |                    |                         |
-| Asia        | Thailand                                 | 08:00 - 09:00       | UTC+7            |                    |                         |
-| Asia        | Bangladesh                               | 07:00 - 08:00       | UTC+6            |                    |                         |
-| Asia        | Australia (Central)                     | 10:30 - 11:30       | UTC+9:30         |                    |                         |
-| Asia        | Malaysia                                 | 09:00 - 10:00       | UTC+8            |                    |                         |
-| Asia        | Nepal                                    | 06:45 - 07:45       | UTC+5:45         |                    |                         |
-| Americas    | Canada (West)                           | 17:00 - 18:00       | UTC-8            | 18:00 - 19:00      | UTC-7              |
-| Americas    | USA (California, Washington)            | 17:00 - 18:00       | UTC-8            | 18:00 - 19:00      | UTC-7              |
-| Americas    | USA (Texas, Illinois)                   | 19:00 - 20:00       | UTC-6            | 20:00 - 21:00      | UTC-5              |
-| Americas    | USA (New York, Florida)                 | 20:00 - 21:00       | UTC-5            | 21:00 - 22:00      | UTC-4              |
-| Americas    | Mexico                                  | 19:00 - 20:00       | UTC-6            | 20:00 - 21:00      | UTC-5                   |
-| Americas    | Cuba                                    | 20:00 - 21:00       | UTC-5            | 21:00 - 22:00      | UTC-4                   |
-| Americas    | Brazil (Brasilia)                       | 23:00 - 00:00       | UTC-3            | 23:00 - 00:00      | UTC-2                   |
-| Americas    | Argentina                               | 23:00 - 00:00       | UTC-3            |                    |                         |
-| Americas    | Colombia, Peru                          | 20:00 - 21:00       | UTC-5            |                    |                         |
-| Africa      | Morocco                                 | 02:00 - 03:00       | UTC+1            |                    |                         |
-| Africa      | Chad, Algeria, Nigeria, Cameroon        | 02:00 - 03:00       | UTC+1            |                    |                         |
-| Africa      | Egypt, South Africa, Libya             | 03:00 - 04:00       | UTC+2            |                    |                         |
-| Africa      | DR Congo                                | 03:00 - 04:00       | UTC+2            |                    |                         |
-| Africa      | Kenya, Uganda, Somalia, Tanzania        | 04:00 - 05:00       | UTC+3            |                    |                         |
-| Africa      | Seychelles, Mauritius                   | 05:00 - 04:00       | UTC+4            |                    |                         |
-| Africa      | Cape Verde Islands                      | 00:00 - 01:00       | UTC-1            |                    |                         |
+| Continent  | Location                                      | Free daily hour (Solar) | Solar time  | Free daily hour (Legal) | Legal time  |
+|------------|----------------------------------------------|-------------------------|-------------|-------------------------|-------------|
+| Australia  | Western Australia, China, Singapore, Malaysia | 09:00 - 10:00          | UTC+8       |                         |             |
+| Australia  | Northern Territory, South Australia (Solar), Central Australia | 10:30 - 11:30 | UTC+9:30  |                         |             |
+| Australia  | South Australia (Legal)                     | 11:30 - 12:30          | UTC+10:30   |                         |             |
+| Australia  | Queensland, New South Wales (Solar), Victoria (Solar), Tasmania (Solar), ACT (Solar) | 11:00 - 12:00 | UTC+10 | 12:00 - 13:00 | UTC+11  |
+| Europe     | UK, Ireland, Portugal                        | 01:00 - 02:00          | UTC+0       | 02:00 - 03:00          | UTC+1       |
+| Europe     | France, Germany, Belgium, Spain, Italy, Poland | 02:00 - 03:00         | UTC+1       | 03:00 - 04:00          | UTC+2       |
+| Europe     | Greece, Romania                             | 03:00 - 04:00          | UTC+2       | 04:00 - 05:00          | UTC+3 (EEST) |
+| Europe     | Turkey, Belarus                             | 04:00 - 05:00          | UTC+3       |                         |             |
+| Asia       | Japan, South Korea                          | 10:00 - 11:00          | UTC+9       |                         |             |
+| Asia       | Indonesia (West), Thailand                 | 08:00 - 09:00          | UTC+7       |                         |             |
+| Asia       | India                                      | 06:30 - 07:30          | UTC+5:30    |                         |             |
+| Asia       | Pakistan                                   | 06:00 - 07:00          | UTC+5       |                         |             |
+| Asia       | Bangladesh                                 | 07:00 - 08:00          | UTC+6       |                         |             |
+| Asia       | Nepal                                     | 06:45 - 07:45          | UTC+5:45    |                         |             |
+| Americas   | Canada (West), USA (California, Washington) | 17:00 - 18:00          | UTC-8       | 18:00 - 19:00          | UTC-7       |
+| Americas   | USA (Texas, Illinois), Mexico             | 19:00 - 20:00          | UTC-6       | 20:00 - 21:00          | UTC-5       |
+| Americas   | USA (New York, Florida), Cuba, Colombia, Peru | 20:00 - 21:00        | UTC-5       | 21:00 - 22:00          | UTC-4       |
+| Americas   | Brazil (Brasilia), Argentina              | 23:00 - 00:00          | UTC-3       | 23:00 - 00:00          | UTC-2       |
+| Africa     | Morocco, Chad, Algeria, Nigeria, Cameroon  | 02:00 - 03:00          | UTC+1       |                         |             |
+| Africa     | Egypt, South Africa, Libya, DR Congo     | 03:00 - 04:00          | UTC+2       |                         |             |
+| Africa     | Kenya, Uganda, Somalia, Tanzania         | 04:00 - 05:00          | UTC+3       |                         |             |
+| Africa     | Seychelles, Mauritius                    | 05:00 - 06:00          | UTC+4       |                         |             |
+| Africa     | Cape Verde Islands                       | 00:00 - 01:00          | UTC-1       |                         |             |
+
 
 </details>
 
