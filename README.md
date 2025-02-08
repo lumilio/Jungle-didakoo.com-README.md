@@ -10,7 +10,7 @@ _ Jungle V 1.0.6 _ 17 october 2024
 
 </details>
 
-Play Jungle browser game in [didakoo.com](https://didakoo.com). The minimum internet speed to play is a 10 Mbps connection. No third part advertising in this website. All data collected will be shared 1st day of the month periodically in [Rank History](https://github.com/lumilio/Jungle-didakoo.com-README.md/tree/main/Rank%20History) folder. If using Metamask, Don't share your secret phrase with anyone.
+Play Jungle browser game in [didakoo.com](https://didakoo.com). The minimum internet speed to play is a 10 Mbps connection. No third part advertising in this website. All data collected will be shared 1st day of the month periodically in [Rank History](https://github.com/lumilio/Jungle-didakoo.com-README.md/tree/main/Rank%20History) folder. If using Metamask don't share your secret phrase with anyone.
 
 [X](https://twitter.com/didakoo_games) / [Youtube](https://www.youtube.com/@Didakoo_TV) <!-- [Twich](https://www.twitch.tv/didakoo_tv) --> / info@didakoo.com
 
@@ -54,7 +54,7 @@ Animals are not allowed to move on their own Piramid. When an animal moves into 
 
 [Ethereum](https://ethereum.org/en/) is a distributed computing platform based on [Blockchain](https://en.wikipedia.org/wiki/Blockchain) technology. Ethereum enables the execution of smart contracts and decentralized applications in a secure environment without the need for a central authority.
 
-To create your player in Jungle you need a [MetaMask](https://metamask.io/) crypto wallet, which provides a unique blockchain address that proves ownership of the player's items NFTs. With MetaMask, you can create infinite anonymous wallets and addresses for free. In the next section [How to login](https://github.com/lumilio/Jungle-didakoo.com-README.md?tab=readme-ov-file#how-to-login) you will see a tutorial  .
+To play Jungle you don’t need to create a player. However, if you want access to more features, you can create one using a [MetaMask](https://metamask.io/) crypto wallet. MetaMask provides a unique blockchain address that proves ownership of your in-game item NFTs. You can create unlimited anonymous wallets and addresses for free. In the next section [How to login](https://github.com/lumilio/Jungle-didakoo.com-README.md?tab=readme-ov-file#how-to-login) you will find a tutorial.
 
 <!-- The introduction of Ethereum NFTs has allowed didakoo.com to recognize players and their NFTs without requiring an email or password. This is done through the use of crypto wallet [MetaMask](https://metamask.io/), which provides a unique blockchain address that proves ownership of the player's NFTs. With Metamask you can create infinite anonymous wallets and addresses for free.  -->
 
