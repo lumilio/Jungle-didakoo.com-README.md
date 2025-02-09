@@ -91,7 +91,7 @@ Check the table to find your country free to play hour :
 <details>
   <summary>Click here to show table &#9664;   </summary>
 
-<small>
+
 | Continent  | Location                                      | Free daily hour (Solar) | Solar time  | Free daily hour (Legal) | Legal time  |
 |------------|----------------------------------------------|-------------------------|-------------|-------------------------|-------------|
 | **Europe** | UK, Ireland, Portugal                        | 01:00 AM - 02:00 AM    | UTC+0       | 02:00 AM - 03:00 AM    | UTC+1       |
@@ -117,7 +117,7 @@ Check the table to find your country free to play hour :
 | **Asia** | Pakistan                                   | 06:00 AM - 07:00 AM    | UTC+5       |                         |             |
 | **Asia** | Bangladesh                                 | 07:00 AM - 08:00 AM    | UTC+6       |                         |             |
 | **Asia** | Nepal                                     | 06:45 AM - 07:45 AM    | UTC+5:45    |                         |             |
-</small>
+
 
 
 </details>
