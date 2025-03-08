@@ -26,7 +26,7 @@ Each player has 8 different animals, each with a different power level. The star
 &ensp;
 
 ## Movement of the Animals
-All animals have the same basic move, although some have extra moves. The basic move is just one space either forward, backward, left or right. The animals never move diagonally. An animal is eaten by an opposing animal moving on its square. The attacking animal must be equal or higher power than the one being eaten.
+All animals have the same basic move, but some have extra moves. The basic move is one space forward, backward, left, or right. Animals cannot move diagonally. An animal is eaten by an opposing animal moving on its square. The attacking animal must be equal or higher power than the one being eaten.
 
 ![Imgur Image](http://i.imgur.com/SgkNoTG.jpg)
 ### Extra moves
