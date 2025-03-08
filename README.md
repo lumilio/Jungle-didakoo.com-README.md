@@ -17,9 +17,11 @@ Play Jungle browser game in [didakoo.com](https://didakoo.com). The minimum inte
 ![Imgur Image](http://i.imgur.com/fj8XkoO.jpg)
 
 ## Animals 
-This game is 1 vs 1. To win, one player must move any animal from his team to the piramid of the opponent. Each player has 8 different animals, with different degrees of power. The initial animals arrangement in board is random for each player every new match.
+This is a 1 vs 1 game. To win, a player must move one of their animals to the opponent's pyramid.
 
-Here are the animals pieces, with their relative powers indicated by number :
+Each player has 8 different animals, each with a different power level. The starting position of the animals is random for each player at the beginning of every match.
+
+Here are the animal pieces, with their relative powers indicated by number :
 
 ![Imgur Image](http://i.imgur.com/MrUHXms.jpg)
 
