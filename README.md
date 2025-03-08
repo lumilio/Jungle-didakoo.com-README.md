@@ -21,7 +21,7 @@ This is a 1 vs 1 game. To win, a player must move one of their animals to the op
 
 Each player has 8 different animals, each with a different power level. The starting position of the animals is random for each player at the beginning of every match.
 
-Here are the animal pieces, with their relative powers indicated by number :
+Here are the animals, with their relative powers indicated by number :
 
 ![Imgur Image](http://i.imgur.com/MrUHXms.jpg)
 
