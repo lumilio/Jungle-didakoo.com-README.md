@@ -33,7 +33,7 @@ All animals have the same basic move, but some have extra moves. The basic move 
 ### Extra moves
 1) The Rat has the power to capture the Elephant. The Elephant can not capture the Rat. 
 2) The Rat, and no other animal, can move in the water. 
-3) The Lion and Tiger can jump over water. They move straight forward, backward, left, or right from one side to the first land square on the other side. They can also capture an animal when jumping. However, they cannot jump if there is a Rat in the water.
+3) The Lion and Tiger can jump over water, but they cannot if there is a Rat in the water.
 
 &ensp;
 
