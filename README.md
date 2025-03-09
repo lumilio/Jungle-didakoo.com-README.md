@@ -188,9 +188,7 @@ This software is not open-source to safeguard intellectual property, maintain qu
 <!-- Jungle didakoo.com is a Single-Page WebApp Multiplyer Videogame with custom minimax algorithm built in Laravel (PHP) and Vue.js (JavaScript).  -->
 <!-- code snippet [...] -->
 
-<!-- <img src="https://imgur.com/e60LCHg.jpg" alt="drawing" style="width:300px;"/> -->
-
-![Imgur Image](http://i.imgur.com/e60LCHg.jpg)
+<img src="https://imgur.com/e60LCHg.jpg" alt="drawing" style="width:300px;"/> 
 
 ![Imgur Image](http://i.imgur.com/908yehw.jpg)
 <!-- ![Imgur Image](http://i.imgur.com/oN3FbM1.jpg) -->
