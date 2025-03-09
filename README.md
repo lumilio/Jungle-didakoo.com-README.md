@@ -53,7 +53,7 @@ Animals are not allowed to move on their own Piramid. When an animal moves into 
 
 [Ethereum](https://ethereum.org/en/) is a distributed computing platform based on [Blockchain](https://en.wikipedia.org/wiki/Blockchain) technology. Ethereum enables the execution of <!-- smart contracts and -->decentralized applications in a secure environment.<!--  without a central authority -->
 
-You don’t need to use Ethereum if you play without your Avatar. However, if you want access to more features, you can create your avatar using a [MetaMask](https://metamask.io/) crypto wallet. MetaMask provides a unique blockchain address that proves ownership of your in-game item NFTs. You can create unlimited anonymous wallets and addresses for free. In the next section [How to login](https://github.com/lumilio/Jungle-didakoo.com-README.md?tab=readme-ov-file#how-to-login) you will find a tutorial.
+You don’t need to use Ethereum if you play without your Avatar. However, if you want access to more features, you can create your avatar using a [MetaMask](https://metamask.io/) crypto wallet. MetaMask provides a unique blockchain address that proves ownership of your in-game item NFTs. With Metamask you can create unlimited anonymous wallets and addresses for free. In the next section [How to login](https://github.com/lumilio/Jungle-didakoo.com-README.md?tab=readme-ov-file#how-to-login) you will find a tutorial.
 
 L2 are independent blockchains connected to Ethereum. Didakoo.com allows you to Log-in using Metamask on the following chains:
 
@@ -67,7 +67,7 @@ L2 are independent blockchains connected to Ethereum. Didakoo.com allows you to 
 
 ![Imgur Image](http://i.imgur.com/5RQD9sA.jpg)
 
-You can Log-in with Metamask wallet or as “no wallet”. If you participate as “no wallet” there is no signature request and you are not able to create or use your avatar. You can Log-in as "no wallet" even in incognito mode in your browser.
+You can Log-in with Metamask wallet or as “no wallet”. If you participate as “no wallet” there is no signature request and you are not able to create or use your avatar. You can Log-in and play as "no wallet" even in incognito mode in your browser.
 
 ![Imgur Image](http://i.imgur.com/prdR0xK.jpg)
 
@@ -88,7 +88,7 @@ Every day at 20:00pm to 21:00pm in New York time zone the game is free to play (
 
 &ensp;
 
-Check the table to find your country free to play hour :
+Check the table to find your country's free to play hour :
 <details>
   <summary>Click here to show table &#9664;   </summary>
 
@@ -145,9 +145,7 @@ This is an independent video game that interacts with the following blockchains:
 
 <!-- Per giocare non è necessario fornire nessun dato sensibile alla privacy del utente, adottando una politica di completa trasparenza; l'intero archivio dei dati di gioco verrà publicato nella repo [] in modo ricorrente.  -->
 
-Didakoo has relased in Opensea marketplace some Nfts that make you able to unlock permissions in game. Sellin Nfts is the only income of the project.
-
-This is "one time purchase" videogame. The features you unlock with Nfts will be yours forever, no subscription. Game system recognize the following Nfts collections :  
+Didakoo has relased in Opensea marketplace some Nfts that make you able to unlock permissions in game. Sellin Nfts is the only income of the project. This is "one time purchase" videogame. The features you unlock with Nfts will be yours forever, no subscription. Game system recognize the following Nfts collections :  
 
 - [didakoo items](https://opensea.io/collection/didakoo-items")
 - [didakoo items 2024](https://opensea.io/collection/didakoo-items-2024") 
