@@ -61,7 +61,7 @@ Animals are not allowed to move on their own Piramid. When an animal moves into 
 
 ## How to login
 
-You can Log-in with Metamask wallet or as “no wallet” guest. 
+You can Log-in with Metamask wallet or as “no wallet”. 
 
 ![Imgur Image](http://i.imgur.com/5RQD9sA.jpg)
 
