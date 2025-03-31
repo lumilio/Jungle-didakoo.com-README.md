@@ -51,21 +51,22 @@ Animals are not allowed to move on their own Piramid. When an animal moves into 
 
 ## Ethereum & L2 Blockchains
 
-[Ethereum](https://ethereum.org/en/) is a [Blockchain](https://en.wikipedia.org/wiki/Blockchain) that powers secure decentralized apps. Lyers 2 (L2) are independent blockchains based on Ethereum. This game allows you to Log-in using [Metamask wallet](https://metamask.io/) on the following blockchains:
+[Ethereum](https://ethereum.org/en/) is a [Blockchain](https://en.wikipedia.org/wiki/Blockchain) that allows the execution of decentralized games and apps. Lyers 2 (L2) are independent blockchains based on Ethereum. This game give you to access to more features using [Metamask wallet](https://metamask.io/) on the following blockchains:
 
 * [Ethereum Mainnet](https://ethereum.org/en/)
 * [Polygon (L2)](https://polygon.technology/)
 * [Base (L2)](https://www.base.org/)
-
-<!--  without a central authority -->
-
-Metamask wallet isn’t required to play Jungle. If you want access to more features, you neet to create your avatar using a [MetaMask](https://metamask.io/) crypto wallet that provides to your avatar a unique blockchain address, proving the ownership of your in-game item NFTs. With Metamask you can create unlimited anonymous wallets and addresses for free. In the next section [How to login](https://github.com/lumilio/Jungle-didakoo.com-README.md?tab=readme-ov-file#how-to-login) you will find a tutorial.
 
 &ensp;
 
 ## How to login
 
 ![Imgur Image](http://i.imgur.com/5RQD9sA.jpg)
+
+that provides to your avatar a unique blockchain address, proving the ownership of your in-game item NFTs. 
+With Metamask you can create unlimited anonymous wallets and addresses for free. 
+In the next section [How to login](https://github.com/lumilio/Jungle-didakoo.com-README.md?tab=readme-ov-file#how-to-login) 
+you will find a tutorial.
 
 You can Log-in with Metamask wallet or as “no wallet”. If you participate as “no wallet” there is no signature request and you are not able to create or use your avatar. You can Log-in and play as "no wallet" even in incognito mode in your browser.
 
