@@ -49,11 +49,9 @@ Animals are not allowed to move on their own Piramid. When an animal moves into 
 
 &ensp; <!-- ------------------------------------------------------------------------- -->
 
-## Ethereum & L2 Blockchains
+## Web3 in game 
 
-[Ethereum](https://ethereum.org/en/) is a [Blockchain](https://en.wikipedia.org/wiki/Blockchain) that powers secure decentralized apps.
-
-L2 are independent blockchains connected to Ethereum. This game allows you to Log-in using [Metamask wallet](https://metamask.io/) on the following blockchains:
+[Ethereum](https://ethereum.org/en/) is a [Blockchain](https://en.wikipedia.org/wiki/Blockchain) that powers secure decentralized apps. Lyers 2 (L2) are independent blockchains based on Ethereum. This game allows you to Log-in using [Metamask wallet](https://metamask.io/) on the following blockchains:
 
 * [Ethereum Mainnet](https://ethereum.org/en/)
 * [Polygon (L2)](https://polygon.technology/)
