@@ -88,9 +88,7 @@ you will find a tutorial. -->
 
 &ensp;
 
-![Imgur Image](http://i.imgur.com/wJar46b.jpg)
 
-&ensp;
 
 <!-- Every day at 20:00pm to 21:00pm in New York time zone the game is free to play (Jungle pass is temporarily not required to play) even "no wallet" players can access all game modes.
 
