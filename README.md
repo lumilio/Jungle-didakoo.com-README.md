@@ -37,9 +37,9 @@ All animals can move one space forward, backward, left, or right. Animals cannot
 
 &ensp;
 
-## Plants <!-- <img src="https://imgur.com/HJTKsI7.jpg" alt="drawing" style=""/> --> 
+## Plants <img src="https://imgur.com/HJTKsI7.jpg" alt="drawing" style=""/>
 
-Each player has 3 x Tree squares around their Pyramid. A player can move on and off of his own tree squares with no effect. If, however, a player moves on the opponent’s tree square, that animal loses all of its power, and may be eaten by any of the defending animals.
+Each player has 3 x Plant squares around their Pyramid. A player can move on and off of his own plants squares with no effect. If, however, a player moves on the opponent’s plant square, that animal loses all of its power, and may be eaten by any of the defending animals.
 
 ## The Piramid
 
