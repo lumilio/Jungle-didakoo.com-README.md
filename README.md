@@ -67,7 +67,7 @@ You can Log-in with Metamask wallet or as “no wallet”.
 
 If you participate as “no wallet” there is no signature request and you are not able to create or use your avatar. You can play as "no wallet" even in incognito mode in your browser. 
 
-MetaMask Log-in is done through the signature of a message (a random nonce) to authenticate wallet ownership. This signature does not require any on-chain transactions and has zero gas fees. You can connect a fresh wallet without worrying about transaction costs or exposing your main account. The Log-in process works on Ethereum Mainnet, Polygon or Base networks.
+MetaMask Log-in is done through the signature of a message (a random nonce) to authenticate wallet ownership. This signature does not require any on-chain transactions and has zero gas fees. You can connect a fresh wallet without worrying about transaction costs or exposing your main account. The Log-in process works on Ethereum Mainnet, Polygon or Base networks. If using Metamask don't share your secret phrase with anyone.
 
 ![Imgur Image](http://i.imgur.com/prdR0xK.jpg)
 
@@ -79,12 +79,6 @@ With Metamask you can create unlimited anonymous wallets and addresses for free.
 In the next section [How to login](https://github.com/lumilio/Jungle-didakoo.com-README.md?tab=readme-ov-file#how-to-login) 
 you will find a tutorial. -->
 
-
-
-
-
-- If using Metamask don't share your secret phrase with anyone. -->
-
 <!-- ![Imgur Image](http://i.imgur.com/wJar46b.jpg) -->
 <!-- ![Imgur Image](http://i.imgur.com/lL279cn.jpg) -->
 
@@ -94,7 +88,7 @@ you will find a tutorial. -->
 
 &ensp;
 
-Every day at 20:00pm to 21:00pm in New York time zone the game is free to play (Jungle pass is temporarily not required to play) even "no wallet" players can access all game modes.
+<!-- Every day at 20:00pm to 21:00pm in New York time zone the game is free to play (Jungle pass is temporarily not required to play) even "no wallet" players can access all game modes.
 
 ![Imgur Image](http://i.imgur.com/wJar46b.jpg)
 
@@ -136,6 +130,7 @@ Check the table to find your country's free to play hour :
 </details>
 
 &ensp;
+-->
 
 ## Rank & Points 
 
