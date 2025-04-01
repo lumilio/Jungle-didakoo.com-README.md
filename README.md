@@ -133,6 +133,7 @@ Check the table to find your country's free to play hour :
 
 &ensp;
 -->
+&ensp;
 
 ## Rank & Points 
 
