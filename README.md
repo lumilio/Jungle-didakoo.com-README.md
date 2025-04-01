@@ -146,7 +146,7 @@ When you Log-in with MetaMask for the first time, your avatar with wallet addres
 &ensp;
 
 ## Nft Policy 
-This is an independent video game that interacts with the following blockchains: Ethereum Mainnet, Polygon L2, and Base L2. After numerous transactions on the Ethereum blockchain and the certification of intellectual property ownership through ERC-721 and ERC-1155 tokens on the same chain, such as .crypto, .base, .eth, the Didakoo.com Jungle project declares itself legitimate to operate.
+This is an independent video game. After numerous transactions on the Ethereum blockchain and the ownership of didakoo.crypto, didakoo.base, didakoo.eth, the Didakoo.com Jungle project declares itself legitimate to operate.
 
 1. <sub>0xf1e51457504edc0321DE4B6bA4403A1464c2B897</sub>
 2. <sub>0x69D96b32F731567cA61A36AAE26d387dD82b1D83</sub>
@@ -157,7 +157,11 @@ This is an independent video game that interacts with the following blockchains:
 
 <!-- Per giocare non è necessario fornire nessun dato sensibile alla privacy del utente, adottando una politica di completa trasparenza; l'intero archivio dei dati di gioco verrà publicato nella repo [] in modo ricorrente.  -->
 
-Didakoo has relased in Opensea marketplace some Nfts that make you able to unlock permissions in game. Sellin Nfts is the only income of the project. This is "one time purchase" videogame. The features you unlock with Nfts will be yours forever, no subscription. Game system recognize the following Nfts collections :  
+The brand didakoo has relased in Opensea marketplace some Nfts that make you able to unlock extra features in Jungle. Sellin Nfts is the only income of the project. This is "one time purchase" videogame. The features you unlock with Nfts will be yours forever, no subscription.
+
+&ensp;
+
+Game system recognize the following Nfts collections :  
 
 - [didakoo items](https://opensea.io/collection/didakoo-items")
 - [didakoo items 2024](https://opensea.io/collection/didakoo-items-2024") 
