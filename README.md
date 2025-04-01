@@ -150,8 +150,10 @@ This is an independent video game that interacts with the following blockchains:
 
 1. <sub>0xf1e51457504edc0321DE4B6bA4403A1464c2B897</sub>
 2. <sub>0x69D96b32F731567cA61A36AAE26d387dD82b1D83</sub>
+<!-- 
 3. <sub>0x13339b04E4f54965bF9b9EBaF25dB1B5091e7b77</sub>
 4. <sub>0xF83611F45e11b590eBB9FdABa9ee12e7Dc9E9393</sub>
+-->
 
 <!-- Per giocare non è necessario fornire nessun dato sensibile alla privacy del utente, adottando una politica di completa trasparenza; l'intero archivio dei dati di gioco verrà publicato nella repo [] in modo ricorrente.  -->
 
