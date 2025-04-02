@@ -41,7 +41,7 @@ All animals can move one space forward, backward, left, or right. Animals cannot
 
 Each player has 3 x Plant squares around their Pyramid. Animals can move on and off their own plants with no effect. If, however, an animal moves on the opponent’s plant , that animal loses all of its power, and may be eaten by any of the defending animals.
 
-## The Piramid
+## Pyramids
 
 Animals are not allowed to move on their own Piramid. When an animal moves into the opponent’s Piramid, it has won the game.
 
