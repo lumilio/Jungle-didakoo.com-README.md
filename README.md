@@ -43,7 +43,7 @@ Each player has 3 x Plant squares around their Pyramid. Animals can move on and 
 
 ## Pyramids
 
-Animals are not allowed to move on their own Piramid. When an animal moves into the opponent’s Piramid, it has won the game.
+Animals are not allowed to move on their own pyramid. When an animal moves into the opponent’s pyramid, it has won the game.
 
 ![Imgur Image](http://i.imgur.com/tuJgkIV.jpg)
 
